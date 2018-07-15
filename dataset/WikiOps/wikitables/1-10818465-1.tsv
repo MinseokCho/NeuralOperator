@@ -1,8 +1,0 @@
-Model	RU	Max processors	Processor frequency	Max memory	Max disk capacity	GA Date
-M3000	2	1× SPARC64 VII or VII+	2.52, 2.75GHz (VII) or 2.86GHz (VII+)	64 GB	4× 2.5" SAS	October 2008 (VII), April 2011 (VII+)
-T1000	1	1× UltraSPARC T1	1.0GHz	32 GB	One 3.5" SATA or Two 2.5" SAS	March 2006
-T2000	2	1× UltraSPARC T1	1.0, 1.2, 1.4GHz	64 GB	Up to four 2.5" SAS	December 2005
-T5120	1	1× UltraSPARC T2	1.2, 1.4GHz	128 GB	Up to eight 2.5" SAS	November 2007
-T5140	1	2× UltraSPARC T2+	1.2, 1.4GHz	128 GB	Up to eight 2.5" SAS	April 2008
-T5220	2	1× UltraSPARC T2	1.2, 1.4GHz	128 GB	Up to sixteen 2.5" SAS	November 2007
-T5240	2	2× UltraSPARC T2+	1.2, 1.4GHz	256 GB	Up to sixteen 2.5" SAS	April 2008

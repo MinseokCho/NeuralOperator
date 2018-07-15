@@ -1,6 +1,0 @@
-Species	Species common name	NCBI Accession Number (mRNA/Protein)	Length (bp/aa)	Protein Identity
-Homo sapiens	Human	NM_014157.3 / NP_054876.2	5304bp/377aa	100%
-Pan troglodytes	Chimpanzee	XM_523504.4/ / XP_523504.2	5269bp/377aa	99%
-Mus musculus	Mouse	NM_172914.2 / NP_766502.1	1271bp/377aa	78%
-Felis catus	Cat	XM_003998086.1 / 410983617	1252bp/323aa	69%
-Xenopus (Silurona) tropicalis	Western Clawed Frog	XM_002931657.1 / 301604136	1395bp/441aa	43%

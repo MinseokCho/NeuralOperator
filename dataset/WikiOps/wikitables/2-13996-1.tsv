@@ -1,6 +1,0 @@
-Operation	Binary	Binomial	Fibonacci	Pairing	Brodal ***	Strict Fibonacci Heap
-find-min	Θ(1)	Θ(1)	Θ(1)	Θ(1)	Θ(1)	Θ(1)
-delete-min	Θ(log n)	Θ(log n)	O(log n)*	O(log n)*	O(log n)	O(log n)
-insert	Θ(log n)	O(log n)	Θ(1)	Θ(1)	Θ(1)	Θ(1)
-decrease-key	Θ(log n)	Θ(log n)	Θ(1)*	O(log n)*	Θ(1)	Θ(1)
-merge	Θ(n)	O(log n)**	Θ(1)	Θ(1)	Θ(1)	Θ(1)

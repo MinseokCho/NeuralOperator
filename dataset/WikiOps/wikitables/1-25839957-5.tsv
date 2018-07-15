@@ -1,7 +1,0 @@
-Graphics	Launch	Market	CPU	Code name	Device ID	Core clock ( MHz )	Execution units	Shader model	DirectX	OpenGL	OpenCL	Memory bandwidth ( GB/s )	DVMT ( MB )	CVT HD	QSV
-HD Graphics	2010	Desktop	Celeron G1101 PentiumG69xx	Ironlake ( Clarkdale )	42	533	12	4.0	10.0	2.1	No	17	1720	No	No
-HD Graphics	2010	Desktop	Core i3-5x0 Core i5-6x0 Core i5-655K	Ironlake ( Clarkdale )	42	733	12	4.0	10.0	2.1	No	21.3	1720	Yes	No
-HD Graphics	2010	Desktop	Core i5-661	Ironlake ( Clarkdale )	42	900	12	4.0	10.0	2.1	No	21.3	1720	Yes	No
-HD Graphics	2010	Mobile	Celeron U3xxx Pentium U5xxx	Ironlake ( Arrandale )	46	166–500	12	4.0	10.0	2.1	No	12.8	1720	No	No
-HD Graphics	2010	Mobile	Core i7-620LE Core i7-6x0LM	Ironlake ( Arrandale )	46	266–566	12	4.0	10.0	2.1	No	17.1	1720	Yes	No
-HD Graphics	2010	Mobile	Celeron P4xxx Pentium P6xxx	Ironlake ( Arrandale )	46	500–667	12	4.0	10.0	2.1	No	17.1	1720	No	No

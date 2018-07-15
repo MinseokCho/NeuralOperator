@@ -1,7 +1,0 @@
-Technology	Analysis Time	Average Read Length	Throughput (including analysis)	Gel Pouring
-Slab Gel	6–8 hours	700bp	67.2 kb/hr	Yes
-Capillary Array Electrophoresis	1–3 hours	700bp	166 kb/hr	No
-Microchip	6–30 minutes	430bp	660 kb/hr	No
-454/Roche FLX	4 hours	200-300bp	20-30 Mb/hr	No
-Illumina/Solexa	2–3 days	30-100bp	20 Mb/hr	No
-ABI/SOLiD	8 days	35bp	5-15 Mb/hr	No

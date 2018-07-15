@@ -1,8 +1,0 @@
-Name	Platform	Supported databases	Tracking Method	Latest stable release	License
-Analog	C	Logfile-based	Web log files	6.0	GNU GPL
-AWStats	Perl	Logfile-based	Web log files	7.1	GNU GPL
-CrawlTrack	PHP	MySQL	PHP pagetag	3.3.2	GNU GPL
-Open Web Analytics	PHP	MySQL	JavaScript or PHP pagetag	1.5.2	GNU GPL
-Piwik	PHP	MySQL	JavaScript or PHP pagetag or Web log files	1.12	GNU GPL
-W3Perl	Perl	Logfile-based	Web log files	3.17	GNU GPL
-Webalizer	C	Logfile-based	Web log files	2.23-05	GNU GPL

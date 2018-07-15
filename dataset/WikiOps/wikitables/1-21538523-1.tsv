@@ -1,7 +1,0 @@
-Class	Weapon	Caliber	Type	Weight (g)	Range (m)	Velocity (m/s)	Impact Energy	Shots
-BR1	Handgun/Rifle	.22 LR	LB/RN	2,6 ± 0,1	10,00 ± 0,5	360 ± 10	170 J	3
-BR2	Handgun	9x19mm Parabellum	FJ/RN/SC	8,0 ± 0,1	5,00 ± 0,5	400 ± 10	640 J	3
-BR3	Handgun	.357 Magnum	FJ/CB/SC	10,2 ± 0,1	5,00 ± 0,5	430 ± 10	940 J	3
-BR4	Handgun	.44 Magnum	FJ/FN/SC	15,6 ± 0,1	5,00 ± 0,5	440 ± 10	1510 J	3
-BR5	Rifle	5.56x45mm NATO	FJ/PB/SCP	4,0 ± 0,1	10,00 ± 0,5	950 ± 10	1800 J	3
-BR6	Rifle	7.62x51mm NATO	FJ/PB/SC	9,5 ± 0,1	10,00 ± 0,5	830 ± 10	3270 J	3

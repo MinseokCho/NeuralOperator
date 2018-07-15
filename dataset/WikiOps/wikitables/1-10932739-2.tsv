@@ -1,9 +1,0 @@
-Planet	Planet Type	Semimajor Axis ( AU )	Orbital Period	Radial velocity (m/s)	Detectable by:
-51 Pegasi b	Hot Jupiter	0.05	4.23 days	55.9	First-generation spectrograph
-55 Cancri d	Gas giant	5.77	14.29 years	45.2	First-generation spectrograph
-Jupiter	Gas giant	5.20	11.86 years	12.4	First-generation spectrograph
-Gliese 581c	Super-Earth	0.07	12.92 days	3.18	Second-generation spectrograph
-Saturn	Gas giant	9.58	29.46 years	2.75	Second-generation spectrograph
-Alpha Centauri Bb	Terrestrial planet	0.04	3.23 days	0.510	Second-generation spectrograph
-Neptune	Ice giant	30.10	164.79 years	0.281	Third-generation spectrograph
-Earth	Habitable planet	1.00	365.26 days	0.089	Third-generation spectrograph (likely)

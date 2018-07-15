@@ -1,9 +1,0 @@
-Codename (main article)	Brand name (list)	Cores	L3 Cache	Socket	TDP	I/O Bus
-Sandy Bridge (Desktop)	Core i3-21xx	2	3 MB	LGA 1155	65 W	Direct Media Interface , Integrated GPU
-Sandy Bridge (Desktop)	Core i3-21xxT	2	3 MB	LGA 1155	35 W	Direct Media Interface , Integrated GPU
-Ivy Bridge (Desktop)	Core i3-32xxT	2	3 MB	LGA 1155	35 W	Direct Media Interface , Integrated GPU
-Ivy Bridge (Desktop)	Core i3-32xx	2	3 MB	LGA 1155	55 W	Direct Media Interface , Integrated GPU
-Sandy Bridge (Mobile)	Core i3-2xx0M	2	3 MB	rPGA-988B BGA-1023	35 W	Direct Media Interface , Integrated GPU
-Sandy Bridge (Mobile)	Core i3-2xx7M	2	3 MB	BGA-1023	17 W	Direct Media Interface , Integrated GPU
-Ivy Bridge (Mobile)	Core i3-3xx0M	2	3 MB	rPGA-988B BGA-1023	35 W	Direct Media Interface , Integrated GPU
-Ivy Bridge (Mobile)	Core i3-3xx7U	2	3 MB	BGA-1023	17 W	Direct Media Interface , Integrated GPU

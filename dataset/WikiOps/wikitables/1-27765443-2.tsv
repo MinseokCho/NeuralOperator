@@ -1,7 +1,0 @@
-Model - Computer name	CPU type	No. of processors	Period of operation	Maximum peak performance ( Teraflops )	Use
-Cray XT4 - La Dôle	AMD Opteron quad-core Barcelona 2.3GHz	160 (640 cores )	May 2007 - June 2012	5.88	Numerical weather prediction ( MeteoSwiss )
-Cray XT4 - Piz Buin	AMD Opteron quad-core Barcelona 2.3GHz	264 (1056 cores )	May 2007 - June 2012	9.71	Numerical weather prediction ( MeteoSwiss )
-IBM System p 575 - Mont Blanc	IBM Power 5 1.5GHz	768	October 2006 - January 2010	4.6	Research ( s computer simulation )
-Cray XT3 - Piz Palü	AMD Opteron dual-core 2.6GHz	1664 (3328 cores )	June 2005 - April 2009	17.31	Research ( s computer simulation )
-IBM System p 690 - MPP	IBM Power 4 1.3GHz	256	2002 - 2006	1.33	Research ( s computer simulation )
-NEC SX-4 - Gottardo	NEC SX-4 vector processor	16	1995 - 2004	0.032	Research ( s computer simulation )

@@ -1,9 +1,0 @@
-Name	Number of sequences Number of sequences: .	Alignment Alignment: predicts an alignment , .	Structure Structure: predicts structure , .	Link
-Alifoldz	any	input	yes	sourcecode
-EvoFold	any	input	yes	linuxbinary
-GraphClust	any	yes	yes	sourcecode
-MSARi	any	input	yes	sourcecode
-QRNA	2	input	yes	sourcecode
-RNAz	any	input	yes	sourcecode, webserver RNAz 2
-Xrate	any	yes	yes	sourcecode
-Notes:	Notes:	Notes:	Notes:	Notes:

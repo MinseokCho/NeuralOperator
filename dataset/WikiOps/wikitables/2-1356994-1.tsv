@@ -1,6 +1,0 @@
-FOURCC	DX 10 Name	Description	Alpha premultiplied?	Compression ratio	Texture Type
-DXT1	BC1	1-bit Alpha / Opaque	N/A	6:1(for 24 bit source image)	Simple non-alpha
-DXT2	(none)	Explicit alpha	Yes	4:1	Sharp alpha
-DXT3	BC2	Explicit alpha	No	4:1	Sharp alpha
-DXT4	(none)	Interpolated alpha	Yes	4:1	Gradient alpha
-DXT5	BC3	Interpolated alpha	No	4:1	Gradient alpha

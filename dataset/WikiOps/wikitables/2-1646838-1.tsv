@@ -1,8 +1,0 @@
-Technology	Moving Parts	Room Temperature	Flammable	Toxic Materials	In production	Rare metals
-flow	Yes	Yes	No	Yes	No	No
-liquid metal	No	No	Yes	No	No	No
-Sodium-Ion	No	No	Yes	No	No	No
-Lead-Acid	No	Yes	No	Yes	Yes	No
-Sodium-sulfur batteries	No	No	No	Yes	Yes	No
-Ni-Cd	No	Yes	No	Yes	Yes	Yes
-Lithium-ion	No	Yes	Yes	No	Yes	No

@@ -1,6 +1,0 @@
-Engine	Power, continuous	Critical altitude This is the highest altitude at which the engine can achieve its full continuous power rating. Above this altitude, power falls off with height as with a naturally aspirated engine . See Supercharger#Altitude effects for details.	Power, takeoff	Compression ratio	Supercharger gear ratio	Octane rating	Dry weight
-Wasp Jr. A	hp (kW) at 2,000 RPM	sea level	same	5.0:1	7:1	68	lb (kg)
-Wasp Jr. TB	hp (kW) at 2,200 RPM	sea level	hp (kW) at 2,300 RPM	6.0:1	8:1	80	lb (kg)
-Wasp Jr. SB	hp (kW) at 2,200 RPM	ft (m)	hp (kW) at 2,300 RPM	6.0:1	10:1	80/87	lb (kg)
-Wasp Jr. T1B2	hp (kW) at 2,300 RPM	ft (m)	same	6.0:1	10:1	80/87	lb (kg)
-Wasp Jr. B4	hp (kW) at 2,300 RPM	ft (m)	same	6.0:1	10:1	80/87	lb (kg)

@@ -1,9 +1,0 @@
-Serial & Branch	Seaman	Mechanical	Secretariat	Supply	Electrical	Radio Electrical	Regulating	Medical
-1	OD ( Ordinary Seaman )	ME II	WTR II	SA II	EN II	REN II	PM II	MA II
-2	AB ( Able Seaman )	ME I	WTR I	SA I	EN I	REN I	PM I	MA I
-3	LS ( Leading Seaman )	LME	LWTR	LSA	LEN	LREN	LPM	LMA
-4	PO ( Petty Officer )	ERA-IV	PO(W)	PO(S)	EA-IV	REA-IV	PO(R)	PO(Med)
-5	CPO ( Chief Petty Officer )	ERA-I/II/III	CPO(W)	CPO(S)	EA-I/II/III	REA-I/II/III	CPO(REG)	CPO(Med)
-6	SCPO ( Senior Chief Petty Officer )	SCPO(E),CERA	SCPO(W)	SCPO(S)	SCPO(L),CEA	SCPO(R),CREA	SCPO(Reg)	SCPO(Med)
-7	MCPO ( Master Chief Petty Officer )	MCPO(E)	MCPO(S)	MCPO(S)	MCPO(L)	MCPO(R)	MCPO(Reg)	MCPO(Med)
-8	Honorary Sub Lieutenant(X)	Hon S Lt(E)	Hon S Lt(S)	Hon S Lt(S)	Hon S Lt(L)	Hon S Lt(R)	Hon S Lt(Reg)	Hon S Lt(W/M)

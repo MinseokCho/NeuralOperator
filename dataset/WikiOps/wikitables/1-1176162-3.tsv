@@ -1,7 +1,0 @@
-model	cylinders/ valves	displacement cc	max. power kW (PS) at rpm	max. torque (Nm) at rpm	engine code	top speed (km/h)	production period
-1.4 16V	R4/16	1390	55 (75) / 5,000	126 / 3,800	AHW / AXP / AKQ / APE / AUA / BCA	170	1999–2004
-1.6	R4/8	1595	74 (101) / 5,600	145 / 3,800	AKL / AEH / APF	188	1999–2000
-1.6 16V	R4/16	1598	77 (105) / 5,700	148 / 4,500	AUS / AZD / ATN / BCB	192	2000–2004
-1.8 20V	R4/20	1781	92 (125) / 6,000	170 / 4,200	AGN / APG	200	1999–2003
-1.8 20V T	R4/20	1781	132 (180) / 5,500	235 / 1,950–5,000	AUQ	229	2003–2004
-2.3 V5	VR5/10	2324	110 (150) / 6,000	205 / 3,200	AGZ	216	1999–2000

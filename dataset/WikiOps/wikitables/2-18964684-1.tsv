@@ -1,8 +1,0 @@
-Model	Years	Engine code	Power	Torque
-sDrive18i	2010-	N46B20	PS (kW; hp)@6400	N·m (lb·ft)@3600
-xDrive18i	2010-	N46B20	PS (kW; hp)@6000	N·m (lb·ft)@4250
-sDrive20i xDrive20i	2011-	N20B20	PS (kW; hp)@5000-6250	N·m (lb·ft)@1250-4500
-xDrive25i	2010-2011	N52B30	PS (kW; hp)@6100	N·m (lb·ft)@2500
-xDrive28i	2009-2011	N52B30	PS (kW; hp)@6600	N·m (lb·ft)@2600-3000
-xDrive28i sDrive28i	2011 2012-	N20B20	PS (kW; hp)@5000-6500	N·m (lb·ft)@1250-4800
-xDrive35i	2012-	N55B30	hp (kW; PS)@5800	N·m (lb·ft)@1300-5000

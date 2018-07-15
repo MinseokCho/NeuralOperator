@@ -1,7 +1,0 @@
--	MegaSquirt	MegaSquirt II	MicroSquirt	MS2 Sequencer	MegaSquirt 3	VEMS	FreeEMS
-Processor	8-Bit MC68HC908	16-Bit MC9S12C64	16-Bit MC9S12C64	Dual 16-bit MC9S12C64	16-Bit MC9S12XEP100	AVR Atmega128	16-Bit MC9S12XDP512
-Speed	8MHz	24MHz	24MHz	2 x 24MHz	50MHz / 100MHz	16MHz	40MHz
-Flash	32 kB	128 kB	128 kB	2 x 128 kB	1024 kB + 32kB	128 kB	512 kB
-User RAM	512 B	4 kB	4 kB	2 x 4 kB	64 kB	4 kB	32 kB
-Total IO pins	34 max with mods	31 max with mods	31 max with mods	62 max	91	53 max	91 or 119
-ADC/ATD pins	8 (8 bit)	8 (10 bit)	8 (10 bit)	16 (10 bit)	16, 24 or 32 (12 bit)	16 (8 bit)	16 or 24 (10 bit)

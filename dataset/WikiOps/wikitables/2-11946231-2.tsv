@@ -1,9 +1,0 @@
-Model	FSB (MHz)	Chipset	Memory	Graphics
-Precision 330	400	Intel 850	Rambus	AGP
-Precision 340	400 or 533	Intel 850E	Rambus	AGP
-Precision 350	400 or 533	Intel 850E	Rambus	AGP 4X
-Precision 360	800	Intel 875	DDR ECC	AGP 8X
-Precision 370	800	Intel 925	DDR2 ECC	PCI Express
-Precision 380	800 or 1066	Intel 955	DDR2 ECC	PCI Express
-Precision 390	800 or 1066	Intel 975	DDR2 ECC	PCI Express
-Precision T3400	1066 or 1333	Intel X38 Express	DDR2 ECC	PCI Express

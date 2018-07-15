@@ -1,7 +1,0 @@
-Vendor and type	Models	NetFlow Version	Implementation	Comments
-Cisco IOS-XR routers	CRS , ASR9000 old 12000	v5, v8, v9	Software running on line card CPU	Comprehensive support for IPv6 and MPLS
-Alcatel-Lucent routers	7750SR	v5, v8, v9, IPFIX	Software running on Central Processor Module	IPv6 or MPLS using IOM3 line cards or better
-Huawei routers	NE5000E NE40E/X NE80E	v5, v9	Software running on service cards	Support for IPv6 or MPLS is unknown
-Enterasys Switches	S-Serie and N-Serie	v5, v9	Dedicated hardware	IPv6 support is unknown
-PC and Servers	Linux FreeBSD NetBSD OpenBSD	v5, v9, IPFIX	Software like fprobe, ipt-netflow or pflow	IPv6 support depend on the software used
-VMware servers	vSphere 5.x	v5	Software	IPv6 support is unknown

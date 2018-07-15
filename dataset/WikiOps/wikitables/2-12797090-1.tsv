@@ -1,8 +1,0 @@
-Model	Floating point	Decimal	Byte string	Memory map	Max memory (kwords)
-Sigma 7	optional	optional	standard	optional	128
-Sigma 5	optional	N/A	N/A	N/A	128
-Sigma 6	optional	standard	standard	standard	128
-Sigma 9	standard	standard	standard	standard	512
-Sigma 8	standard	N/A	N/A	N/A	128
-Sigma 9 model 2	standard	standard	standard	standard	256
-Sigma 9 model 3	standard	N/A	N/A	standard	512

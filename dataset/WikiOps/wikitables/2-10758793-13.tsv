@@ -1,7 +1,0 @@
-FAT16	FAT32	HPFS	ISO 9660	NTFS	ReFS
-Yes	No	Yes	Yes	Yes v1.0/v1.1	No
-Yes	No	Partial	Yes	Yes v1.2	No
-Yes	Yes	No	Yes	Yes v3.0	No
-Yes	Yes	No	Yes	Yes v3.1	No
-Yes	Yes	No	Yes	Yes v5	No
-Yes	Yes	No	Yes	Yes v5	Yes

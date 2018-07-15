@@ -1,7 +1,0 @@
-Model	Year	Code name	Fab ( nm )	Bus interface	Transistor count (Millions)	Memory max ( MiB )	Core ( MHz )	Memory ( MHz )	Type	Bus Width ( Bit )	DirectX	Shader Model	OpenGL	Maximum Resolution	IceQ4 Cooling System	Notes
-HIS HD4850 (512MB)	June 2008	RV770 PRO	55	PCIe 2.0 x16	956	512	625	993 / 1986	GDDR3	256	10.1	4.1	2.0	Two x 2560*1600 (Dual dual-link)	No	UVD 2, PowerPlay
-HIS HD4850 IceQ 4 (512MB / 1024MB)	August 2008	RV770 PRO	55	PCIe 2.0 x16	956	512 / 1024	625	993 / 1986	GDDR3	256	10.1	4.1	2.0	Two x 2560*1600 (Dual dual-link)	Yes	UVD 2, PowerPlay
-HIS HD4850 IceQ 4 Turbo (512MB)	August 2008	RV770 PRO	55	PCIe 2.0 x16	956	512	650	1000 / 2000	GDDR3	256	10.1	4.1	2.0	Two x 2560*1600 (Dual dual-link)	Yes	UVD 2, PowerPlay
-HIS HD4850 IceQ 4 TurboX (512MB)	TBA	RV770 PRO	55	PCIe 2.0 x16	956	512	685	1100 / 2200	GDDR3	256	10.1	4.1	2.0	Two x 2560*1600 (Dual dual-link)	Yes	UVD 2, PowerPlay
-HIS HD4870 (512MB/1024MB)	June 2008	RV770 XT	55	PCIe 2.0 x16	956	512 / 1024	750	900 / 3600	GDDR5	256	10.1	4.1	2.0	Two x 2560*1600 (Dual dual-link)	No	UVD 2, PowerPlay
-HIS HD 4870 Turbo (512MB)	TBA	RV770 XT	55	PCIe 2.0 x16	956	512	780	1000 / 4000	GDDR5	256	10.1	4.1	2.0	Two x 2560*1600 (Dual dual-link)	No	UVD 2, PowerPlay

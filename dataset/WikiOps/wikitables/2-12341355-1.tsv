@@ -1,7 +1,0 @@
-Model	Code name	CPU support	FSB / HT (MHz)	Southbridge
-AMD-640 chipset	AMD-640	K6 , Cyrix 6x86	66 (FSB)	AMD-645
-AMD-750 chipset	AMD-751	Athlon , Duron ( SlotA , SocketA ), Alpha21264	100 (FSB)	AMD-756, VIA-VT82C686A
-AMD-760 chipset	AMD-761	Athlon, AthlonXP, Duron( SocketA ), Alpha21264	133 (FSB)	AMD-766, VIA-VT82C686B
-AMD-760MP chipset	AMD-762	AthlonMP	133 (FSB)	AMD-766
-AMD-760MPX chipset	AMD-762	AthlonMP	133 (FSB)	AMD-768
-AMD-8000 series chipset	AMD-8111	Opteron	800 (HT1.x)	AMD-8131 AMD-8132

@@ -1,7 +1,0 @@
-Model Number	Clock Speed	L2 Cache	FSB Speed	Clock Multiplier	Voltage Range	TDP	Socket	Release Date
-C7-M 754	1.5 GHz	128 KB	400 MHz	15×	1.004 V	12 W	Socket 479	June 1, 2005
-C7-M 764	1.6 GHz	128 KB	400 MHz	16×	1.084 V	15 W	Socket 479	June 1, 2005
-C7-M 765	1.6 GHz	128 KB	533 MHz	12×	1.084 V	15 W	Socket 479	June 1, 2005
-C7-M 784	1.8 GHz	128 KB	400 MHz	18×	1.148 V	18 W	Socket 479	June 1, 2005
-C7-M 785	1.86 GHz	128 KB	533 MHz	14×	1.148 V	18 W	Socket 479	June 1, 2005
-C7-M 794	2 GHz	128 KB	400 MHz	20×	1.196 V	20 W	Socket 479	June 1, 2005

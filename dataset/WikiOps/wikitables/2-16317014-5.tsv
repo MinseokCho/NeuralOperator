@@ -1,8 +1,0 @@
-Model Number	Frequency	L2-Cache	Front Side Bus	Multiplier	Voltage	Idle Power	Socket
-Eden ULV 500	500 MHz	128 KiB	400 MT/s	5×	0.684 V	100 mW	NanoBGA2
-Eden ULV 500	500 MHz	128 KiB	400 MT/s	5×	0.6875 V	 mW	MobileBGA
-Eden ULV 1.0GHz	1000 MHz	128 KiB	400 MT/s	10×	0.796 V	500 mW	NanoBGA2
-Eden ULV 1.0GHz	1000 MHz	128 KiB	400 MT/s	10×	0.8000 V	 mW	MobileBGA
-Eden ULV 1.5GHz	1500 MHz	128 KiB	400 MT/s	15×	0.956 V	500 mW	NanoBGA2
-Eden ULV 1.6GHz	1600 MHz	128 KiB	800 MT/s	7.5×	≤0.988 V	 mW	NanoBGA2
-Eden ULV 1.6GHz	1600 MHz	128 KiB	800 MT/s	7.5×	≤0.9875 V	 mW	MobileBGA

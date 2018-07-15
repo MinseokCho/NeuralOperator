@@ -1,6 +1,0 @@
-Product	Extensions	Projects templates	MSDN integration	Debugging	Profiling	IntelliTrace	Unit test	Code coverage	Test impact analysis	Load testing	Lab management	Architecture and modelling	Windows Phone development
-Express	No	Limited	Essential	Yes	No	No	No	No	No	No	No	No	Yes
-Professional	Yes	Yes	Full or Essentials	Yes	No	No	Yes	No	No	No	No	No	Yes
-Premium	Yes	Yes	Full	Yes	Yes	No	Yes	Yes	Yes	No	No	Read-only	Yes
-Ultimate	Yes	Yes	Full	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
-Test Professional	No	No	Full	No	No	No	No	No	Yes	No	Yes	No	No

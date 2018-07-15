@@ -1,9 +1,0 @@
-Platform	Frequency (per hour)	Destination	Service Pattern	Operator	Line
-1	4	Highbury & Islington	All stations via Shoreditch High Street	London Overground	East London
-1	4	Dalston Junction	All stations via Shoreditch High Street	London Overground	East London
-1	4	London Bridge	All stations	Southern	Metro
-2	4	Crystal Palace	All Stations	London Overground	East London
-2	4	West Croydon	All stations	London Overground	East London
-2	2	London Victoria (Mon-Sat)	All stations via Clapham Junction	Southern	Metro
-2	2	Caterham (Mon-Sat)	All stations via East Croydon	Southern	Metro
-2	2	West Croydon (Peaks & Sun only)	Sydenham then fast to Norwood Junction	Southern	Metro

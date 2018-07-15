@@ -1,7 +1,0 @@
-Abbr.	Name	Picture Coding Types	Chroma Format	Aspect Ratios	Scalable modes	Intra DC Precision
-SP	Simple profile	I, P	4:2:0	square pixels, 4:3, or 16:9	none	8, 9, 10
-MP	Main profile	I, P, B	4:2:0	square pixels, 4:3, or 16:9	none	8, 9, 10
-SNR	SNR Scalable profile	I, P, B	4:2:0	square pixels, 4:3, or 16:9	SNR (signal-to-noise ratio) scalable	8, 9, 10
-Spatial	Spatially Scalable profile	I, P, B	4:2:0	square pixels, 4:3, or 16:9	SNR- or spatial-scalable	8, 9, 10
-HP	High profile	I, P, B	4:2:2 or 4:2:0	square pixels, 4:3, or 16:9	SNR- or spatial-scalable	8, 9, 10, 11
-422	4:2:2 profile	I, P, B	4:2:2 or 4:2:0	square pixels, 4:3, or 16:9	none	8, 9, 10, 11

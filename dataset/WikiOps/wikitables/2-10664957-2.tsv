@@ -1,9 +1,0 @@
-1st player's choice	2nd player's choice	Probability 1st player wins	Probability 2nd player wins	Probability of a draw
-BB B	R BB	0.11%	99.49%	0.40%
-BB R	R BB	2.62%	93.54%	3.84%
-BR B	B BR	11.61%	80.11%	8.28%
-BR R	B BR	5.18%	88.29%	6.53%
-RB B	R RB	5.18%	88.29%	6.53%
-RB R	R RB	11.61%	80.11%	8.28%
-RR B	B RR	2.62%	93.54%	3.84%
-RR R	B RR	0.11%	99.49%	0.40%

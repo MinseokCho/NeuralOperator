@@ -1,6 +1,0 @@
-Model	Year	Die Size (mm 2 ) [1]	Config core [2]	MTriangles/s [1]	MPixel/s [1]	Bus width ( bit )	DirectX	OpenGL	OpenGL ES	GFLOPS(@ 200MHz)	Frequency
-SGX520	Jul 2005	2.6@65nm	1/1	7	100	32-128	N/A	N/A	2.0	0.8	200
-SGX530	Jul 2005	7.2@65nm	2/1	14	200	32-128	N/A	N/A	2.0	1.6	200
-SGX531	Oct 2006	65nm	2/1	14	200	32-128	N/A	N/A	2.0	1.6	200
-SGX535	Nov 2007	65nm	2/2	14	400	32-128	9.0c	2.1	2.0	1.6	200
-SGX540	Nov 2007	65nm	4/2	20	400	32-128	N/A	N/A	2.0	3.2	200

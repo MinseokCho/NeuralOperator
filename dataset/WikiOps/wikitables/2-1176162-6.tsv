@@ -1,8 +1,0 @@
-engine name	engine configuration	displacement	max. power at rpm	max. torque at rpm
-Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines
-1.2 MPI	inline-3 DOHC 12v	cc (cuin)	PS ( kW ; bhp ) @ 5,400	N·m ( lbf·ft ) @ 3,750
-1.2 TSI	inline-4 SOHC 8v	cc (cuin)	PS ( kW ; bhp ) @ 4,800	N·m ( lbf·ft ) @ 1,500-3,500
-1.2 TSI Ecomotive	inline-4 SOHC 8v	cc (cuin)	PS ( kW ; bhp ) @ 5,000	N·m ( lbf·ft ) @ 1,550-4,100
-1.4 TSI	inline-4 DOHC 16v	cc (cuin)	PS ( kW ; bhp ) @ 5,000	N·m ( lbf·ft ) @ 1,500-4,000
-Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines
-1.6 TDI Ecomotive	inline-4 DOHC 16v	cc (cuin)	PS ( kW ; bhp ) @ 4,400	N·m ( lbf·ft ) @ 1,500-2,500

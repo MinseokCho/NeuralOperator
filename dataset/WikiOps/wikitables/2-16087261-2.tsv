@@ -1,7 +1,0 @@
-Name	Level	Digits	Average size (square miles)	Number of HUs (approximate)	Example name	Example code (HUC)
-Region	1	2	177,560	21	Pacific Northwest	17
-Subregion	2	4	16,800	222	Lower Snake	1706
-Basin	3	6	10,596	370	Lower Snake	170601
-Subbasin	4	8	700	2,200	Imnaha River	17060102
-Watershed	5	10	227 (40,000–250,000 acres)	22,000	Upper Imnaha River	1706010201
-Subwatershed	6	12	40 (10,000–40,000 acres)	160,000	South Fork Imnaha River	170601020101

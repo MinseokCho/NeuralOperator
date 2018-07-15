@@ -1,6 +1,0 @@
-Model number	Printer ports	Network ports	Network protocols	Firmware	Notes
-EX Plus	One Parallel	10Base-2 and 10Base-T	TCP/IP, IPX/SPX, and DLC/LLC	Flash EEPROM	BOOTP & DHCP Client
-EX Plus3	Three Parallel	10Base-2 and 10Base-T	TCP/IP, IPX/SPX, AppleTalk, and DLC/LLC	Flash EEPROM	DHCP Client (not BOOTP)
-170x	One Parallel ( IEEE 1284.4)	One RJ45 10Base-T Ethernet	TCP/IP, IPX/SPX, and DLC/LLC	Non-upgradeable	Discontinued
-175x	One USB 1.0	One RJ45 10/100Base-TX Ethernet	TCP/IP, AppleTalk, LPD (Windows and Mac OS only)	Non-upgradeable	Discontinued in favor of the en1700
-310x	One USB 1.0	One RJ45 10/100Base-TX Ethernet	TCP/IP, IPX/SPX, AppleTalk, and DLC/LLC	2 MB	Discontinued in favor of the en3700

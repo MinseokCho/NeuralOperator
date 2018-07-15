@@ -1,9 +1,0 @@
-Fluorescent dye	Color	mass (g/mol)	Absorb (nm)	Emit (nm)	ε (M −1 cm −1 )
-FluoProbes 390	violet	343	390	479	24 000
-FluoProbes 488	green	804	493	519	85 000
-FluoProbes 532	yellow	765	532	553	117 000
-FluoProbes547H	orange	736	557	574	150 000
-FluoProbes 594	red	1137	601	627	120 000
-FluoProbes647H	far-red	761	653	674	250 000
-FluoProbes 682	far-red	853	690	709	140 000
-FluoProbes 752	near-IR	879	748	772	270 000

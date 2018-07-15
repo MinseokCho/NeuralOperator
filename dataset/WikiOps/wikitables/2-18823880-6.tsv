@@ -1,8 +1,0 @@
-Model number	sSpec number	Cores	Frequency	Turbo	L2 cache	L3 cache	GPU model	GPU frequency	Socket	I/O bus	Release date	Part number(s)	Release price ( USD )
-standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power
-Core i7-3770	SR0PK(E1)	4	3.4 GHz	3/4/5/5	4 × 256 KB	8 MB	HD Graphics 4000	650–1150 MHz	LGA 1155	DMI 2.0	April 2012	CM8063701211600BX80637I73770BXC80637I73770	$278
-Core i7-3770K	SR0PL(E1)	4	3.5 GHz	2/3/4/4	4 × 256 KB	8 MB	HD Graphics 4000	650–1150 MHz	LGA 1155	DMI 2.0	April 2012	CM8063701211700BX80637I73770KBXC80637I73770K	$313
-low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power
-Core i7-3770S	SR0PN(E1)	4	3.1 GHz	4/5/7/8	4 × 256 KB	8 MB	HD Graphics 4000	650–1150 MHz	LGA 1155	DMI 2.0	April 2012	CM8063701211900BX80637I73770S	$278
-ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power	ultra-low power
-Core i7-3770T	SR0PQ(E1)	4	2.5 GHz	6/9/11/12	4 × 256 KB	8 MB	HD Graphics 4000	650–1150 MHz	LGA 1155	DMI 2.0	April 2012	CM8063701212200BX80637I73770T	$278

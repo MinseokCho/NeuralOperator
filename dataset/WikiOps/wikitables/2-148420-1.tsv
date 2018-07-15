@@ -1,6 +1,0 @@
-Name	Vertices V	Edges E	Faces F	Euler characteristic: V − E + F
-Tetrahedron	4	6	4	2
-Hexahedron or cube	8	12	6	2
-Octahedron	6	12	8	2
-Dodecahedron	20	30	12	2
-Icosahedron	12	30	20	2

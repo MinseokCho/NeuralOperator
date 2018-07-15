@@ -1,7 +1,0 @@
-Band	Regulations	Range	Data speed	Remarks	Approximate tag cost in volume (2006) US $
-120–150kHz (LF)	Unregulated	10cm	Low	Animal identification, factory data collection	$1
-13.56MHz (HF)	ISM band worldwide	10cm - 1 m	Low to moderate	Smart cards ( MIFARE , ISO/IEC 14443 )	$0.50
-433MHz (UHF)	Short Range Devices	1–100 m	Moderate	Defence applications, with active tags	$5
-865-868MHz (Europe) 902-928MHz (North America) UHF	ISM band	1–12 m	Moderate to high	EAN, various standards	$0.15 (passive tags)
-2450-5800MHz ( microwave )	ISM band	1–2 m	High	802.11 WLAN, Bluetooth standards	$25 (active tags)
-3.1–10GHz (microwave)	Ultra wide band	to 200 M	High	requires semi-active or active tags	$5 projected

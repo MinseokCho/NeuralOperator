@@ -1,7 +1,0 @@
-Name	E-mail server	Faxing	Instant messaging	Telephony	Videoconferencing	Web conferencing	Data conferencing	Application sharing	Electronic meeting system	Synchronous conferencing
-IBM Sametime	No, integrated with Lotus Domino	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
-IBM Lotus Domino	Yes	Yes	Yes with integrated Sametime	Yes with integrated Sametime	Yes with integrated Sametime	Yes with integrated Sametime	No	Yes with integrated Sametime	Yes with integrated Sametime	No
-Microsoft Exchange Server	Yes	Yes	No	No	No	No	No	No	Yes	No
-Microsoft Lync Server	No, integrated with Exchange Server	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
-Microsoft SharePoint	No, integrated with Exchange Server	No	No	No	No	No	No	No	Yes	No
-Name	E-mail server	Faxing	Instant messaging	Telephony	Videoconferencing	Web conferencing	Data conferencing	Application sharing	Electronic meeting system	Synchronous conferencing

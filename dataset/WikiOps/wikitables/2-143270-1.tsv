@@ -1,6 +1,0 @@
-HyperTransport version	Year	Max. HT frequency	Max. link width	Max. aggregate bandwidth (bi-directional)	Max. bandwidth at 16-bit unidirectional	Max. bandwidth at 32-bit unidirectional*
-1.0	2001	800MHz	32-bit	12.8 GB/s	3.2 GB/s	6.4 GB/s
-1.1	2002	800MHz	32-bit	12.8 GB/s	3.2 GB/s	6.4 GB/s
-2.0	2004	1.4GHz	32-bit	22.4 GB/s	5.6 GB/s	11.2 GB/s
-3.0	2006	2.6GHz	32-bit	41.6 GB/s	10.4 GB/s	20.8 GB/s
-3.1	2008	3.2GHz	32-bit	51.2 GB/s	12.8 GB/s	25.6 GB/s

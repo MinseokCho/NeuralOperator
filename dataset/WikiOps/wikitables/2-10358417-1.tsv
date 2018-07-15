@@ -1,7 +1,0 @@
-Model	Sensor resolution	Angle	Released	Latest software
-TrackIR 1	60k pixels (e.g. 300×200)	33	2001	Version 3.x
-TrackIR 2	60k pixels (e.g. 300×200)	33	2003	Version 3.x
-TrackIR 3	355×288	33	2004	Version 4.x
-TrackIR 3:PRO	355×288	33	2004	Version 4.x
-TrackIR 4:PRO	355×288 (sub-sampled at 710×288)	46	2005	Version 4.x
-TrackIR 5	640×480	51.7	2009	Version 5.x

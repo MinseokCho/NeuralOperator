@@ -1,8 +1,0 @@
-Code name	Brand name	Model (list)	Frequency	Cores/Threads	Max Memory Speed
-Lynnfield	Core i5	i5-7xx	2.66-2.8GHz	4/4	DDR3-1333
-Lynnfield	Core i7	i7-8xx	2.8-3.07GHz	4/8	DDR3-1333
-Lynnfield	Xeon	L34xx	1.86GHz	4/4 or 4/8	DDR3-1333
-Lynnfield	Xeon	X34xx	2.4-2.93GHz	4/4 or 4/8	DDR3-1333
-Clarkdale	Celeron	G1xxx	2.26GHz	2/2	DDR3-1066
-Clarkdale	Pentium	G6xxx	2.80GHz	2/2	DDR3-1066
-Clarkdale	Core i3	i3-5xx	2.93-3.2GHz	2/4	DDR3-1333
