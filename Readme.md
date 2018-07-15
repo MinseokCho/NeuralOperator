@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1KblLjpVdxoL_haORmjJ2wmwUfPSllOzx?usp=sha
 
 Dataset Format
 --------------
-file.txt (Tab-separated)
-"table file name"	"operation"	"condition"	"question"	"operand information"	"answer"
-
+file.txt (Tab-separated)\n
+"table file name"\t"operation"\t"condition"\t"question"\t"operand information"\t"answer"
+\n\n
 If an instance has more than one value, it is separated by ';'
