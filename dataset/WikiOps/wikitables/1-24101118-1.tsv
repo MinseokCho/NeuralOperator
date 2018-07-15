@@ -1,0 +1,7 @@
+Processor	Brand Name	Model (list)	Cores	L2 Cache	Socket	TDP
+Yorkfield	Xeon	X33x0	4	2×3–2×6 MB	LGA 775	65–95 W
+Yorkfield-CL	Xeon	X33x3	4	2×3–2×6 MB	LGA 771	80 W
+Yorkfield-6M	Core 2 Quad	Q8xxx	4	2×2 MB	LGA 775	65–95 W
+Yorkfield-6M	Core 2 Quad	Q9x0x	4	2×3 MB	LGA 775	65–95 W
+Yorkfield	Core 2 Quad	Q9x5x	4	2×6 MB	LGA 775	65–95 W
+Yorkfield XE	Core 2 Extreme	QX9xxx	4	2×6 MB	LGA 775	130–136 W

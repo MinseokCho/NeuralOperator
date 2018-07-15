@@ -1,0 +1,7 @@
+Model number	sSpec number	Cores	Frequency	Turbo	L2 cache	L3 cache	GPU model	GPU frequency	Socket	I/O bus	Release date	Part number(s)	Release price ( USD )
+standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power
+Core i7-2600	SR00B(D2)	4	3.4 GHz	1/2/3/4	4 × 256 KB	8 MB	HD Graphics 2000	850–1350 MHz	LGA 1155	DMI 2.0	January 2011	CM8062300834302BX80623I72600BXC80623I72600	$294
+Core i7-2600K	SR00C(D2)	4	3.4 GHz	1/2/3/4	4 × 256 KB	8 MB	HD Graphics 3000	850–1350 MHz	LGA 1155	DMI 2.0	January 2011	CM8062300833908BX80623I72600KBXC80623I72600K	$317
+Core i7-2700K	SR0DG(D2)	4	3.5 GHz	1/2/3/4	4 × 256 KB	8 MB	HD Graphics 3000	850–1350 MHz	LGA 1155	DMI 2.0	October 2011	CM8062301124100BX80623I72700KBXC80623I72700K	$332
+low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power	low power
+Core i7-2600S	SR00E(D2)	4	2.8 GHz	1/5/9/10	4 × 256 KB	8 MB	HD Graphics 2000	850–1350 MHz	LGA 1155	DMI 2.0	January 2011	CM8062300835604BX80623I72600S	$306

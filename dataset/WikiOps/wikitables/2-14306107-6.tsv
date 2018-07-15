@@ -1,0 +1,13 @@
+Model	Processors Supported	FSB/HT Frequency (MHz)	Memory	PCI-Express	SATA	PATA	Sound
+nForce 500	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2 / DDR	x16: 1 slot x1: 3 slots	4 Ports 1.5 Gbit/s	4 Ports	AC'97
+nForce 500 Ultra	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2 / DDR	x16: 1 slot x1: 3 slots	4 Ports 3 Gbit/s	4 Ports	AC'97
+nForce 500 SLI	Athlon 64 X2, Athlon 64 Socket AM2	HT 1 GHz	DDR2 / DDR	x8: 2 slots x1: 3 slots	4 Ports 3 Gbit/s	4 Ports	AC'97
+nForce 520 LE	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2	x16: 1 slot x1: 2 slots	2 Ports 3 Gbit/s	2 Ports	HDA
+nForce 520	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2	x16: 1 slot x1: 3 slots	4 Ports 3 Gbit/s	2 Ports	HDA
+nForce 550	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2	x16: 1 slot x1: 4 slots	4 Ports 3 Gbit/s	2 Ports	HDA
+nForce 560	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2	x16: 1 slot x1: 3 slots	4 Ports 3 Gbit/s	2 Ports	HDA
+nForce 560 SLI	Athlon 64 X2, Athlon 64 Socket AM2	HT 1 GHz	DDR2	x8: 2 slots x1: 2 slots	4 Ports 3 Gbit/s	4 Ports	AC'97
+nForce 570 Ultra	Athlon 64 X2, Athlon 64, Sempron Socket AM2	HT 1 GHz	DDR2	x16: 1 slot x1: 4 slots	6 Ports 3 Gbit/s	2 Ports	HDA
+nForce 570 LT SLI	Athlon 64 X2, Athlon 64 Socket AM2	HT 1 GHz	DDR2	x8: 2 slots x1: 2 slots	4 Ports 3 Gbit/s	2 Ports	HDA
+nForce 570 SLI	Athlon 64 X2, Athlon 64 Socket AM2	HT 1 GHz	DDR2	x16: 1 slot x8: 1 slot x1: 4 slots	6 Ports 3 Gbit/s	2 Ports	HDA
+nForce 590 SLI	Athlon 64 FX, Athlon 64 X2, Athlon 64 Socket AM2	HT 1 GHz	DDR2	x16: 2 slots x8: 1 slot x1: 6 slots	6 Ports 3 Gbit/s	2 Ports	HDA

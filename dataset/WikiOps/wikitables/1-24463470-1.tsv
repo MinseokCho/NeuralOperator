@@ -1,0 +1,8 @@
+Circuit	Difficulty	Turns	Direction	Setting	Conditions	Unlock Order	Unlocks	Unlocked by
+Athens	Medium	11	Clockwise	Day	Dry	2	Berlin	Rome or Fiorano
+Berlin	Medium	10	Anti- Clockwise	Day	Dry	3	Madrid	Athens
+Fiorano	Hard	12	Figure- Eight	Day	Dry and Rain	1	Athens	N/A
+Los Angeles	Easy	12	Clockwise	Day	Dry and Rain	6	New York	Paris
+Madrid	Easy	9	Clockwise	Night	Dry	4	Paris	Berlin
+New York	Easy	15	Figure- Eight	Night	Wet	7	N/A	Los Angeles
+Paris	Easy	10	Clockwise	Day	Dry and Rain	5	Los Angeles	Madrid

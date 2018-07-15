@@ -1,0 +1,6 @@
+Model number	Frequency	L1 Cache	FSB	Mult.	Voltage	TDP	Socket	Release date	Part number(s)	sSpec number
+Mobile Pentium MMX 166	167 MHz	16 + 16 KB	66 MT/s	2.5×	Core=1.8 I/O=2.5V	2.9 (Max.4.1~5.4) W	TCP 320	January 12, 1998	TT80503166	SL2N6 (myA0)
+Mobile Pentium MMX 200	200 MHz	16 + 16 KB	66 MT/s	3×	Core=1.8 I/O=2.5V	3.4 (Max.5.0~6.1) W	Socket 7 TCP320	September 8, 1997	FV80503200TT80503200	SL2WK (mxB1), SL28P (myA0)
+Mobile Pentium MMX 233	233 MHz	16 + 16 KB	66 MT/s	3.5×	Core=1.8 I/O=2.5V	3.9 (Max.5.5~7.0) W	Socket 7TCP320	September 8, 1997	FV80503233TT80503233	SL2Z3, SL28Q (myA0)
+Mobile Pentium MMX 300	300 MHz	16 + 16 KB	66 MT/s	4.5×	Core=2.0 I/O=2.5V	8.0 W	TCP320	January 7, 1999	TT80503300	SL34N (myB2)
+Embedded Pentium MMX 166	167 MHz	16 + 16 KB	66 MT/s	2.5×	Core=1.9 I/O=2.5V	4.1 (Max.6.1) W	Socket 7 HL-PBGA352	October 13, 1998	FV80503166GC80503CSM	SL2ZX (myA0), SL388 (myA0), SL3B8

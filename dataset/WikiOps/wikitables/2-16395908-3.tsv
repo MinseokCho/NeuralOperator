@@ -1,0 +1,26 @@
+Model	Sensor Size	Resolution	Active Pixels	Display
+Afi-II 10	56x36 mm	56 MP, 16-bit	9288 x 6000	3.5-inch Tilt touchscreen
+Afi-II 7	48x36 mm	33 MP, 16-bit	6726 x 5040	3.5-inch Tilt touchscreen
+Afi-II 6	44x33 mm	28 MP, 16-bit	6144 x 4622	3.5-inch Tilt touchscreen
+Afi 7	48x36 mm	33 MP	6726 x 5040	3.5-inch touchscreen
+Afi 6	44x33 mm	28 MP	6144 x 4622	3.5-inch touchscreen
+Afi 5	48x36 mm	22 MP	4056 x 5356	3.5-inch touchscreen
+Aptus 75s	48x36 mm	33 MP	6726 x 5040	3.5-inch touchscreen
+Aptus 65s	44x33 mm	28 MP	6144 x 4622	3.5-inch touchscreen
+Aptus 54s	48x36 mm	22 MP	4056 x 5356	3.5-inch touchscreen
+Aptus 75	48x36 mm	33 MP	6726 x 5040	3.5-inch touchscreen
+Aptus 65	44x33 mm	28 MP	6144 x 4622	3.5-inch touchscreen
+Aptus 22	48 x 36mm	22 MP, 16-bit	4056 x 5356	3.5-inch touchscreen
+Aptus 17	43 x 32mm	17 MP, 16-bit	3576 x 4716	3.5-inch touchscreen
+Valeo 22wi	48 x 36mm	22 MP, 16-bit	5356 x 4056	iPaq
+Valeo 17wi	43 x 32mm	17 MP, 16-bit	3576 x 4716	iPaq
+Valeo 22	48 x 36mm	22 MP, 16-bit	5356 x 4056	none (tethered only)
+Valeo 17	43.2 x 31.7mm	17 MP, 16-bit	3576 x 4716	none (tethered only)
+Valeo 11	36x24mm	11 MP, 16-bit	4056x2684	none (tethered only)
+Valeo 6	36x24 mm	6 MP, 14-bit	3150 x 2100	none (tethered only)
+C-MOST	36x24 mm	6.6 MP, 16-bit	3150 x 2100	none (tethered only)
+Cantare XY	36x24 mm	6 MP, 16-bit	2048 x 3072	none (tethered only)
+Cantare	36 x 24mm	6 MP, 14-bit	2048 x 3072	none (tethered only)
+Volare	36 x 24mm	6 MP, 14-bit	2048 x 3072	none (tethered only)
+DCB II Live	40 x 40mm	4 MP, 14-bit	2048 x 2048	none (tethered only)
+DCB	40 x 40mm	4 MP	2048 x 2048	none (tethered only)

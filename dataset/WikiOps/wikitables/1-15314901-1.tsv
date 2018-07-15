@@ -1,0 +1,8 @@
+Condition/Parameter	Coordinate velocity v dx/dt in units of c	Velocity angle η in i-radians	Proper velocity w dx/dτ in units of c	Lorentz factor γ dt/dτ = E/mc 2
+Momentum = ½mc ⇔ 0.5 map-lightyear/traveler-year	1/√5 ≅ 0.447	ln[(1 + √5)/2] ≅ 0.481	½	√5/2 ≅ 1.118
+Rapidity of 0.5 hyperbolic radian	(e − 1)/(e + 1) ≅ 0.462	½	½(√e − 1/√e) ≅ 0.521	½(√e + 1/√e) ≅ 1.128
+Momentum = mc ⇔ 1 map-lightyear/traveler-year	1/√2 ≅ 0.707	ln[1 + √2] ≅ 0.881	1	√2 ≅ 1.414
+Rapidity of 1 hyperbolic radian	(e 2 − 1)/(e 2 + 1) ≅ 0.761	1	½(e − 1/e) ≅ 1.175	½(e + 1/e) ≅ 1.543
+Kinetic energy = mc 2 ⇔ 2 map-years/traveler-year	√3/2 ≅ 0.866	ln[√3 + 2] ≅ 1.317	√3 ≅ 1.732	2
+Momentum = 2mc ⇔ 2 map-lightyears/traveler-year	2/√5 ≅ 0.894	ln[2 + √5] ≅ 1.444	2	√5 ≅ 2.236
+Rapidity of 2 hyperbolic radians	(e 4 −1)/(e 4 +1) ≅ 0.964	2	½(e 2 − 1/e 2 ) ≅ 3.627	½(e 2 + 1/e 2 ) ≅ 3.762

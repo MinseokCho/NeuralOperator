@@ -1,0 +1,39 @@
+Core	Processor	Model	Clock Speed	L2 Cache	Voltage	TDP	Clock Speed to TDP ratio (MHz/W)
+Windsor	Athlon 64 X2	3600+	2000MHz	512 KB	1.25 V	89 W	22.5
+Brisbane	Athlon 64 X2	3600+ EE	1900MHz	1 MB	1.30 V	65 W	29.2
+Windsor F2	Athlon 64 X2	3800+	2000MHz	1 MB	1.30 - 1.35 V	89 W	22.5
+Windsor F2	Athlon 64 X2	3800+ EE	2000MHz	1 MB	1.20 - 1.25 V	65 W	30.8
+Windsor F2	Athlon 64 X2	3800+ EE SFF	2000MHz	1 MB	1.025 - 1.075 V	35 W	57.1
+Windsor F2	Athlon 64 X2	4000+	2000MHz	2 MB	1.30 - 1.35 V	89 W	22.5
+Windsor F2	Athlon 64 X2	4000+	2000MHz	2 MB	1.20 - 1.25 V	65 W	30.8
+Brisbane G1	Athlon 64 X2	4000+	2100MHz	1 MB	1.25 - 1.35 V	65 W	32.3
+Brisbane G2	Athlon 64 X2	4050e	2100MHz	1 MB	1.15/1.20/1.25 V	45 W	46.7
+Brisbane G1	Athlon 64 X2	4200+ EE	2200MHz	1 MB	1.25/1.30/1.325 V	65 W	33.8
+Windsor	Athlon 64 X2	4200+ EE	2200MHz	1 MB	1.20 - 1.25 V	65 W	33.8
+Windsor	Athlon 64 X2	4200+	2200MHz	1 MB	1.30 - 1.35 V	89 W	24.7
+Windsor F2	Athlon 64 X2	4400+	2200MHz	2 MB	1.20V/1.25 V	65 W	33.8
+Windsor F2	Athlon 64 X2	4400+	2200MHz	2 MB	1.30V/1.35 V	89 W	24.7
+Brisbane G1	Athlon 64 X2	4400+	2300MHz	1 MB	1.25/1.35 V	65 W	35.4
+Brisbane G2	Athlon 64 X2	4400+	2300MHz	1 MB	1.325/1.35/1.375 V	65 W	35.4
+Brisbane G2	Athlon 64 X2	4450e	2300MHz	1 MB	1.15/1.20/1.25 V	45 W	51.1
+Brisbane G2	Athlon 64 X2	4600+ EE	2400MHz	1 MB	1.325/1.35/1.375 V	65 W	36.9
+Windsor	Athlon 64 X2	4600+ EE	2400MHz	1 MB	1.20 - 1.25 V	65 W	36.9
+Windsor	Athlon 64 X2	4600+	2400MHz	1 MB	1.30 - 1.35 V	89 W	27.0
+Windsor F2	Athlon 64 X2	4800+	2400MHz	2 MB	1.20 - 1.25 V	65 W	36.9
+Windsor F2	Athlon 64 X2	4800+	2400MHz	2 MB	1.30 - 1.35 V	89 W	27.0
+Brisbane G1	Athlon 64 X2	4800+	2500MHz	1 MB	1.25V - 1.35 V	65 W	38.5
+Brisbane G2	Athlon 64 X2	4800+	2500MHz	1 MB	1.325 - 1.375V	65 W	38.5
+Brisbane G2	Athlon 64 X2	4850e	2500MHz	1 MB	1.15/1.20/1.25 V	45 W	55.6
+Brisbane	Athlon 64 X2	5000+	2600MHz	1 MB	1.25 - 1.35 V	65 W	40.0
+Brisbane	Athlon 64 X2	5000+ Black Edition	2600MHz	1 MB	1.25 - 1.35 V	65 W	40.0
+Windsor	Athlon 64 X2	5000+ EE	2600MHz	1 MB	1.20 - 1.25 V	65 W	40.0
+Windsor	Athlon 64 X2	5000+	2600MHz	1 MB	1.30 - 1.35 V	89 W	29.2
+Windsor F3	Athlon 64 X2	5200+ EE	2600MHz	2 MB	1.20 - 1.25 V	65 W	40.0
+Windsor F2	Athlon 64 X2	5200+	2600MHz	2 MB	1.30 - 1.35 V	89 W	29.2
+Brisbane G2	Athlon 64 X2	5200+	2700MHz	1 MB	1.325/1.35/1.375 V	65 W	41.5
+Windsor F3	Athlon 64 X2	5400+	2800MHz	1 MB	1.30 - 1.35 V	89 W	31.5
+Brisbane G2	Athlon 64 X2	5400+	2800MHz	1 MB	1.325V - 1.375 V	65 W	43.1
+Windsor F3	Athlon 64 X2	5600+	2800MHz	2 MB	1.30-1.35 V	89W	40.6
+Brisbane G2	Athlon 64 X2	5600+	2900MHz	1 MB	1.30-1.35 V	65 W	44.6
+Windsor F3	Athlon 64 X2	6000+	3000MHz	2 MB	1.35 - 1.40 V	125 W	24.0
+Brisbane G2	Athlon 64 X2	6000+ EE	3100MHz	1 MB	1.30 - 1.35 V	89 W	34.8

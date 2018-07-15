@@ -1,0 +1,12 @@
+Colt model no.	Name	Stock	Fire control	Rear sight	Forward assist	Case deflector	Barrel length	Barrel profile	Barrel twist	Hand guards	Bayonet Lug	Muzzle device
+CR6724	Colt Accurized Rifle	A2	S-1	Flattop	Yes	Yes	24 in.	Stainless HBAR	1:9	FF Tube	No	None
+MT6400	Match Target M4	4th Generation	S-1	Flattop	Yes	Yes	16 in.	M4	1:7	M4	No	None
+MT6400C	Match Target M4	4th Generation	S-1	Flattop	Yes	Yes	16 in.	M4	1:7	M4	No	Factory compensator
+MT6530	Match Target Lightweight	A2	S-1	A2	Yes	Yes	16 in.	A1	1:7	Short Ribbed	No	None
+MT6551	Match Target Rifle	A2	S-1	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	No	None
+MT6601	Match Target HBAR	A2	S-1	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	No	None
+MT6601C	Match Target HBAR	A2	S-1	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	No	Factory compensator
+MT6700	Match Target Competition HBAR	A2	S-1	Flattop	Yes	Yes	20 in.	HBAR	1:9	Ribbed	No	None
+MT6700C	Match Target Competition HBAR	A2	S-1	Flattop	Yes	No	20 in.	HBAR	1:9	Ribbed	No	Factory compensator
+MT6731	Match Target Competition HBAR II	A2	S-1	Flattop	Yes	Yes	16 in.	HBAR	1:9	Short Ribbed	No	None
+MT6830	AR-15A2 Government Carbine (Post-Ban LE Only)	3rd Generation	S-1	A2	Yes	Yes	16 in.	HBAR	1:12	Short Ribbed	Yes	A2

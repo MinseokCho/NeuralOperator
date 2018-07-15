@@ -1,0 +1,12 @@
+Driver Unit Model No.	Release Year	Output Voltage (RMS)	Inputs	Outputs	Notes
+SRM-001	1995	240V	1x Miniplug	1x Pro Bias, Special 6 Pin	Solid state, battery operated for portable use
+SRM-300 / SRM-310	2003	350V	1x RCA	2x Pro Bias, RCA Loop Out	Solid state, styled as an earspeaker stand
+SRM-252A / SRM-252II	2006	280V	1x RCA	1x Pro Bias, RCA Loop Out	Solid state
+SRM-323A / SRM-323II	2006	400V	2x RCA	2x Pro Bias, RCA Loop Out	Solid state
+SRM-323S	2010	400V	2x RCA	2x Pro Bias, RCA Loop Out	Solid state
+SRM-727A	2006	450V	1x Balanced XLR, 2x RCA	2x Pro Bias, RCA Loop Out	Solid state
+SRM-727II	2007	450V	1x Balanced XLR, 1x RCA	2x Pro Bias, RCA Loop Out	Solid state
+SRM-006tA / SRM-006tII	2006	300V	1x Balanced XLR, 2x RCA	2x Pro Bias, RCA Loop Out	Vacuum tube (2x 6FQ7/6CG7) / Solid state hybrid
+SRM-006tS	2010	300V	1x Balanced XLR, 2x RCA	2x Pro Bias, RCA Loop Out	Vacuum tube
+SRM-007tA / SRM-007tII	2006	340V	1x Balanced XLR, 3x RCA	2x Pro Bias, RCA Loop Out	Vacuum tube (4x 6FQ7/6CG7) / Solid state hybrid
+SRM-600 Limited	2009	340V	1x Balanced XLR, 3x RCA	2x Pro Bias, RCA Loop Out	Vacuum tube (2x ECC99) / Solid state hybrid

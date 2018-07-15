@@ -1,0 +1,8 @@
+Model	Years	Engine code	Power	Torque
+sDrive16d	2012-	N47D20	PS (kW; hp)@4000	N·m (lb·ft)@1750-3000
+sDrive18d xDrive18d	2009-	N47D20	PS (kW; hp)@4000	N·m (lb·ft)@1750-2500
+sDrive20d xDrive20d	2009-2011	N47D20	PS (kW; hp)@4000	N·m (lb·ft)@1750-3000
+xDrive20d	2011-	N47D20	PS (kW; hp)@4000	N·m (lb·ft)@1750-2500
+sDrive20d EfficientDynamics Edition	2011-	N47D20	PS (kW; hp)@3250-4200	N·m (lb·ft)@1750-2500
+xDrive23d	2009-	N47D20	PS (kW; hp)@4400	N·m (lb·ft)@2000-2250
+xDrive25d	2012-	N47D20	PS (kW; hp)@4400	N·m (lb·ft)@1500-2500

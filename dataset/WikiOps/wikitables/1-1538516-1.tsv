@@ -1,0 +1,7 @@
+Maximum Ceiling Temperature	Temperature Rating	Temperature Classification	Color Code (with Fusible Link)	Glass Bulb Color
+100°F / 38°C	135-170°F / 57-77°C	Ordinary	Uncolored or Black	Orange (135°F) or Red (155°F)
+150°F / 66°C	175-225°F / 79-107°C	Intermediate	White	Yellow (175°F) or Green (200°F)
+225°F / 107°C	250-300°F / 121-149°C	High	Blue	Blue
+300°F / 149°C	325-375°F / 163-191°C	Extra High	Red	Purple
+375°F / 191°C	400-475°F / 204-246°C	Very Extra High	Green	Black
+475°F / 246°C	500-575°F / 260-302°C	Ultra High	Orange	Black

@@ -1,0 +1,7 @@
+Location	Abb.	Enzyme	Disorder	Measurements
+Mitochondria	NAGS	N-Acetylglutamate synthetase	N-Acetylglutamate synthase deficiency	+ Ammonia
+Mitochondria	CPS1	Carbamoyl phosphate synthetase I	Carbamoyl phosphate synthetase I deficiency	+ Ammonia
+Mitochondria	OTC	Ornithine transcarbamylase	Ornithine transcarbamylase deficiency	+ Ornithine , + Uracil , + Orotic acid
+Cytosol	ASS	Argininosuccinic acid synthetase	"AS deficiency" or citrullinemia	+ Citrulline
+Cytosol	ASL	Argininosuccinase acid lyase	"AL deficiency" or argininosuccinic aciduria (ASA)	+ Citrulline , + Argininosuccinic acid
+Cytosol	ARG	Arginase	"Arginase deficiency" or argininemia	+ Arginine

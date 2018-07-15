@@ -1,0 +1,42 @@
+City	Province/Region	Country	IATA	ICAO	Airport
+Bangkok	—	Thailand	BKK	VTBS	Suvarnabhumi Airport
+Beijing	—	China	PEK	ZBAA	Beijing Capital International Airport
+Chengdu	—	China	CTU	ZUUU	Chengdu Shuangliu International Airport
+Chicago	—	United States	ORD	KORD	O'Hare International Airport
+Dalian	—	China	DLC	ZYTL	Dalian Zhoushuizi International Airport
+Delhi	—	India	DEL	VIDP	Indira Gandhi International Airport
+Frankfurt	—	Germany	FRA	EDDF	Frankfurt Airport
+Guangzhou	—	China	CAN	ZGGG	Guangzhou Baiyun International Airport
+Hangzhou	—	China	HGH	ZSHC	Hangzhou Xiaoshan International Airport
+Ho Chi Minh City	—	Vietnam	SGN	VVTS	Tan Son Nhat International Airport
+Hong Kong	—	Hong Kong	HKG	VHHH	Hong Kong International Airport
+Honolulu	—	United States	HNL	PHNL	Honolulu International Airport
+Jakarta	—	Indonesia	CGK	WIII	Soekarno-Hatta International Airport
+London	—	United Kingdom	LHR	EGGL	London Heathrow Airport
+Los Angeles	—	United States	LAX	KLAX	Los Angeles International Airport
+Manila	—	Philippines	MNL	RPLL	Ninoy Aquino International Airport
+Mumbai	—	India	BOM	VABB	Chhatrapati Shivaji International Airport
+Munich	—	Germany	MUC	EDDM	Munich Airport
+Nagoya	Chūbu	Japan	NGO	RJGG	Chūbu Centrair International Airport
+Naypyidaw	—	Burma	NPT	VYNT	Naypyidaw Airport
+New York City	—	United States	JFK	KJFK	John F. Kennedy International Airport
+Osaka	Kansai	Japan	KIX	RJBB	Kansai International Airport
+Osaka	Kansai	Japan	ITM	RJOO	Itami Airport
+Paris	—	France	CDG	LFPG	Paris-Charles de Gaulle Airport
+Qingdao	—	China	TAO	ZSQD	Qingdao Liuting International Airport
+San Francisco	—	United States	SFO	KSFO	San Francisco International Airport
+San Jose	—	United States	SJC	KSJC	San Jose International Airport
+Seattle	—	United States	SEA	KSEA	Seattle-Tacoma International Airport
+Seoul	—	South Korea	GMP	RKSS	Gimpo International Airport
+Seoul	—	South Korea	ICN	RKSI	Incheon International Airport
+Shanghai	—	China	SHA	ZSSS	Shanghai Hongqiao International Airport
+Shanghai	—	China	PVG	ZSPD	Shanghai Pudong International Airport
+Shenyang	—	China	SHE	ZYTX	Shenyang Taoxian International Airport
+Singapore	—	Singapore	SIN	WSSS	Singapore Changi Airport
+Taipei	—	Taiwan	TSA	RCSS	Taipei Songshan Airport
+Taipei	—	Taiwan	TPE	RCTP	Taiwan Taoyuan International Airport
+Tokyo	Kantō	Japan	HND	RJTT	Haneda Airport
+Tokyo	Kantō	Japan	NRT	RJAA	Narita International Airport
+Washington, D.C.	—	United States	IAD	KIAD	Dulles International Airport
+Xiamen	—	China	XMN	ZSAM	Xiamen Gaoqi International Airport
+Yangon	—	Burma	RGN	VYYY	Yangon International Airport

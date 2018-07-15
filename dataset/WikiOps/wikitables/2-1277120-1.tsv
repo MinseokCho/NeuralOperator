@@ -1,0 +1,17 @@
+Vehicle Flight #	Date	Pilot	Mach	Velocity (km/h)	Altitude (meters)	Duration
+M2-F2 #1	July 12, 1966	Thompson	0.646	727	13,716	00:03:37
+M2-F2 #2	July 19, 1966	Thompson	0.598	634	13,716	00:04:05
+M2-F2 #3	August 12, 1966	Thompson	0.619	692	13,716	00:04:38
+M2-F2 #4	August 24, 1966	Thompson	0.676	718	13,716	00:04:01
+M2-F2 #5	September 2, 1966	Thompson	0.707	750	13,716	00:03:46
+M2-F2 #6	September 15, 1966	Peterson	0.705	750	13,716	00:03:30
+M2-F2 #7	September 20, 1966	Sorlie	0.635	678	13,716	00:03:31
+M2-F2 #8	September 22, 1966	Peterson	0.661	702	13,716	00:03:53
+M2-F2 #9	September 28, 1966	Sorlie	0.672	713	13,716	00:03:53
+M2-F2 #10	October 5, 1966	Sorlie	0.615	692	13,716	00:03:45
+M2-F2 #11	October 12, 1966	Gentry	0.662	702	13,716	00:03:54
+M2-F2 #12	October 26, 1966	Gentry	0.605	642	13,716	00:03:47
+M2-F2 #13	November 14, 1966	Gentry	0.681	716	13,716	00:04:21
+M2-F2 #14	November 21, 1966	Gentry	0.695	735	13,716	00:03:50
+M2-F2 #15	May 2, 1967	Gentry	0.623	661	13,716	00:03:51
+M2-F2 #16	May 10, 1967	Peterson	0.612	649	13,716	00:03:43

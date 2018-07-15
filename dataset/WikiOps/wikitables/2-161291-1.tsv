@@ -1,0 +1,16 @@
+element	group	period	reaction	potential
+Gold	11	6	Au 3+ + 3e − → Au	1.56 V
+Platinum	10	6	Pt 2+ + 2e − → Pt	1.18 V
+Iridium	9	6	Ir 3+ + 3e − → Ir	1.156 V
+Palladium	10	5	Pd 2+ + 2e − → Pd	0.987 V
+Osmium	8	6	OsO 4 + 8 H + + 8e − → Os + 4 H 2 O	0.838 V
+Silver	11	5	Ag + + e − → Ag	0.7996 V
+Mercury	12	6	Hg 2+ 2 + 2e − → 2 Hg	0.7973 V
+Polonium	16	6	Po 2+ + 2e − → Po	0.65 V
+Rhodium	9	5	Rh 2+ + 2e − → Rh	0.600 V
+Ruthenium	8	5	Ru 2+ + 2e − → Ru	0.455 V
+Copper	11	4	Cu 2+ + 2e − → Cu	0.337 V
+Bismuth	15	6	Bi 3+ + 3e − → Bi	0.308 V
+Technetium	7	5	TcO 2 + 4 H + + 4e − → Tc + 2 H 2 O	0.272 V
+Rhenium	7	6	ReO 2 + 4 H + + 4e − → Re + 2 H 2 O	0.259 V
+Antimony	15	5	Sb 2 O 3 + 6 H + + 6e − → 2 Sb + 3 H 2 O	0.152 V

@@ -1,0 +1,31 @@
+GB	ISO №	Province	Chinese Name	Capital	Population¹	Density²	Area³	Abbreviation/Symbol
+BJ	CN-11	Beijing Municipality	北京市 Běijīng Shì	Beijing	19612368	1,167.40	16800	京 Jīng
+TJ	CN-12	Tianjin Municipality	天津市 Tiānjīn Shì	Tianjin	12938224	1,144.46	11305	津(沽) Jīn (Gu)
+HE	CN-13	Hebei Province	河北省 Héběi Shěng	Shijiazhuang	71854202	382.81	187700	冀 Jì
+SX	CN-14	Shanxi Province	山西省 Shānxī Shěng	Taiyuan	35712111	228.48	156300	晋 Jìn
+LN	CN-21	Liaoning Province	辽宁省 Liáoníng Shěng	Shenyang	43746323	299.83	145900	辽 Liáo
+JL	CN-22	Jilin Province	吉林省 Jílín Shěng	Changchun	27462297	146.54	187400	吉 Jí
+HL	CN-23	Heilongjiang Province	黑龙江省 Hēilóngjiāng	Harbin	38312224	84.38	454000	黑 Hēi
+SH	CN-31	Shanghai Municipality	上海市 Shànghǎi Shì	Shanghai	23019148	3,630.20	6341	沪(申) Hù (Shen)
+JS	CN-32	Jiangsu Province	江苏省 Jiāngsū Shěng	Nanjing	78659903	766.66	102600	苏 Sū
+ZJ	CN-33	Zhejiang Province	浙江省 Zhèjiāng Shěng	Hangzhou	54426891	533.59	102000	浙 Zhè
+AH	CN-34	Anhui Province	安徽省 Ānhuī Shěng	Hefei	59500510	425.91	139700	皖 Wǎn
+FJ	CN-35	Fujian Province	福建省 Fújiàn Shěng	Fuzhou	36894216	304.15	121300	闽 Mǐn
+JX	CN-36	Jiangxi Province	江西省 Jiāngxī Shěng	Nanchang	44567475	266.87	167000	赣 Gàn
+SD	CN-37	Shandong Province	山东省 Shāndōng Shěng	Jinan	95793065	622.84	153800	鲁(齐) Lǔ (Qí)
+HA	CN-41	Henan Province	河南省 Hénán Shěng	Zhengzhou	94023567	563.01	167000	豫 Yù
+HB	CN-42	Hubei Province	湖北省 Húběi Shěng	Wuhan	57237740	307.89	185900	鄂 È
+HN	CN-43	Hunan Province	湖南省 Húnán Shěng	Changsha	65683722	312.77	210000	湘 Xiāng
+GD	CN-44	Guangdong Province	广东省 Guǎngdōng Shěng	Guangzhou	104303132	579.46	180000	粤 Yuè
+GX	CN-45	Guangxi Zhuang Autonomous Region	广西壮族自治区 Guǎngxī Zhuàngzú Zìzhìqū	Nanning	46026629	195.02	236000	桂 Guì
+HI	CN-46	Hainan Province	海南省 Hǎinán Shěng	Haikou	8671518	255.04	34000	琼 Qióng
+CQ	CN-50	Chongqing Municipality	重庆市 Chóngqìng Shì	Chongqing	28846170	350.50	82300	渝(巴) Yú (Ba)
+SC	CN-51	Sichuan Province	四川省 Sìchuān Shěng	Chengdu	80418200	165.81	485000	川(蜀) Chuān (Shǔ)
+GZ	CN-52	Guizhou Province	贵州省 Gùizhōu Shěng	Guiyang	34746468	197.42	176000	贵(黔) Guì (Qián)
+YN	CN-53	Yunnan Province	云南省 Yúnnán Shěng	Kunming	45966239	116.66	394000	云(滇) Yún (Diān)
+XZ	CN-54	Tibet Autonomous Region Xizang Autonomous Region	西藏自治区 Xīzàng Zìzhìqū	Lhasa	3002166	2.44	1228400	藏 Zàng
+SN	CN-61	Shaanxi Province	陕西省 Shǎnxī Shěng	Xi'an	37327378	181.55	205600	陕(秦) Shǎn (Qín)
+GS	CN-62	Gansu Province	甘肃省 Gānsù Shěng	Lanzhou	25575254	56.29	454300	甘(陇) Gān (Lǒng)
+QH	CN-63	Qinghai Province	青海省 Qīnghǎi Shěng	Xining	5626722	7.80	721200	青 Qīng
+NX	CN-64	Ningxia Hui Autonomous Region	宁夏回族自治区 Níngxià Huízú Zìzhìqū	Yinchuan	6301350	94.89	66400	宁 Níng
+XJ	CN-65	Xinjiang Uyghur Autonomous Region	新疆维吾尔自治区 Xīnjiāng Wéiwú'ěr Zìzhìqū	Ürümqi	21813334	13.13	1660400	新 Xīn

@@ -1,0 +1,13 @@
+Model number	Frequency	L2 cache	FPU width	Multi 1	Socket	Release date	Order part number
+Athlon II M300	2000MHz	2x 512 KB	64-bit	10x	g Socket S1 3	September 10, 2009	AMM300DBO22GQ
+Athlon II M320	2100MHz	2x 512 KB	64-bit	10.5x	Socket S1g3	September 10, 2009	AMM320DBO22GQ
+Athlon II M340	2200MHz	2x 512 KB	64-bit	11x	Socket S1g3	September 10, 2009	AMM340DBO22GQ
+Athlon II M360	2300MHz	2x 512 KB	64-bit	11x	Socket S1g3	May 2010	AMM360DBO22GQ
+Turion II M500	2200MHz	2x 512 KB	128-bit	11x	Socket S1g3	September 10, 2009	TMM500DBO22GQ
+Turion II M520	2300MHz	2x 512 KB	128-bit	11.5x	Socket S1g3	September 10, 2009	TMM520DBO22GQ
+Turion II M540	2400MHz	2x 512 KB	128-bit	12x	Socket S1g3	September 10, 2009	TMM540DBO22GQ
+Turion II M560	2500MHz	2x 512 KB	128-bit	12x	Socket S1g3	April 2010	TMM560DBO22GQ
+Turion II Ultra M600	2400MHz	2x 1 MB	128-bit	12x	Socket S1g3	September 10, 2009	TMM600DBO23GQ
+Turion II Ultra M620	2500MHz	2x 1 MB	128-bit	12.5x	Socket S1g3	September 10, 2009	TMM620DBO23GQ
+Turion II Ultra M640	2600MHz	2x 1 MB	128-bit	13x	Socket S1g3	September 10, 2009	TMM640DBO23GQ
+Turion II Ultra M660	2700MHz	2x 1 MB	128-bit	13.5x	Socket S1g3	September 10, 2009	TMM660DBO23GQ

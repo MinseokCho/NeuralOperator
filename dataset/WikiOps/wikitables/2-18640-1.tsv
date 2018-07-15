@@ -1,0 +1,13 @@
+Processor	Model	Clock speed (MHz)	L1 cache (bytes)	Introduced	Discontinued
+MC68000	Lisa	5	—	January 1983	January 1984
+MC68000	Lisa 2	5	—	January 1984	January 1985
+MC68000	Macintosh	8	—	January 1984	October 1985
+MC68000	Macintosh 512K	8	—	September 1984	April 1986
+MC68000	Macintosh XL	5	—	January 1985	April 1985
+MC68000	Macintosh Plus	8	—	January 1986	October 1990
+MC68000	Macintosh 512Ke	8	—	April 1986	September 1987
+MC68000	Macintosh SE	8	—	March 1987	August 1989
+MC68000	Macintosh SE FDHD	8	—	August 1989	October 1990
+MC68000	Macintosh Classic	8	—	October 1990	September 1992
+MC68HC000	Macintosh Portable	16	—	September 1989	October 1991
+MC68HC000	PowerBook 100	16	—	October 1991	August 1992

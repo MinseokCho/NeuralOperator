@@ -1,0 +1,40 @@
+Category	Type	Attribute	Bubbles	Cancelable
+Mouse	click	onclick	Yes	Yes
+Mouse	dblclick	ondblclick	Yes	Yes
+Mouse	mousedown	onmousedown	Yes	Yes
+Mouse	mouseup	onmouseup	Yes	Yes
+Mouse	mouseover	onmouseover	Yes	Yes
+Mouse	mousemove	onmousemove	Yes	No
+Mouse	mouseout	onmouseout	Yes	Yes
+Mouse	dragstart	ondragstart	Yes	Yes
+Mouse	drag	ondrag	Yes	Yes
+Mouse	dragenter	ondragenter	Yes	Yes
+Mouse	dragleave	ondragleave	Yes	No
+Mouse	dragover	ondragover	Yes	Yes
+Mouse	drop	ondrop	Yes	Yes
+Mouse	dragend	ondragend	Yes	No
+Keyboard	keydown	onkeydown	Yes	Yes
+Keyboard	keypress	onkeypress	Yes	Yes
+Keyboard	keyup	onkeyup	Yes	Yes
+HTML frame /object	load	onload	No	No
+HTML frame /object	unload	onunload	No	No
+HTML frame /object	abort	onabort	Yes	No
+HTML frame /object	error	onerror	Yes	No
+HTML frame /object	resize	onresize	Yes	No
+HTML frame /object	scroll	onscroll	Yes	No
+HTML form	select	onselect	Yes	No
+HTML form	change	onchange	Yes	No
+HTML form	submit	onsubmit	Yes	Yes
+HTML form	reset	onreset	Yes	No
+HTML form	focus	onfocus	No	No
+HTML form	blur	onblur	No	No
+User interface	focusin	(none)	Yes	No
+User interface	focusout	(none)	Yes	No
+User interface	DOMActivate	(none)	Yes	Yes
+Mutation	DOMSubtreeModified	(none)	Yes	No
+Mutation	DOMNodeInserted	(none)	Yes	No
+Mutation	DOMNodeRemoved	(none)	Yes	No
+Mutation	DOMNodeRemovedFromDocument	(none)	No	No
+Mutation	DOMNodeInsertedIntoDocument	(none)	No	No
+Mutation	DOMAttrModified	(none)	Yes	No
+Mutation	DOMCharacterDataModified	(none)	Yes	No

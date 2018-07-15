@@ -1,0 +1,46 @@
+Date	Name	Developer	Clock	Process	Cores per die / Dies per module
+2000	Athlon XP	AMD	1.33-1.73GHz	180nm	1 / 1
+2000	Duron	AMD	550MHz-1.3GHz	180nm	1 / 1
+2000	RS64-IV	IBM	600MHz-750MHz	180nm	1 / 2
+2000	Pentium 4	Intel	1.3–2GHz	180-130nm	1 / 1
+2000	SPARC64 IV	Fujitsu	450–810MHz	130nm	1 / 1
+2000	z900	IBM	918MHz	180nm	1 / 12, 20
+2001	MIPS R14000	SGI	500-600MHz	130nm	1 / 1
+2001	POWER4	IBM	1.1-1.4GHz	180-130nm	2 / 1, 4
+2001	UltraSPARC III	Sun	750-1200MHz	130nm	1 / 1
+2001	Itanium	Intel	733-800MHz	180nm	1 / 1
+2001	PowerPC 7450	Motorola	733-800MHz	180-130nm	1 / 1
+2002	SPARC64 V	Fujitsu	1.1-1.35GHz	130nm	1 / 1
+2002	Itanium 2	Intel	0.9–1GHz	180nm	1 / 1
+2003	PowerPC 970	IBM	1.6-2.0GHz	130-90nm	1 / 1
+2003	Pentium M	Intel	0.9-1.7GHz	130-90nm	1 / 1
+2003	Opteron	AMD	1.4-2.4GHz	130nm	1 / 1
+2004	POWER5	IBM	1.65-1.9GHz	130-90nm	2 / 1, 2, 4
+2004	PowerPC BGL	IBM	700MHz	130nm	2 / 1
+2005	Opteron "Athens"	AMD	1.6-3.0GHz	90nm	1 / 1
+2005	Pentium D	Intel	2.8-3.2GHz	90nm	1 / 2
+2005	Athlon 64 X2	AMD	2-2.4GHz	90nm	2 / 1
+2005	PowerPC 970MP	IBM	1.2-2.5GHz	90nm	2 / 1
+2005	UltraSPARC IV	Sun	1.05-1.35GHz	130nm	2 / 1
+2005	UltraSPARC T1	Sun	1-1.4GHz	90nm	8 / 1
+2005	Xenon	IBM	3.2GHz	90-45nm	3 / 1
+2006	Core Duo	Intel	1.1-2.33GHz	90-65nm	2 / 1
+2006	Core 2	Intel	1.06-2.67GHz	65-45nm	2 / 1, 2
+2006	Cell/B.E.	IBM , Sony , Toshiba	3.2-4.6GHz	90-45nm	1+8 / 1
+2006	Itanium "Montecito"	Intel	1.4-1.6GHz	90nm	2 / 1
+2007	POWER6	IBM	3.5-4.7GHz	65nm	2 / 1
+2007	SPARC64 VI	Fujitsu	2.15-2.4GHz	90nm	2 / 1
+2007	UltraSPARC T2	Sun	1-1.4GHz	65nm	8 / 1
+2007	TILE64	Tilera	600-900MHz	90-45nm	64 / 1
+2007	Opteron "Barcelona"	AMD	1.8-3.2GHz	65nm	4 / 1
+2007	PowerPC BGP	IBM	850MHz	90nm	4 / 1
+2008	Phenom	AMD	1.8-2.6GHz	65nm	2, 3, 4 / 1
+2008	z10	IBM	4.4GHz	65nm	4 / 7
+2008	PowerXCell 8i	IBM	2.8-4.0GHz	65nm	1+8 / 1
+2008	SPARC64 VII	Fujitsu	2.4-2.88GHz	65nm	4 / 1
+2008	Atom	Intel	0.8-1.6GHz	65-45nm	1 / 1
+2008	Core i7	Intel	2.66-3.2GHz	45-32nm	2, 4, 6 / 1
+2008	TILEPro64	Tilera	600-866MHz	90-45nm	64 / 1
+2008	Opteron "Shanghai"	AMD	2.3-2.9GHz	45nm	4 / 1
+2009	Phenom II	AMD	2.5-3.2GHz	45nm	2, 3, 4, 6 / 1
+2009	Opteron "Istanbul"	AMD	2.2-2.8GHz	45nm	6 / 1

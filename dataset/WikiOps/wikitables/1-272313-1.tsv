@@ -1,0 +1,7 @@
+Vertical	Horizontal	Aspect ratio	Pixel aspect ratio	Scanning	Frame rate ( Hz )
+1080	1920	16:9	1:1	progressive	23.976 24 29.97 30
+1080	1920	16:9	1:1	interlaced	29.97 (59.94 fields/s) 30 (60 fields/s)
+720	1280	16:9	1:1	progressive	23.976 24 29.97 30 59.94 60
+480	704	4:3 or 16:9	SMPTE 259M	progressive	23.976 24 29.97 30 59.94 60
+480	704	4:3 or 16:9	SMPTE 259M	interlaced	29.97 (59.94 fields/s) 30 (60 fields/s)
+480	640	4:3	1:1	progressive	23.976 24 29.97 30 59.94 60

@@ -1,0 +1,20 @@
+Flat	Threaded	User-selectable themes	Calendar	Image attachment	Unread message tracking	WYSIWYG Editor
+Yes	Yes	Yes	No	Yes	Full	Yes (using TinyMCE )
+Yes	Yes	No	No	Yes	Full	No
+Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Yes	No	Yes	No	Plugin	Session	No
+Yes	Yes	Yes	Yes	Yes	Full	Yes
+Yes	Yes	Yes	Yes	Yes	Session	No
+Yes	Yes	Yes	Plugin	Yes	Full	Yes
+Yes	Yes	Yes	Yes	Yes	Full	Plugin
+Yes	Yes	Yes	No	Yes	Full	Yes
+Yes	No	Yes	Plugin	Yes	Full	Planned
+Yes	Plugin	Yes	Plugin	Plugin	Session	Plugin
+Yes	No	Yes	Yes	Yes	Full	No
+Yes	No	Yes	Yes	Yes	Full	Yes
+Yes	No	No	No	No	Yes	No
+Yes	Yes	No	No	Yes	Yes	Yes
+Yes	No	No	No	No	Session	No
+Yes	Yes	Yes	Yes	Yes	Full	Planned (Version 8.0)
+Yes	No	Yes	No	Plugin	Yes	Plugin
+Flat	Threaded	User-selectable themes	Calendar	Image attachment	Unread message tracking	WYSIWYG Editor

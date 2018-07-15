@@ -1,0 +1,7 @@
+Product Name	Form Factor	Storage Medium	Max Usable Capacity (GB)	Speed ( IOPS )	Latency (microseconds)	Bandwidth (GB/s)
+RamSan-440	4U rackmount	DRAM	512	600000	15	4.5
+RamSan-630	3U rackmount	SLC Flash	10000	1000000	80	10
+RamSan-70	PCIe	SLC Flash	900	1500000	30	2.5
+RamSan-710	1U rackmount	SLC Flash	5000	400000	35	5
+RamSan-810	1U rackmount	eMLC Flash	10000	400000	25	4
+RamSan-720	1U rackmount	SLC Flash	12000	500000	25	5

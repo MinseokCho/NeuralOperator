@@ -1,0 +1,393 @@
+City	State	AAM Accredited	AAM Member	ASTC Member
+Salem	Oregon	No	No	Yes
+Houghton	Michigan	No	No	No
+Philadelphia	Pennsylvania	Yes	No	Yes
+Chicago	Illinois	Yes	Yes	Yes
+Nashville	Tennessee	No	No	Yes
+Portage	Michigan	No	Yes	No
+Birmingham	Alabama	No	No	No
+Midland	Michigan	Yes	No	Yes
+Lynchburg	Virginia	No	No	Yes
+Bozeman	Montana	No	No	No
+New York	New York	Yes	No	Yes
+Bellingham	Washington	No	No	No
+Oak Ridge	Tennessee	No	Yes	Yes
+Anchorage	Alaska	Yes	No	Yes
+Ann Arbor	Michigan	No	No	Yes
+Anniston	Alabama	Yes	No	Yes
+Phoenix	Arizona	No	No	Yes
+Pine Bluff	Arkansas	Yes	Yes	No
+Cocoa	Florida	No	No	Yes
+Austin	Texas	No	No	Yes
+Lexington	Kentucky	No	Yes	No
+Bakersfield	California	No	No	Yes
+Minneapolis	Minnesota	No	No	Yes
+Menasha	Wisconsin	No	No	Yes
+Bowling Green	Kentucky	No	No	No
+Hackensack	New Jersey	No	No	No
+Pittsfield	Massachusetts	No	No	Yes
+Honolulu	Hawaii	Yes	No	No
+Milwaukee	Wisconsin	No	No	Yes
+Woodstock	Vermont	No	Yes	No
+La Jolla	California	No	No	Yes
+Huntington	Vermont	No	No	No
+Honolulu	Hawaii	No	No	Yes
+Spearfish	South Dakota	No	No	Yes
+Upton	New York	No	No	Yes
+Dayton	Ohio	Yes	Yes	Yes
+Boston	Massachusetts	No	No	Yes
+Los Alamos	New Mexico	No	No	No
+Brooklyn	New York	Yes	No	Yes
+Greenwich	Connecticut	No	No	Yes
+Buffalo	New York	Yes	Yes	Yes
+Appleton	Wisconsin	No	No	Yes
+Rockford	Illinois	No	No	Yes
+Gainesville	Florida	No	Yes	Yes
+San Francisco	California	Yes	No	Yes
+Los Angeles	California	Yes	Yes	Yes
+Wilmington	North Carolina	Yes	Yes	Yes
+Pittsburgh	Pennsylvania	Yes	Yes	Yes
+Atwater	California	No	No	Yes
+Hickory	North Carolina	No	No	Yes
+Oakland	California	No	No	Yes
+Tallahassee	Florida	No	No	Yes
+Charlotte Harbor	Florida	No	No	Yes
+Chicago	Illinois	No	No	Yes
+Normal	Illinois	No	No	Yes
+San Jose	California	No	No	Yes
+Augusta	Maine	No	No	Yes
+West Hartford	Connecticut	No	No	Yes
+La Habra	California	No	No	Yes
+Houston	Texas	No	No	Yes
+Indianapolis	Indiana	Yes	No	Yes
+La Crosse	Wisconsin	No	No	Yes
+Dover	New Hampshire	No	No	Yes
+Pittsburgh	Pennsylvania	No	No	Yes
+Troy	New York	No	No	Yes
+Boca Raton	Florida	No	No	Yes
+Ridgecrest	California	No	Yes	No
+Cincinnati	Ohio	No	No	Yes
+Salt Lake City	Utah	No	No	Yes
+Charleston	West Virginia	Yes	Yes	Yes
+Cleveland	Ohio	Yes	No	Yes
+Columbus	Georgia	No	No	Yes
+Asheville	North Carolina	No	No	Yes
+Downey	California	No	No	Yes
+Richland	Washington	No	No	Yes
+Mountain View	California	No	Yes	No
+Hartford	Connecticut	No	No	Yes
+Corsicana	Texas	No	No	Yes
+Columbus	Ohio	No	No	Yes
+Bloomfield Hills	Michigan	Yes	No	Yes
+Chattanooga	Tennessee	No	Yes	Yes
+San Mateo	California	No	No	Yes
+Allentown	Pennsylvania	No	No	Yes
+Atlanta	Georgia	No	Yes	Yes
+Albuquerque	New Mexico	No	Yes	No
+Wilmington	Delaware	No	No	Yes
+Denver	Colorado	Yes	No	Yes
+Detroit	Michigan	No	No	Yes
+Boulder Creek	California	No	No	No
+Sunnyvale	California	No	Yes	No
+Ocala	Florida	No	No	Yes
+Westlake Village	California	No	No	Yes
+Boise	Idaho	No	No	Yes
+Springfield	Missouri	No	No	Yes
+Sacramento	California	No	Yes	Yes
+Bridgeport	Connecticut	No	No	Yes
+Acton	Massachusetts	No	No	No
+Charlotte	North Carolina	Yes	Yes	Yes
+Santa Ana	California	No	No	Yes
+Tyler	Texas	No	Yes	Yes
+Hagerstown	Maryland	No	No	Yes
+Cleveland	Ohio	No	No	No
+Amarillo	Texas	No	No	Yes
+Duluth	Minnesota	No	No	Yes
+Durango	Colorado	No	No	Yes
+Omaha	Nebraska	No	No	Yes
+Norwood	Ohio	No	Yes	No
+Oshkosh	Wisconsin	Yes	No	Yes
+Prestonsburg	Kentucky	No	No	No
+Knoxville	Tennessee	No	No	Yes
+Safford	Arizona	No	No	No
+Burlington	Vermont	No	No	Yes
+Worcester	Massachusetts	No	No	Yes
+Aurora	Nebraska	No	No	Yes
+Columbia	South Carolina	No	No	Yes
+Hamden	Connecticut	No	No	No
+Fort Walton Beach	Florida	No	Yes	Yes
+Evansville	Indiana	Yes	No	Yes
+McMinnville	Oregon	No	No	Yes
+Albuquerque	New Mexico	No	No	Yes
+Wichita	Kansas	No	Yes	Yes
+Helena	Montana	No	No	Yes
+San Francisco	California	No	Yes	Yes
+Davis	California	No	No	Yes
+St. Johnsbury	Vermont	Yes	No	Yes
+Miami	Florida	Yes	No	Yes
+Bettendorf	Iowa	Yes	No	Yes
+Farmington	New Mexico	No	No	Yes
+Batavia	Illinois	No	No	Yes
+Atlanta	Georgia	Yes	No	Yes
+Atlanta	Georgia	No	No	Yes
+Chicago	Illinois	Yes	No	Yes
+Tucson	Arizona	No	No	Yes
+Reno	Nevada	No	No	Yes
+Flint	Michigan	No	No	Yes
+Lakeland	Florida	No	No	Yes
+Gainesville	Florida	Yes	No	Yes
+Fort Collins	Colorado	No	No	Yes
+Fort Worth	Texas	Yes	Yes	Yes
+Monticello	Utah	No	No	Yes
+Philadelphia	Pennsylvania	Yes	Yes	Yes
+Fresno	California	No	No	No
+Mukilteo	Washington	No	No	Yes
+Sarasota	Florida	No	No	Yes
+Chico	California	No	No	Yes
+Bismarck	North Dakota	No	No	Yes
+Gaylord	Michigan	No	No	No
+Louisville	Kentucky	No	No	No
+DeLand	Florida	No	No	Yes
+Greenbelt	Maryland	No	No	No
+New Hyde Park	New York	No	No	No
+Saint Petersburg	Florida	No	No	Yes
+Cleveland	Ohio	No	No	Yes
+Devault	Pennsylvania	No	No	Yes
+Greensboro	North Carolina	Yes	No	Yes
+Waterloo	Iowa	Yes	No	Yes
+Mobile	Alabama	No	No	Yes
+Buford	Georgia	No	No	No
+Providence	Rhode Island	No	No	Yes
+Wilmington	Delaware	Yes	No	Yes
+Johnson City	Tennessee	No	No	Yes
+Tullahoma	Tennessee	No	No	Yes
+Cambridge	Massachusetts	No	No	Yes
+Bemidji	Minnesota	No	No	Yes
+Asheville	North Carolina	Yes	No	Yes
+Houston	Texas	No	Yes	Yes
+McKinney	Texas	No	No	Yes
+Dearborn	Michigan	Yes	Yes	No
+Ashland	Kentucky	No	No	Yes
+Moorhead	Minnesota	No	No	Yes
+Islamorada	Florida	No	Yes	No
+Paris	Kentucky	No	No	Yes
+Houston	Texas	Yes	No	No
+Yonkers	New York	Yes	No	No
+Arcata	California	No	No	Yes
+San Marino	California	No	No	Yes
+Anchorage	Alaska	No	Yes	No
+Fort Myers	Florida	No	No	Yes
+Lafayette	Indiana	No	No	Yes
+Wilson	North Carolina	No	No	Yes
+Toledo	Ohio	No	No	Yes
+Hilo	Hawaii	No	No	Yes
+Lansing	Michigan	No	No	Yes
+Stennis Space Center	Mississippi	No	No	Yes
+Wall	New Jersey	No	No	Yes
+El Paso	Texas	No	No	Yes
+McAllen	Texas	Yes	Yes	No
+New York	New York	No	No	Yes
+Akron	Ohio	No	No	No
+Newark	Delaware	No	No	Yes
+Pasadena	California	No	No	Yes
+Kalamazoo	Michigan	Yes	Yes	No
+Hutchinson	Kansas	No	No	Yes
+Battle Creek	Michigan	No	No	Yes
+Sioux Falls	South Dakota	No	No	Yes
+Tucson	Arizona	No	Yes	Yes
+Vestal	New York	No	No	Yes
+Lafayette	Louisiana	No	No	Yes
+Wauconda	Illinois	Yes	No	Yes
+Bay Village	Ohio	No	No	No
+Peoria	Illinois	Yes	No	Yes
+Lancaster	Pennsylvania	No	No	Yes
+Lancaster	Pennsylvania	No	Yes	No
+Las Cruces	New Mexico	No	No	Yes
+Las Vegas	Nevada	No	No	Yes
+Berkeley	California	No	No	Yes
+Batavia	Illinois	No	No	No
+Salt Lake City	Utah	No	Yes	Yes
+Jersey City	New Jersey	No	Yes	Yes
+Livingston	Louisiana	No	No	Yes
+Walnut Creek	California	Yes	No	Yes
+Juno Beach	Florida	No	No	Yes
+Garden City	New York	No	No	Yes
+Garden City	New York	No	No	No
+Stony Brook	New York	No	No	No
+Riverhead	New York	Yes	Yes	Yes
+Baton Rouge	Louisiana	Yes	Yes	Yes
+New Orleans	Louisiana	No	No	Yes
+Louisville	Kentucky	No	No	Yes
+Flagstaff	Arizona	No	No	Yes
+Madison	Wisconsin	No	No	Yes
+Bangor	Maine	No	No	Yes
+Washington	District of Columbia	No	No	Yes
+Gadsden	Alabama	No	No	Yes
+Baltimore	Maryland	No	No	Yes
+Killeen	Texas	No	No	Yes
+Concord	New Hampshire	No	No	Yes
+McDonald Observatory	Texas	No	No	Yes
+Canton	Ohio	No	No	Yes
+Birmingham	Alabama	No	No	Yes
+Miami	Florida	Yes	Yes	Yes
+Hot Springs	Arkansas	No	No	Yes
+Poughkeepsie	New York	No	No	Yes
+Syracuse	New York	No	No	Yes
+Milwaukee	Wisconsin	Yes	No	Yes
+Muncie	Indiana	No	No	Yes
+Jackson	Mississippi	Yes	Yes	Yes
+Columbia	Missouri	No	Yes	No
+Cambridge	Massachusetts	Yes	No	Yes
+Spokane	Washington	No	No	Yes
+Norwich	Vermont	No	No	Yes
+Chapel Hill	North Carolina	No	No	Yes
+Tampa	Florida	Yes	No	Yes
+North Conway	New Hampshire	No	No	Yes
+Dowagiac	Michigan	No	No	Yes
+Macon	Georgia	Yes	Yes	Yes
+Daytona Beach	Florida	Yes	Yes	Yes
+Little Rock	Arkansas	Yes	No	Yes
+Fort Lauderdale	Florida	No	No	Yes
+Seattle	Washington	Yes	Yes	Yes
+Durham	North Carolina	No	No	Yes
+Dallas	Texas	No	No	Yes
+Boston	Massachusetts	Yes	Yes	Yes
+Jacksonville	Florida	Yes	Yes	Yes
+Ithaca	New York	No	No	Yes
+Bozeman	Montana	Yes	No	Yes
+Philadelphia	Pennsylvania	No	Yes	No
+Modesto	California	No	Yes	Yes
+Washington	District of Columbia	Yes	No	No
+Las Vegas	Nevada	No	Yes	No
+Boulder	Colorado	No	No	Yes
+National Harbor	Maryland	No	No	Yes
+Fort Meade	Maryland	No	No	No
+Linthicum	Maryland	No	Yes	No
+Washington	District of Columbia	No	Yes	Yes
+Washington	District of Columbia	Yes	No	Yes
+Baltimore	Maryland	No	Yes	No
+Washington	District of Columbia	No	Yes	No
+Albuquerque	New Mexico	No	Yes	Yes
+Golden	Colorado	No	No	Yes
+Elmira	New York	No	Yes	No
+Augusta	Georgia	No	No	Yes
+Columbia	Pennsylvania	No	No	Yes
+Tupper Lake	New York	No	Yes	No
+Los Angeles	California	Yes	No	Yes
+Norfolk	Virginia	No	No	Yes
+Keyport	Washington	Yes	No	No
+Kinston	North Carolina	No	No	No
+East Greenwich	Rhode Island	No	Yes	No
+Albuquerque	New Mexico	Yes	Yes	Yes
+Alamogordo	New Mexico	Yes	No	Yes
+Queens	New York	No	No	Yes
+Albany	New York	No	No	Yes
+Brooklyn Heights	New York	No	No	Yes
+Newark	New Jersey	Yes	No	Yes
+Niagara Falls	New York	No	No	No
+Durham	North Carolina	No	No	No
+Raleigh	North Carolina	Yes	No	Yes
+Spencer	North Carolina	No	No	Yes
+Lancaster	Pennsylvania	Yes	Yes	Yes
+Presque Isle	Maine	No	No	No
+Galveston	Texas	No	Yes	No
+Oklahoma City	Oklahoma	No	No	No
+Portland	Oregon	No	Yes	Yes
+Orlando	Florida	Yes	No	Yes
+Champaign	Illinois	No	Yes	Yes
+Owensboro	Kentucky	No	Yes	Yes
+Seattle	Washington	No	Yes	Yes
+Pullman	Washington	No	No	Yes
+Midland	Texas	No	Yes	No
+Memphis	Tennessee	No	No	Yes
+Davenport	Iowa	Yes	No	Yes
+San Francisco	California	No	No	Yes
+Boyne City	Michigan	No	No	No
+Reading	Pennsylvania	Yes	No	Yes
+San Diego	California	No	No	Yes
+North Kingstown	Rhode Island	No	No	No
+Binghamton	New York	Yes	No	Yes
+Arcata	California	No	No	No
+Rochester	New York	Yes	Yes	Yes
+Rocky Mount	North Carolina	No	No	Yes
+Greenville	South Carolina	No	No	Yes
+Roseville	California	No	No	Yes
+St. Louis	Missouri	Yes	Yes	Yes
+San Antonio	Texas	No	Yes	No
+San Diego	California	Yes	No	Yes
+Delray Beach	Florida	No	No	Yes
+Santa Barbara	California	Yes	No	Yes
+Schenectady	New York	No	Yes	Yes
+Gastonia	North Carolina	Yes	No	Yes
+Shreveport	Louisiana	No	No	Yes
+Huntsville	Alabama	No	No	Yes
+Watertown	New York	No	No	Yes
+Frisco	Texas	No	No	Yes
+Corning	New York	No	Yes	No
+Panama City	Florida	No	No	Yes
+Des Moines	Iowa	Yes	Yes	Yes
+Carbondale	Illinois	No	No	Yes
+Fort Wayne	Indiana	No	No	Yes
+Kansas City	Missouri	No	No	Yes
+Oneonta	New York	No	No	Yes
+Eugene	Oregon	No	No	Yes
+Plandome	New York	No	No	No
+St. Paul	Minnesota	Yes	Yes	Yes
+Richmond	Virginia	Yes	No	Yes
+Roanoke	Virginia	Yes	Yes	Yes
+Oklahoma City	Oklahoma	Yes	Yes	Yes
+Lubbock	Texas	No	No	Yes
+Cedar Rapids	Iowa	No	No	Yes
+Casper	Wyoming	No	No	Yes
+Ithaca	New York	Yes	Yes	Yes
+Florence	South Carolina	No	No	Yes
+Ashland	Oregon	No	No	Yes
+Aurora	Illinois	No	No	Yes
+Winston-Salem	North Carolina	No	Yes	Yes
+Manchester	New Hampshire	No	No	Yes
+Winchester	Virginia	No	Yes	Yes
+Wheeling	West Virginia	No	No	Yes
+New York	New York	No	Yes	No
+Pierre	South Dakota	No	No	Yes
+Bradenton	Florida	No	No	Yes
+West Palm Beach	Florida	No	No	Yes
+Spartanburg	South Carolina	No	No	Yes
+Missoula	Montana	No	No	Yes
+Springfield	Massachusetts	Yes	No	Yes
+Weatherford	Oklahoma	No	No	No
+Staten Island	New York	No	No	Yes
+Staten Island	New York	No	Yes	No
+Norwalk	Connecticut	No	No	Yes
+Hays	Kansas	No	No	Yes
+Sunriver	Oregon	No	No	Yes
+Cartersville	Georgia	No	No	Yes
+Terre Haute	Indiana	No	No	Yes
+Lehi	Utah	No	No	Yes
+Kingston	New York	No	Yes	No
+Tulsa	Oklahoma	No	No	No
+Redding	California	No	No	Yes
+Tyler	Texas	No	No	Yes
+Sausalito	California	No	No	Yes
+Kansas City	Missouri	No	Yes	No
+San Antonio	Texas	Yes	No	No
+Lawrence	Kansas	No	No	Yes
+Lincoln	Nebraska	Yes	No	Yes
+Salt Lake City	Utah	Yes	No	Yes
+Charlottesville	Virginia	No	No	No
+Hampton	Virginia	No	No	Yes
+Charlottesville	Virginia	No	No	Yes
+Newport News	Virginia	Yes	No	Yes
+Martinsville	Virginia	Yes	No	Yes
+Boston	Massachusetts	No	No	No
+Sioux Falls	South Dakota	Yes	Yes	No
+Harrisburg	Pennsylvania	No	No	Yes
+Tupper Lake	New York	No	No	Yes
+Canton	Ohio	No	No	No
+Horseheads	New York	No	No	Yes
+San Antonio	Texas	Yes	No	Yes
+Bloomington	Indiana	No	No	Yes
+Woods Hole	Massachusetts	No	No	Yes
+Bloomington	Minnesota	No	No	Yes
+Newark	Ohio	No	No	Yes
+Lodi	California	No	No	Yes
+New Haven	Connecticut	No	No	Yes

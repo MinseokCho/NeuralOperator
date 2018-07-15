@@ -1,0 +1,89 @@
+Game	Date	Opponent	Result	Bulls score	Opponent score	Record	Streak
+1	November 5	New Jersey	Loss	106	111	0-1	Lost 1
+2	November 6	@ Indiana	Loss	90	100	0-2	Lost 2
+3	November 9	Phoenix	Loss	74	94	0-3	Lost 3
+4	November 13	LA Clippers	Loss	96	97	0-4	Lost 4
+5	November 16	@ Sacramento	Loss	106	113	0-5	Lost 5
+6	November 17	@ Golden State	Loss	85	98	0-6	Lost 6
+7	November 19	@ Denver	Loss	81	99	0-7	Lost 7
+8	November 21	@ LA Lakers	Loss	93	102	0-8	Lost 8
+9	November 22	@ Phoenix	Loss	82	100	0-9	Lost 9
+10	November 24	@ Utah	Win	101	99	1-9	Won 1
+11	November 27	@ Cleveland	Loss	74	96	1-10	Lost 1
+12	December 1	LA Lakers	Win	92	84	2-10	Won 1
+13	December 3	Miami	Loss	81	105	2-11	Lost 1
+14	December 4	@ Washington	Loss	88	95	2-12	Lost 2
+15	December 6	San Antonio	Loss	75	91	2-13	Lost 3
+16	December 8	Cleveland	Win	113	85	3-13	Won 1
+17	December 10	Philadelphia	Loss	88	93	3-14	Lost 1
+18	December 11	Minnesota	Win	99	88	4-14	Won 1
+19	December 13	Dallas	Loss	93	94	4-15	Lost 1
+20	December 15	@ Memphis	Win	96	88	5-15	Won 1
+21	December 16	Milwaukee	Win	85	77	6-15	Won 2
+22	December 18	Indiana	Win	85	71	7-15	Won 3
+23	December 20	Portland	Win	92	87	8-15	Won 4
+24	December 22	@ Detroit	Win	89	82	9-15	Won 5
+25	December 26	@ Milwaukee	Loss	92	99	9-16	Lost 1
+26	December 28	New Jersey	Loss	80	84	9-17	Lost 2
+27	January 1	Orlando	Win	105	90	10-17	Won 1
+28	January 3	Detroit	Loss	80	87	10-18	Lost 1
+29	January 5	@ New Orleans	Win	95	89	11-18	Won 1
+30	January 7	Utah	Win	84	78	12-18	Won 2
+31	January 8	Boston	Win	102	91	13-18	Won 3
+32	January 10	Golden State	Win	94	85	14-18	Won 4
+33	January 12	Philadelphia	Win	110	87	15-18	Won 5
+34	January 15	New York	Win	86	84	16-18	Won 6
+35	January 17	@ New York	Win	88	86	17-18	Won 7
+36	January 19	@ Boston	Loss	83	92	17-19	Lost 1
+37	January 21	Atlanta	Win	95	85	18-19	Won 1
+38	January 22	@ Detroit	Win	100	89	19-19	Won 2
+39	January 24	@ Atlanta	Win	107	82	20-19	Won 3
+40	January 25	Denver	Win	111	107	21-19	Won 4
+41	January 27	Charlotte	Win	101	93	22-19	Won 5
+42	January 29	Boston	Loss	97	101	22-20	Lost 1
+43	February 1	@ New Jersey	Loss	97	107	22-21	Lost 2
+44	February 5	@ Miami	Loss	97	108	22-22	Lost 3
+45	February 8	@ Dallas	Win	107	100	23-22	Won 1
+46	February 9	@ Houston	Loss	92	105	23-23	Lost 1
+47	February 13	@ Minnesota	Win	87	83	24-23	Won 1
+48	February 15	Sacramento	Win	107	102	25-23	Won 2
+49	February 16	@ Toronto	Win	121	115	26-23	Won 3
+50	February 22	Miami	Win	105	101	27-23	Won 4
+51	February 23	@ Cleveland	Loss	91	100	27-24	Lost 1
+52	February 25	Washington	Win	97	90	28-24	Won 1
+53	February 26	@ Charlotte	Win	94	90	29-24	Won 2
+54	March 1	Houston	Loss	89	119	29-25	Lost 1
+55	March 4	@ San Antonio	Loss	99	102	29-26	Lost 2
+56	March 5	@ Milwaukee	Loss	87	95	29-27	Lost 3
+57	March 7	Milwaukee	Win	90	85	30-27	Won 1
+58	March 9	@ Portland	Win	97	84	31-27	Won 2
+59	March 11	@ Seattle	Win	100	97	32-27	Won 3
+60	March 13	@ LA Clippers	Loss	78	83	32-28	Lost 1
+61	March 15	Seattle	Loss	93	99	32-29	Lost 2
+62	March 16	@ New Jersey	Loss	84	100	32-30	Lost 3
+63	March 18	New Orleans	Loss	90	94	32-31	Lost 4
+64	March 19	@ Philadelphia	Win	94	88	33-31	Won 1
+65	March 21	Atlanta	Win	105	91	34-31	Won 2
+66	March 23	@ Toronto	Win	94	85	35-31	Won 3
+67	March 25	@ Boston	Win	94	86	36-31	Won 4
+68	March 26	Indiana	Win	100	96	37-31	Won 5
+69	March 28	Memphis	Win	94	86	38-31	Won 6
+70	March 30	@ Charlotte	Win	102	99	39-31	Won 7
+71	March 31	Cleveland	Win	102	90	40-31	Won 8
+72	April 2	Charlotte	Win	112	97	41-31	Won 9
+73	April 5	@ Miami	Loss	86	104	41-32	Lost 1
+74	April 6	@ Orlando	Win	102	101	42-32	Won 1
+75	April 8	@ New York	Win	102	94	43-32	Won 2
+76	April 9	Toronto	Win	110	97	44-32	Won 3
+77	April 11	Detroit	Loss	84	85	44-33	Lost 1
+78	April 13	@ Washington	Loss	82	93	44-34	Lost 2
+79	April 15	Orlando	Win	117	77	45-34	Won 1
+80	April 16	@ Atlanta	Win	114	105	46-34	Won 2
+81	April 19	New York	Win	92	91	47-34	Won 3
+82	April 20	@ Indiana	Loss	83	85	47-35	Lost 1
+1	April 24	Washington	Win	103	94	1-0	Won 1
+2	April 27	Washington	Win	113	103	2-0	Won 2
+3	April 30	@ Washington	Loss	99	117	2-1	Lost 1
+4	May 2	@ Washington	Loss	99	106	2-2	Lost 2
+5	May 4	Washington	Loss	110	112	2-3	Lost 3
+6	May 6	@ Washington	Loss	91	94	2-4	Lost 4

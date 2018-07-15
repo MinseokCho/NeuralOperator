@@ -1,0 +1,33 @@
+Category	Sub-category	Cab size	Drive wheels	Capacity (litres)
+1 Heavy tanker	Village	Crew	4x4	3,000 - 4,000
+1 Heavy tanker	Multi-purpose	Crew	4x4	3,000 - 4,000
+1 Heavy tanker	Grasslands	Single	4x4, 6x6	3,000 - 4,000
+2 Medium tanker	Multi-purpose	Crew	4x4	1,600 - 3,000
+2 Medium tanker	Grasslands	Single	4x4, 6x6	1,600 - 3,000
+3 Heavy tanker	Multi-purpose	Crew	4x2	3,000 - 4,000
+3 Heavy tanker	Multi-purpose	Single	4x2	3,000 - 4,000
+4 Medium tanker	Multi-purpose	Crew	4x2	1,600 - 3,000
+4 Medium tanker	Multi-purpose	Single	4x2	1,600 - 3,000
+5	Super tanker	Crew	4x4, 6x6	4,000+
+5	Super tanker	Single	4x4, 6x6	4,000+
+6	Super tanker	Crew	4x2, 6x4	4,000+
+6	Super tanker	Single	4x2, 6x4	4,000+
+7	Light tanker	Crew	4x4	800 - 1,600
+7	Light tanker	Single	4x4, 6x6	800 - 1,600
+8	Light tanker	Crew	4x2	800 - 1,600
+8	Light tanker	Single	4x2	800 - 1,600
+9	"Striker"	Crew	4x4	Less than 800
+9	"Striker"	Single	4x4	Less than 800
+10	Light pumper	Crew	4x2	Less than 1,600
+10	Medium pumper	Crew	4x2	More than 1,600
+11	Medium pumper	Crew	4x4	More than 1,600
+12	Personnel transport	Crew	4x4	None
+12	Bus, small	Up to 15 seats	N/A	None
+12	Bus, large	More than 15 seats	N/A	None
+13	Bulk Water Carrier	Most likely single	4x2, 6x4, 8x4	4,000+
+13	Bulk Water Trailer	Most likely single	N/A	4,000+
+14	Tanker trailer, small	N/A	N/A	Less than 800
+14	Tanker trailer, large	N/A	N/A	More than 800
+14	Pump trailer	N/A	N/A	N/A
+15	Fire boat	Fire boat	Fire boat	None
+15	Other boat	Other boat	Other boat	None

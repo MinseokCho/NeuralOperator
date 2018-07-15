@@ -1,0 +1,9 @@
+Model/Engine	Capacity	Cylinders/Valves	Power/rpm	Torque (Nm)/rpm
+1.6 Duratec	1,596 cc	4/16	hp (kW; PS) @6000	N·m (lb·ft) @4000
+1.6 Duratec Ti-VCT	1,596 cc	4/16	hp (kW; PS) @6000	N·m (lb·ft) @4150
+1.8 Duratec HE	1,798 cc	4/16	hp (kW; PS) @6000	N·m (lb·ft) @4000
+2.0 Duratec HE	1,999 cc	4/16	hp (kW; PS) @6000	N·m (lb·ft) @4500
+1.6 Duratorq	1,560 cc	4/16	hp (kW; PS) @4000	N·m (lb·ft) @1750
+1.6 Duratorq	1,560 cc	4/16	hp (kW; PS) @4000	N·m (lb·ft)/*N·m (lb·ft) @1750
+1.8 Duratorq	1,753 cc	4/16	hp (kW; PS) @3700	N·m (lb·ft) /*N·m (lb·ft) @1900
+2.0 Duratorq	1,997 cc	4/16	hp (kW; PS) @4000	N·m (lb·ft) /*N·m (lb·ft) @2000

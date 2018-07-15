@@ -1,0 +1,8 @@
+Region	Start datum	Target datum	c_x ( Metre )	c_y (Metre)	c_z (Metre)	s ( ppm )	r x ( Arcsecond )	r y ( Arcsecond )	r z ( Arcsecond )
+Slovenia ETRS89	D48	D96	409.545	72.164	486.872	17.919665	−3.085957	−5.469110	11.020289
+England , Scotland , Wales	WGS84	OSGB36	−446.448	125.157	−542.06	20.4894	−0.1502	−0.247	−0.8421
+Ireland	WGS84	Ireland 1965	−482.53	130.596	−564.557	−8.15	1.042	0.214	0.631
+Germany	WGS84	DHDN	−591.28	−81.35	−396.39	−9.82	1.4770	−0.0736	−1.4580
+Germany	WGS84	Bessel 1841	−582	−105	−414	−8.3	−1.04	−0.35	3.08
+Germany	WGS84	Krassovski 1940	−24	123	94	−1.1	−0.02	0.26	0.13
+Austria (BEV)	WGS84	MGI	−577.326	−90.129	−463.920	−2.423	5.137	1.474	5.297

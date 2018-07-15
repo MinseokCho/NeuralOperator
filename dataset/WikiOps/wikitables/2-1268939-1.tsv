@@ -1,0 +1,10 @@
+Application	Expected Speed Up†	GPU‡	Multi-GPU Support	Release Status
+BarraCUDA	6–10x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 0.6.2
+CUDASW++	10–50x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 2.0.8
+CUSHAW	10x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 1.0.40
+GPU-BLAST	3–4x	T 2075, 2090, K10, K20, K20X	Single only	Available now Version 2.2.26
+GPU-HMMER	60–100x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 2.3.2
+mCUDA-MEME	4–10x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 3.0.12
+SeqNFind	400x	T 2075, 2090, K10, K20, K20X	Yes	Available now
+UGENE	6–8x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 1.11
+WideLM	150x	T 2075, 2090, K10, K20, K20X	Yes	Available now Version 0.1-1

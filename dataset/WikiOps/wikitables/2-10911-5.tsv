@@ -1,0 +1,12 @@
+Chemical class	Group	Formula	Prefix	Suffix
+Thiol	Sulfhydryl	RSH	sulfanyl- (-SH)	-thiol
+Sulfide ( Thioether )	Sulfide	RSR'	substituentsulfanyl- (-SR')	di(substituent)sulfide
+Disulfide	Disulfide	RSSR'	substituentdisulfanyl- (-SSR')	di(substituent)disulfide
+Sulfoxide	Sulfinyl	RSOR'	-sulfinyl- (-SOR')	di(substituent)sulfoxide
+Sulfone	Sulfonyl	RSO 2 R'	-sulfonyl- (-SO 2 R')	di(substituent)sulfone
+Sulfinicacid	Sulfino	RSO 2 H	sulfino- (-SO 2 H)	-sulfinicacid
+Sulfonicacid	Sulfo	RSO 3 H	sulfo- (-SO 3 H)	-sulfonicacid
+Thiocyanate	Thiocyanate	RSCN	thiocyanato- (-SCN)	substituentthiocyanate
+Thiocyanate	Isothiocyanate	RNCS	isothiocyanato- (-NCS)	substituentisothiocyanate
+Thione	Carbonothioyl	RCSR'	-thioyl- (-CSR') or sulfanylidene- (=S)	-thione
+Thial	Carbonothioyl	RCSH	methanethioyl- (-CSH) or sulfanylidene- (=S)	-thial

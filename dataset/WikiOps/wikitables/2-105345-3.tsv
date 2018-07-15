@@ -1,0 +1,18 @@
+Positional or Automatic	Opponents	Suits	Material or Non-material	Count Rectified
+Either	Single	2	Yes	Yes
+Automatic	Single	2	Yes	Yes
+Positional	Single	3	Yes	Yes
+Either	Double	3	Yes	Yes
+Positional	Double	3	Yes	Yes
+Positional	Single	2	Yes	Yes
+Positional	Single	1	Yes	No
+Positional	Single	2-3	Yes	No
+Positional	Single	2	Yes	Yes*
+Positional	Either	2	No	No
+Positional	Either	2-3	Yes	Yes
+Positional	Single	3	No	No
+Positional	Either	3	Yes	Yes
+Positional	Double	4	Yes	Yes
+N/A	N/A	N/A	No	N/A
+Either	Either	3	No	No
+Either	Single	3	No	No

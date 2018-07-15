@@ -1,0 +1,102 @@
+Sr No	Name	Locale	Height	Floors	Building Type
+1	Imperial Tower 1	Tardeo	metres (ft)	61	Residential
+2	Imperial Tower 2	Tardeo	metres (ft)	61	Residential
+3	Lodha Bellissimo A & B	Mahalaxmi	metres (ft)	53	Residential
+4	Lodha Bellissimo C	Mahalaxmi	metres (ft)	53	Residential
+5	Kohinoor Square	Shivaji Park	metres (ft)	52	Mixed Use
+6	Vivarea 1	Mahalaxmi	metres (ft)	45	Residential
+7	Vivarea 2	Mahalaxmi	metres (ft)	45	Residential
+8	Vivarea 3	Mahalaxmi	metres (ft)	45	Residential
+9	Ashok Towers D	Parel	metres (ft)	49	Residential
+10	The Ruby	Dadar	metres (ft)	40	Commercial
+11	Orchid Woods 1	Goregaon	metres (ft)	58	Residential
+12	Orchid Woods 2	Goregaon	metres (ft)	58	Residential
+13	Orchid Woods 3	Goregaon	metres (ft)	58	Residential
+14	Urmi Estate	Lower Parel	metres (ft)	45	Commercial
+15	Planet Godrej	Mahalaxmi	metres (ft)	51	Residential
+16	Sunshine Tower	Dadar	metres (ft)	40	Commercial
+17	Imperial Heights 1	Oshiwara	metres (ft)	49	Residential
+18	Imperial Heights 2	Oshiwara	metres (ft)	49	Residential
+19	Antilia	Altamount Road	metres (ft)	27	Residential
+20	Vasant Grandeur	Borivali	metres (ft)	36	Residential
+21	Victoria	Worli	metres (ft)	47	Residential
+22	Raheja Legend	Worli	metres (ft)	40	Residential
+23	Springs	Wadala	metres (ft)	41	Residential
+24	Rustomjee Elanza 1	Malad	metres (ft)	36	Residential
+25	Rustomjee Elanza 2	Malad	metres (ft)	36	Residential
+26	Rustomjee Elanza 3	Malad	metres (ft)	36	Residential
+27	RNA Mirage	Worli	metres (ft)	40	Residential
+28	Tabrez Tower	Wadala	metres (ft)	45	Residential
+29	MRVDC (World Trade Center)	Cuffe Parade	metres (ft)	35	Commercial
+30	Shangri La	Worli	metres (ft)	40	Hotel
+31	Shreepati Arcade	Nana Chowk	metres (ft)	45	Residential
+32	Vasant Polaris	Goregaon	metres (ft)	30	Residential
+33	Oberoi Skyheights Tower 1	Lokhandwala	metres (ft)	37	Residential
+34	Oberoi Skyheights Tower 2	Lokhandwala	metres (ft)	37	Residential
+35	Le Palazzo	Nana Chowk	metres (ft)	46	Residential
+36	Seth Beaumonde 1	Prabhadevi	metres (ft)	35	Resedential
+37	Seth Beaumonde 2	Prabhadevi	metres (ft)	35	Residential
+38	Seth Beaumonde 3	Prabhadevi	metres (ft)	35	Residential
+39	Summer Trinity 1	Prabhadevi	metres (ft)	36	Residential
+40	Summer Trinity 2	Prabhadevi	metres (ft)	36	Residential
+41	Raheja Excelsior	Tardeo	metres (ft)	38	Residential
+42	Oberoi Woods Tower I	Kandivali	metres (ft)	40	Residential
+43	Oberoi Woods Tower II	Kandivali	metres (ft)	40	Residential
+44	Oberoi Woods Tower III	Kandivali	metres (ft)	40	Residential
+45	Belvedere Court	Mahalaxmi	metres (ft)	40	Residential
+46	Four Seasons Mumbai	Worli	metres (ft)	35	Hotel
+47	JK House	Breach Candy	metres (ft)	36	Residential
+48	Shreepati Castle	Girgaon	metres (ft)	43	Residential
+49	Vandan Tower	Walkeshwar	metres (ft)	43	Residential
+50	Lodha Imperia	Bhandup	metres (ft)	42	Residential
+51	Sarvodaya Heights	Mulund	metres (ft)	42	Residential
+52	Oberoi Commrez 2	Goregaon	metres (ft)	35	Hotel
+53	Kalpatru Heights	Agripada	metres (ft)	39	Residential
+54	IB Financial Center 1	Dadar	metres (ft)	33	Commercial
+55	Heritage	Powai	metres (ft)	36	Residential
+56	The Legend	Walkeshwar	metres (ft)	40	Residential
+57	Suraj Tower	Breach Candy	metres (ft)	40	Residential
+58	Tahnee heights	Nepean Sea Road	metres (ft)	34	Residential
+59	Rushabh	Girgaon	metres (ft)	40	Residential
+60	Shreepati Tower	Girgaon	metres (ft)	40	Residential
+61	Orbit Heights	Nana Chowk	metres (ft)	40	Residential
+62	Kalpataru Towers	Kandivali	metres (ft)	34	Residential
+63	Commerz Tower	Goregaon	metres (ft)	32	Hotel
+64	Raheja Atlantis	Worli	metres (ft)	40	Residential
+65	Verona	Powai	metres (ft)	30	Residential
+66	Avalon	Powai	metres (ft)	30	Residential
+67	ITC Grand Central	Parel	metres (ft)	35	Hotel
+68	Prarthna Heights	Parel	metres (ft)	35	Residential
+69	Oberoi Springs 1	Andheri	metres (ft)	36	Residential
+70	Oberoi Springs 2	Andheri	metres (ft)	36	Residential
+71	Oberoi Springs 3	Andheri	metres (ft)	36	Residential
+72	Octovious	Powai	metres (ft)	36	Residential
+73	Bhoomi Paradise 1	Sanpada	metres (ft)	31	Residential
+74	Bhoomi Paradise 2	Sanpada	metres (ft)	31	Residential
+75	Raheja One	Altamount Road	metres (ft)	36	Residential
+76	Ashok Towers A	Parel	metres (ft)	31	Residential
+77	Ashok Towers B	Parel	metres (ft)	31	Residential
+78	Ashok Towers C	Parel	metres (ft)	31	Residential
+79	IB Financial Center 2	Dadar	metres (ft)	29	Commercial
+80	Phiroze Jeejeebhoy Towers	Dalal Street	metres (ft)	29	Commercial
+81	Vision Crest	Prabhadevi	metres (ft)	35	Residential
+82	Oberoi Trident	Nariman Point	metres (ft)	35	Hotel
+83	Lloyds Estate Tower 2	Wadala	metres (ft)	34	Residential
+84	Avarsekar Heights	Worli	metres (ft)	34	Residential
+85	Torino	Powai	metres (ft)	34	Residential
+86	Peninsula Business Park 1	Lower Parel	metres (ft)	25	Commercial
+87	Peninsula Business Park 2	Lower Parel	metres (ft)	25	Commercial
+88	Gokul Concorde 1	Kandivali	metres (ft)	33	Residential
+89	Gokul Concorde 2	Kandivali	metres (ft)	33	Residential
+90	DSK Durgamata Towers	Cuffe Parade	metres (ft)	32	Residential
+91	Tharwani Heights	Sanpada	metres (ft)	28	Residential
+92	Kalpataru Pinnacle	Goregaon	metres (ft)	33	Residential
+93	Phoenix Tower B	Lower Parel	metres (ft)	32	Residential
+94	Dhawalgiri	Yashodham	metres (ft)	33	Residential
+95	Zahra	Worli	metres (ft)	32	Residential
+96	Samudra Mahal	Worli	metres (ft)	30	Residential
+97	Tytan	Nepean Sea Road	metres (ft)	32	Residential
+98	Sagar Sangeet	Colaba	metres (ft)	32	Residential
+99	Kingston Tower	Parel	metres (ft)	32	Residential
+100	Subhadra Tower	Worli	metres (ft)	32	Residential
+101	Orbit Arya	Nepean Sea Road	metres (ft)	30	Resedential

@@ -1,0 +1,212 @@
+Rank	Stadium	Capacity	City	Country
+1	Michigan Stadium	109,901	Ann Arbor	USA
+2	Beaver Stadium	106,572	University Park	USA
+3	AT&T Stadium	105,000	Arlington	USA
+4	Estadio Azteca	104,000	Mexico City	Mexico
+5	Neyland Stadium	102,459	Knoxville	USA
+6	Ohio Stadium	102,329	Columbus	USA
+7	Bryant-Denny Stadium	101,821	Tuscaloosa	USA
+8	Darrell K. Royal-Texas Memorial Stadium	100,119	Austin	USA
+9	Los Angeles Memorial Coliseum	93,607	Los Angeles	USA
+10	Sanford Stadium	92,756	Athens	USA
+11	Rose Bowl	92,542	Pasadena	USA
+12	Tiger Stadium	92,542	Baton Rouge	USA
+13	Cotton Bowl	92,100	Dallas	USA
+14	Ben Hill Griffin Stadium	88,548	Gainesville	USA
+15	Jordan-Hare Stadium	87,451	Auburn	USA
+16	Bobby Bowden Field at Doak Campbell Stadium	83,500	Tallahassee	USA
+17	Kyle Field	82,600	College Station	USA
+18	MetLife Stadium	82,500	East Rutherford	USA
+19	Gaylord Family Oklahoma Memorial Stadium	82,112	Norman	USA
+20	Memorial Stadium	82,000	Clemson	USA
+21	FedExField	82,000	Landover	USA
+22	Memorial Stadium	81,067	Lincoln	USA
+23	Notre Dame Stadium	80,795	Notre Dame	USA
+24	Lambeau Field	80,750	Green Bay	USA
+25	Camp Randall Stadium	80,321	Madison	USA
+26	Pontiac Silverdome	80,311	Pontiac	USA
+27	Williams-Brice Stadium	80,250	Columbia, South Carolina	USA
+28	Arrowhead Stadium	77,000	Kansas City	USA
+29	EverBank Field	76,867	Jacksonville	USA
+30	Sun Life Stadium	76,500	Miami Gardens	USA
+31	Sports Authority Field at Mile High	76,125	Denver	USA
+32	Donald W. Reynolds Razorback Stadium	76,000	Fayetteville	USA
+33	Spartan Stadium	75,005	East Lansing	USA
+34	Ralph Wilson Stadium	73,967	Orchard Park	USA
+35	Bank of America Stadium	73,778	Charlotte	USA
+36	Sun Devil Stadium	73,379	Tempe	USA
+37	Mercedes-Benz Superdome	73,208	New Orleans	USA
+38	FirstEnergy Stadium	73,200	Cleveland	USA
+39	Husky Stadium	72,500	Seattle	USA
+40	Legion Field	71,594	Birmingham	USA
+41	Reliant Stadium	71,500	Houston	USA
+42	Qualcomm Stadium	71,294	San Diego	USA
+43	Georgia Dome	71,228	Atlanta	USA
+44	M&T Bank Stadium	71,008	Baltimore	USA
+45	Faurot Field	71,004	Columbia, Missouri	USA
+46	Kinnick Stadium	70,585	Iowa City	USA
+47	Candlestick Park	70,207	San Francisco	USA
+48	Citrus Bowl	70,000	Orlando	USA
+49	LP Field	68,798	Nashville	USA
+50	Gillette Stadium	68,756	Foxborough	USA
+51	Lincoln Financial Field	68,532	Philadelphia	USA
+52	Commonwealth Stadium	67,606	Lexington	USA
+53	CenturyLink Field	67,000	Seattle	USA
+54	Edward Jones Dome	66,965	St. Louis	USA
+55	Olympic Stadium	66,308	Montreal	Canada
+56	Lane Stadium	66,233	Blacksburg	USA
+57	Raymond James Stadium	65,857	Tampa	USA
+58	Paul Brown Stadium	65,790	Cincinnati	USA
+59	Heinz Field	65,050	Pittsburgh	USA
+=60	Alamodome	65,000	San Antonio	USA
+=60	Ford Field	65,000	Detroit	USA
+62	Yale Bowl	64,246	New Haven	USA
+63	Hubert H. Humphrey Metrodome	64,111	Minneapolis	USA
+64	LaVell Edwards Stadium	64,045	Provo	USA
+65	University of Phoenix Stadium	63,400	Glendale	USA
+66	Estadio Olímpico Universitario	63,186	Mexico City	Mexico
+67	O.co Coliseum	63,026	Oakland	USA
+68	Lucas Oil Stadium	63,000	Indianapolis	USA
+69	Kenan Memorial Stadium	62,980	Chapel Hill	USA
+70	Memorial Stadium	62,872	Champaign	USA
+71	California Memorial Stadium	62,717	Berkeley	USA
+72	Ross-Ade Stadium	62,500	West Lafayette	USA
+73	Liberty Bowl Memorial Stadium	62,380	Memphis	USA
+=74	Scott Stadium	61,500	Charlottesville	USA
+=74	Soldier Field	61,500	Chicago	USA
+76	Vaught-Hemingway Stadium	60,580	Oxford	USA
+77	Mississippi Veterans Memorial Stadium	60,492	Jackson	USA
+78	Jones AT&T Stadium	60,454	Lubbock	USA
+79	Boone Pickens Stadium	60,218	Stillwater	USA
+80	Commonwealth Stadium	60,081	Edmonton	Canada
+81	Mountaineer Field at Milan Puskar Stadium	60,000	Morgantown	USA
+83	Arizona Stadium	57,803	Tucson	USA
+84	Carter-Finley Stadium	57,583	Raleigh	USA
+85	Estadio Jalisco	56,713	Guadalajara	Mexico
+86	Robert F. Kennedy Memorial Stadium	56,692	Washington, D.C.	USA
+=87	Dodger Stadium	56,000	Los Angeles	USA
+=87	Papa John's Cardinal Stadium	56,000	Louisville	USA
+89	Davis Wade Stadium	55,082	Starkville	USA
+=90	BC Place Stadium	55,000	Vancouver	Canada
+=90	Bobby Dodd Stadium	55,000	Atlanta	USA
+=90	Estadio Latinoamericano	55,000	Havana	Cuba
+=90	Jack Trice Stadium	55,000	Ames	USA
+=93	Autzen Stadium	54,000	Eugene	USA
+=93	Byrd Stadium	54,000	College Park	USA
+95	Folsom Field	53,750	Boulder	USA
+96	War Memorial Stadium	53,727	Little Rock	USA
+97	Independence Stadium	53,000	Shreveport	USA
+98	Estadio Cuscatlán	52,900	San Salvador	El Salvador
+99	Memorial Stadium	52,692	Bloomington	USA
+100	Franklin Field	52,593	Philadelphia	USA
+101	Falcon Stadium	52,480	Colorado Springs	USA
+102	Rutgers Stadium	52,454	Piscataway	USA
+103	Yankee Stadium	52,325	New York City	USA
+104	Sun Bowl Stadium	51,500	El Paso	USA
+105	TCF Bank Stadium	50,805	Minneapolis	USA
+106	Coors Field	50,445	Denver	USA
+107	Turner Field	50,096	Atlanta	USA
+108	University of Kansas Memorial Stadium	50,071	Lawrence	USA
+=109	Aloha Stadium	50,000	Honolulu	USA
+=109	Bill Snyder Family Football Stadium	50,000	Manhattan	USA
+=109	Dowdy-Ficklen Stadium	50,000	Greenville	USA
+=109	Floyd Casey Stadium	50,000	Waco	USA
+=109	Stanford Stadium	50,000	Stanford	USA
+114	Rogers Centre	49,539	Toronto	Canada
+115	Carrier Dome	49,262	Syracuse	USA
+116	Rangers Ballpark in Arlington	49,200	Arlington	USA
+117	Chase Field	49,033	Phoenix	USA
+118	Oriole Park at Camden Yards	48,876	Baltimore	USA
+119	Ryan Field	47,130	Evanston	USA
+120	Safeco Field	47,116	Seattle	USA
+121	Rice Stadium	47,000	Houston	USA
+122	Busch Stadium	46,861	St. Louis	USA
+123	Reser Stadium	45,674	Corvallis	USA
+124	Estadio Omnilife	45,500	Guadalajara	Mexico
+125	Bright House Networks Stadium	45,301	Orlando	USA
+126	Angel Stadium of Anaheim	45,050	Anaheim	USA
+127	Rice-Eccles Stadium	45,017	Salt Lake City	USA
+128	Amon G. Carter Stadium	45,000	Fort Worth	USA
+129	Alumni Stadium	44,500	Chestnut Hill	USA
+130	Citizens Bank Park	43,647	Philadelphia	USA
+131	Progressive Field	43,515	Cleveland	USA
+132	Estadio Cuauhtémoc	42,648	Puebla	Mexico
+133	Petco Park	42,445	San Diego	USA
+134	Great American Ball Park	42,059	Cincinnati	USA
+135	Miller Park	41,900	Milwaukee	USA
+136	Nationals Park	41,888	Washington, D.C.	USA
+137	Citi Field	41,800	New York City	USA
+138	AT&T Park	41,503	San Francisco	USA
+139	Comerica Park	41,782	Detroit	USA
+140	Wrigley Field	41,160	Chicago	USA
+141	Estadio Morelos	41,056	Morelia	Mexico
+142	Bulldog Stadium	41,031	Fresno	USA
+143	Minute Maid Park	40,950	Houston	USA
+144	Ladd Peebles Stadium	40,646	Mobile	USA
+145	U.S. Cellular Field	40,615	Chicago	USA
+=146	Rentschler Field	40,000	East Hartford	USA
+=146	Estadio Olímpico Metropolitano	40,000	San Pedro Sula	Honduras
+=146	Plaza México	40,000	Mexico City	Mexico
+147	Howard J. Lamade Stadium	40,000	South Williamsport	USA
+=146	Michie Stadium	40,000	West Point	USA
+151	Estadio Universitario	39,997	San Nicolás de los Garza	Mexico
+152	Vanderbilt Stadium	39,790	Nashville	USA
+153	University Stadium	38,634	Albuquerque	USA
+154	Target Field	39,504	Minneapolis	USA
+155	Kauffman Stadium	39,000	Kansas City	USA
+156	PNC Park	38,496	Pittsburgh	USA
+157	Joan C. Edwards Stadium	38,016	Huntington	USA
+158	Bronco Stadium	37,500	Boise	USA
+=158	Fenway Park	37,402	Boston	USA
+159	Tropicana Field	36,973	St. Petersburg	USA
+160	Sam Boyd Stadium	36,800	Las Vegas	USA
+161	M. M. Roberts Stadium	36,000	Hattiesburg	USA
+162	McMahon Stadium	35,650	Calgary	Canada
+163	Skelly Field at H.A. Chapman Stadium	35,542	Tulsa	USA
+164	Martin Stadium	35,117	Pullman	USA
+165	National Stadium (Costa Rica)	35,093	San José	Costa Rica
+=165	Estadio Azul	35,000	Mexico City	Mexico
+=165	Estadio Tiburcio Carías Andino	35,000	Tegucigalpa	Honduras
+=165	Independence Park	35,000	Kingston	Jamaica
+165	Nippert Stadium	35,000	Cincinnati	USA
+171	Sonny Lubick Field at Hughes Stadium	34,400	Fort Collins	USA
+172	Estadio La Corregidora	34,130	Querétaro	Mexico
+173	Estadio Félix Sánchez	34,000	Santo Domingo	Dominican Republic
+174	Estadio Panamericano	34,000	Havana	Cuba
+=174	Navy-Marine Corps Memorial Stadium	34,000	Annapolis	USA
+176	Estadio Nou Camp	33,943	León	Mexico
+177	Wallace Wade Stadium	33,941	Durham	USA
+178	Investors Group Field	33,422	Winnipeg	Canada
+179	Estadio Tecnológico	32,864	Monterrey	Mexico
+180	War Memorial Stadium	32,580	Laramie	USA
+=181	Kensington Oval	32,000	Bridgetown	Barbados
+=181	Estadio Jorge "Mágico" González	32,000	San Salvador	El Salvador
+=181	Gerald J. Ford Stadium	32,000	University Park	USA
+=181	Robertson Stadium	32,000	Houston	USA
+185	BB&T Field	31,500	Winston-Salem	USA
+=185	Cajun Field	31,000	Lafayette	USA
+=185	Rubber Bowl	31,000	Akron	USA
+188	Huskie Stadium	30,998	DeKalb	USA
+189	ASU Stadium	30,964	Jonesboro	USA
+190	Mosaic Stadium at Taylor Field	30,945	Regina	Canada
+191	Apogee Stadium	30,850	Denton	USA
+192	Joe Aillet Stadium	30,600	Ruston	USA
+193	Dix Stadium	30,520	Kent	USA
+194	Spartan Stadium	30,456	San Jose	USA
+195	Malone Stadium	30,427	Monroe	USA
+196	Aggie Memorial Stadium	30,343	Las Cruces	USA
+197	Harvard Stadium	30,323	Boston	USA
+198	Rynearson Stadium	30,200	Ypsilanti	USA
+199	Kelly/Shorts Stadium	30,199	Mount Pleasant	USA
+=200	Dennis Martínez National Stadium	30,100	Managua	Nicaragua
+=200	Waldo Stadium	30,100	Kalamazoo	USA
+=202	Estadio Mateo Flores	30,000	Guatemala City	Guatemala
+=202	Cessna Stadium	30,000	Wichita	USA
+=202	Cinco de Septiembre Stadium	30,000	Cienfuegos	Cuba
+=202	Estadio Luis de la Fuente	30,000	Veracruz	Mexico
+=202	FAU Stadium	30,000	Boca Raton	USA
+=202	InfoCision Stadium – Summa Field	30,000	Akron	USA
+=202	Jim Wacker Field at Bobcat Stadium	30,000	San Marcos	USA
+=202	Veterans Memorial Stadium	30,000	Troy	USA
+=202	Victoria de Girón Stadium	30,000	Matanzas	Cuba
+=202	William "Dick" Price Stadium	30,000	Norfolk	USA

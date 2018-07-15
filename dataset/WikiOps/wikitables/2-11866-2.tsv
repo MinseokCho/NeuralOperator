@@ -1,0 +1,17 @@
+Subframe #	Page #	Name	Word #	Bits	Scale	Signed
+1	all	Week Number	3	1–10	1:1	No
+1	all	CA or P On L2	3	11,12	1:1	No
+1	all	URA Index	3	13–16	1:1	No
+1	all	SV_Health	3	17–22	1:1	No
+1	all	IODC(MSB)	3	23,24	1:1	No
+1	all	L2Pdata flag	4	1	1:1	No
+1	all	ResW4	4	2–24	N/A	N/A
+1	all	ResW5	5	1–24	N/A	N/A
+1	all	ResW6	6	1–24	N/A	N/A
+1	all	ResW7	7	1–16	N/A	N/A
+1	all	TGD	7	17–24	2^-31	Yes
+1	all	IODC (LSB)	8	1–8	1:1	No
+1	all	TOC	8	9–24	2^4	No
+1	all	AF2	9	1–8	2^-55	Yes
+1	all	AF1	9	9–24	2^-43	Yes
+1	all	AF0	10	1–22	2^-31	Yes

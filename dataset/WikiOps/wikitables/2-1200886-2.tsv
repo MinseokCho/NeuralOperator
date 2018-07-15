@@ -1,0 +1,103 @@
+City	Country	IATA	ICAO	Airport
+Abu Dhabi	United Arab Emirates	AUH	OMAA	Abu Dhabi International Airport
+Adelaide	Australia	ADL	YPAD	Adelaide Airport
+Ahmedabad	India	AMD	VAAH	Sardar Vallabhbhai Patel International Airport
+Amritsar	India	ATQ	VIAR	Sri Guru Ram Dass Jee International Airport
+Amsterdam	Netherlands	AMS	EHAM	Amsterdam Schiphol Airport
+Athens (resumes 9 June 2014)	Greece	ATH	LGAV	Athens International Airport
+Auckland	New Zealand	AKL	NZAA	Auckland Airport
+Bahrain	Bahrain	BAA	OBBI	Bahrain International Airport
+Bandar Seri Begawan	Brunei	BWN	WBSB	Brunei International Airport
+Bangalore	India	BLR	VOBL	Bengaluru International Airport
+Bangkok	Thailand	BKK	VTBS	Suvarnabhumi Airport
+Barcelona	Spain	BCN	LEBL	Barcelona El Prat Airport
+Beijing	China	PEK	ZBAA	Beijing Capital International Airport
+Berlin	Germany	SXF	EDDB	Berlin-Schönefeld Airport
+Brisbane	Australia	BNE	YBBN	Brisbane Airport
+Busan (resumes March 23, 2014)	South Korea	PUS	RKPK	Gimhae International Airport
+Brussels	Belgium	BRU	EBBR	Brussels Airport
+Cairns	Australia	CNS	YBCS	Cairns Airport
+Cairo	Egypt	CAI	HECA	Cairo International Airport
+Cape Town	South Africa	CPT	FACT	Cape Town International Airport
+Chennai	India	MAA	VOMM	Chennai International Airport
+Chicago	United States	ORD	KORD	O'Hare International Airport
+Christchurch	New Zealand	CHC	NZCH	Christchurch International Airport
+Colombo	Sri Lanka	CMB	VCBI	Bandaranaike International Airport
+Copenhagen	Denmark	CPH	EKCH	Copenhagen Airport
+Darwin	Australia	DRW	YPDN	Darwin International Airport
+Delhi	India	DEL	VIDP	Indira Gandhi International Airport
+Denpasar	Indonesia	DPS	WADD	Ngurah Rai International Airport
+Dhahran	Saudi Arabia	DHA	OEDR	Dhahran International Airport
+Dhaka	Bangladesh	DAC	VCBI	Shahjalal International Airport
+Dubai	United Arab Emirates	DXB	OMDB	Dubai International Airport
+Durban	South Africa	DUR	FADN	Durban International Airport
+Frankfurt	Germany	FRA	EDDF	Frankfurt Airport
+Fukuoka	Japan	FUK	RJFF	Fukuoka Airport
+Guangzhou	China	CAN	ZGGG	Guangzhou Baiyun International Airport
+Hangzhou	China	HGH	ZSHC	Hangzhou Xiaoshan International Airport
+Hanoi	Vietnam	HAN	VVNB	Noi Bai International Airport
+Hiroshima	Japan	HIJ	RJOA	Hiroshima Airport
+Hobart	Australia	HBA	YMHB	Hobart International Airport
+Ho Chi Minh City	Vietnam	SGN	VVTS	Tan Son Nhat International Airport
+Hong Kong	Hong Kong	HKG	VHHH	Hong Kong International Airport
+Honolulu	United States	HNL	PHNL	Honolulu International Airport
+Houston	United States	IAH	KIAH	George Bush Intercontinental Airport
+Hyderabad	India	HYD	VOHS	Rajiv Gandhi International Airport
+Istanbul	Turkey	IST	LTBA	Atatürk International Airport
+Jakarta	Indonesia	CGK	WIII	Soekarno–Hatta International Airport
+Jeddah	Saudi Arabia	JED	OEJN	King Abdulaziz International Airport
+Johannesburg	South Africa	JNB	FAJS	OR Tambo International Airport
+Kaohsiung	Taiwan	KHH	RCKH	Kaohsiung International Airport
+Karachi	Pakistan	KHI	OPKC	Jinnah International Airport
+Kathmandu	Nepal	KTM	VNKT	Tribhuvan International Airport
+Kolkata	India	CCU	VECC	Netaji Subhash Chandra Bose International Airport
+Kota Kinabalu	Malaysia	BKI	WBKK	Kota Kinabalu International Airport
+Kuala Lumpur	Malaysia	KUL	WMKK	Kuala Lumpur International Airport
+Kuching	Malaysia	KCH	WBGG	Kuching International Airport
+Kuwait City	Kuwait	KWI	OKBK	Kuwait International Airport
+Lahore	Pakistan	LHE	OPLA	Allama Iqbal International Airport
+Las Vegas	United States	LAS	KLAS	McCarran International Airport
+London	United Kingdom	LHR	EGLL	London Heathrow Airport
+Los Angeles	United States	LAX	KLAX	Los Angeles International Airport
+Macau	Macau	MFM	VMCC	Macau International Airport
+Madrid	Spain	MAD	LEMD	Madrid-Barajas Airport
+Malé	Maldives	MLE	VRMM	Ibrahim Nasir International Airport
+Malta	Malta	MLA	LMML	Malta International Airport
+Manchester	United Kingdom	MAN	EGCC	Manchester Airport
+Manila	Philippines	MNL	RPLL	Ninoy Aquino International Airport
+Mauritius	Mauritius	MRU	FIMP	Sir Seewoosagur Ramgoolam International Airport
+Melbourne	Australia	MEL	YMML	Melbourne Airport
+Milan	Italy	MXP	LIMC	Malpensa Airport
+Moscow	Russia	DME	UUDD	Domodedovo International Airport
+Mumbai	India	BOM	VABB	Chhatrapati Shivaji International Airport
+Munich	Germany	MUC	EDDM	Munich Airport
+Nagoya	Japan	NGO	RJGG	Chūbu Centrair International Airport
+Nanjing	China	NKG	ZSNJ	Nanjing Lukou International Airport
+Newark [ends 23 November 2013]	United States	EWR	KEWR	Newark Liberty International Airport
+New York City	United States	JFK	KJFK	John F. Kennedy International Airport
+Okinawa	Japan	OKA	ROAH	Naha International Airport
+Osaka	Japan	KIX	RJBB	Kansai International Airport
+Paris	France	CDG	LFPG	Charles de Gaulle Airport
+Penang	Malaysia	PEN	WMKP	Penang International Airport
+Perth	Australia	PER	YPPH	Perth Airport
+Riyadh	Saudi Arabia	RUH	OERK	King Khalid International Airport
+Rome	Italy	FCO	LIRF	Leonardo da Vinci-Fiumicino Airport
+San Francisco	United States	SFO	KSFO	San Francisco International Airport
+São Paulo	Brazil	GRU	SBGR	São Paulo-Guarulhos International Airport
+Sapporo	Japan	CTS	RJCC	New Chitose Airport
+Sendai	Japan	SDJ	RJSS	Sendai Airport
+Seoul	South Korea	ICN	RKSI	Incheon International Airport
+Shanghai	China	PVG	ZSPD	Shanghai Pudong International Airport
+Shenzhen	China	SZX	ZGSZ	Shenzhen Bao'an International Airport
+Singapore	Singapore	SIN	WSSS	Singapore Changi Airport
+Surabaya	Indonesia	SUB	WARR	Juanda International Airport
+Sydney	Australia	SYD	YSSY	Sydney Airport
+Taipei	Taiwan	TPE	RCTP	Taipei Taoyuan International Airport
+Tehran	Iran	THR	OIII	Tehran International Airport
+Tokyo	Japan	HND	RJTT	Haneda International Airport
+Tokyo	Japan	NRT	RJAA	Narita International Airport
+Toronto	Canada	YYZ	CYYZ	Toronto Pearson International Airport
+Vancouver	Canada	YVR	CYVR	Vancouver International Airport
+Vienna	Austria	VIE	LOWW	Vienna International Airport
+Yangon	Burma	RGN	VYYY	Yangon International Airport
+Zurich	Switzerland	ZRH	LSZH	Zurich Airport

@@ -1,0 +1,7 @@
+Model Number	Frequency	L2-Cache	Front Side Bus	Multiplier	Voltage	Socket	Release Date
+C7 1.0	1000 MHz	128 KiB	400 MT/s	10×	 V	NanoBGA2	May 27, 2005
+C7 1.3	1300 MHz	128 KiB	400 MT/s	13×	1.004 V	NanoBGA2	May 27, 2005
+C7 1.5	1500 MHz	128 KiB	400 MT/s	15×	 V	NanoBGA2	May 27, 2005
+C7 1.6	1600 MHz	128 KiB	400 MT/s	16×	 V	NanoBGA2	May 27, 2005
+C7 1.8	1800 MHz	128 KiB	800 MT/s	9×	 V	NanoBGA2	May 27, 2005
+C7 2.0	2000 MHz	128 KiB	800 MT/s	10×	 V	NanoBGA2	May 27, 2005

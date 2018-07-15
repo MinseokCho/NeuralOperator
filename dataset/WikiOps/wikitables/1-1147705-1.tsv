@@ -1,0 +1,12 @@
+model	max. motive power	max. torque at rpm	engine displacement	engine type	engine configuration & notes 0-100km/h
+2.0	PS ( kW ; hp )	N·m ( lbf·ft ) @ 4,800	cc ( cuin )	B5202 FS	straight-5 [ 12.3 s]
+2.0T	PS (kW; hp)	N·m (lbf·ft) @ 2,100	cc (cuin)	B5204 T2	straight-5 low pressure turbo [ 9.5 s]
+2.0 T5	PS (kW; hp)	N·m (lbf·ft) @ 2,700	cc (cuin)	B5204 T3	straight-5 high pressure turbo
+2.4	PS (kW; hp)	N·m (lbf·ft) @ 4,700	cc (cuin)	B5244 S	straight-5 [8.8 s]
+2.5	PS (kW; hp)	N·m (lbf·ft) @ 3,600	cc (cuin)	B5252 FS	straight-5 [ 10.7 s]
+2.5T AWD	PS (kW; hp)	N·m (lbf·ft) @ 1,800	cc (cuin)	B5254 T	straight-5 low pressure turbo [ 7.5 s]
+Base 2.4	PS (kW; hp)	N·m (lbf·ft) @ 3,300	cc (cuin)	B5242 S	straight-5
+Base 2.4 SE	PS (kW; hp)	N·m (lbf·ft) @ 3,300	cc (cuin)	B5244 S2	straight-5
+GLT	PS (kW; hp)	N·m (lbf·ft) @ 1,800	cc (cuin)	B5244 T2	straight-5 low pressure turbo
+2.4 AWD	PS (kW; hp)	N·m (lbf·ft) @ 1,800	cc (cuin)	B5244 T3	straight-5 low pressure turbo
+2.3 T5	PS (kW; hp)	N·m (lbf·ft) @ 2,700	cc (cuin)	B5234 T3	straight-5 high pressure turbo [ 5.9-6.4 s]

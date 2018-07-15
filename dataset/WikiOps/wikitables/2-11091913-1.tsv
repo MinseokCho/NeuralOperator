@@ -1,0 +1,61 @@
+County	Name	Length (miles)	West or south terminus	East or north terminus
+Adams	L-1E	0.21	NE 74 east of Ayr	U.S. 281 east of Ayr
+Boone	L-6A	0.10	NE 14 near Albion	NE 39 near Albion
+Box Butte	L-7E	10.27	NE 2 in Hemingford	NE 87 north of Alliance
+Buffalo	L-10B	1.98	I-80 (exit 263) south of Odessa	U.S. 30 in Odessa
+Buffalo	L-10C	3.89	I-80 (exit 285) south of Gibbon	U.S. 30 in Gibbon
+Buffalo	L-10D	3.99	I-80 (exit 291) south of Shelton	U.S. 30 in Shelton
+Buffalo	L-10E	0.30	U.S. 30 in Elm Creek	U.S. 183 in Elm Creek
+Cheyenne	L-17B	0.72	I-80 (exit 38) south of Potter	U.S. 30 in Potter
+Cheyenne	L-17C	1.07	I-80 (exit 48) south of Brownson	U.S. 30 west of Brownson
+Cheyenne	L-17E	3.05	I-80 (exit 69) south of Sunol	U.S. 30 in Sunol
+Cheyenne	L-17F	2.31	I-80 (exit 76) south of Lodgepole	U.S. 30 east of Lodgepole
+Cheyenne	L-17J	2.43	I-80 (exit 59) in Sidney	U.S. 30 in Sidney
+Cuming	L-20A	5.37	U.S. 275 in Beemer	NE 51 north of Beemer
+Dawes	L-23D	0.26	U.S. 20 west of Chadron	U.S. 385 west of Chadron
+Dawson	L-24A	1.80	I-80 (exit 231) west of Lexington	U.S. 30 / NE 21 west of Lexington
+Dawson	L-24B	3.88	I-80 (exit 248) south of Overton	U.S. 30 in Overton
+Dawson	L-24D	0.28	U.S. 30 in Gothenburg	NE 47 in Gothenburg
+Deuel	L-25A	0.63	I-80 (exit 85) south of Chappell	U.S. 385 south of Chappell
+Deuel	L-25B	1.10	I-80 (exit 107) south of Big Springs	U.S. 138 in Big Springs
+Dixon	L-26D	0.35	S-26B west of Concord	NE 116 west of Concord
+Douglas	L-28B	3.39	U.S. 275 south of Waterloo	U.S. 6 / NE 31 in Omaha
+Douglas	L-28E	0.53	NE 92 south of Waterloo	U.S. 275 south of Waterloo
+Douglas	L-28H	0.25	U.S. 75 in Omaha	I-680 (exit 13) in Omaha
+Douglas	L-28K	3.36	NE 133 in Omaha	NE 64 in Omaha
+Franklin	L-31D	1.20	U.S. 136 west of Franklin	U.S. 136 / NE 10 in Franklin
+Gage	L-34H	0.31	NE 112 west of Blue Springs	U.S. 77 west of Blue Springs
+Hall	L-40C	5.60	I-80 (exit 305) south of Alda	U.S. 30 in Alda
+Hamilton	L-41D	4.12	I-80 (exit 338) south of Hampton	U.S. 34 in Hampton
+Hitchcock	L-44C	0.81	U.S. 6 west of Culbertson	U.S. 6/ U.S. 34 west of Culbertson
+Holt	L-45B	5.74	U.S. 275 in Ewing	U.S. 20 north of Ewing
+Kearney	L-50A	7.02	NE 44 south of Kearney	NE 10 north of Minden
+Keith	L-51A	1.10	I-80 (exit 117) south of Brule	U.S. 30 in Brule
+Keith	L-51B	1.00	I-80 (exit 133) south of Roscoe	U.S. 30 east of Roscoe
+Keith	L-51C	1.05	I-80 (exit 145) south of Paxton	U.S. 30 in Paxton
+Kimball	L-53A	1.12	I-80 (exit 29) south of Dix	U.S. 30 in Dix
+Kimball	L-53B	0.41	I-80 (exit 1) east of Pine Bluffs	U.S. 30 east of Pine Bluffs
+Kimball	L-53C	2.72	I-80 (exit 8) south of Bushnell	U.S. 30 in Bushnell
+Kimball	L-53E	1.50	I-80 (exit 22) southeast of Kimball	U.S. 30 east of Kimball
+Lancaster	L-55K	0.70	U.S. 6 in Lincoln	I-80 (exit 395) west of Lincoln
+Lancaster	L-55W	2.28	U.S. 77 in Lincoln	NE 2 in Lincoln
+Lancaster	L-55X	2.67	U.S. 6 in Lincoln	I-80 / U.S. 77 (exit 405) north of Lincoln
+Lincoln	L-56C	1.98	I-80 (exit 164) south of Hershey	U.S. 30 in Hershey
+Lincoln	L-56D	2.27	I-80 (exit 199) south of Brady	U.S. 30 in Brady
+Lincoln	L-56G	2.02	I-80 (exit 179) in North Platte	U.S. 30 in North Platte
+Madison	L-59B	0.35	NE 45 north of Newman Grove	NE 32 north of Newman Grove
+Merrick	L-61D	0.18	NE 92 southwest of Clarks	U.S. 30 southwest of Clarks
+Morrill	L-62A	9.08	U.S. 26 north of Bayard	U.S. 385 north of Bridgeport
+Nance	L-63A	3.11	NE 39 northwest of Genoa	NE 22 northeast of Genoa
+Pawnee	L-67E	0.25	NE 50 west of Table Rock	NE 4 west of Table Rock
+Saline	L-76E	0.93	NE 33 in Dorchester	U.S. 6 / NE 15 north of Dorchester
+Scotts Bluff	L-79E	2.14	NE 92 in Melbeta	U.S. 26 west of Minatare
+Seward	L-80E	11.72	U.S. 6 in Friend	I-80 (exit 369) north of Beaver Crossing
+Seward	L-80F	5.70	I-80 (exit 366) south of Utica	U.S. 34 north of Utica
+Seward	L-80G	5.65	I-80 (exit 373) south of Goehner	U.S. 34 northeast of Tamora
+Seward	L-80H	0.68	U.S. 6 north of Milford	I-80 north of Milford
+Sherman	L-82A	3.01	NE 10 east of Hazard	NE 68 west of Rockville
+Thayer	L-85F	0.60	U.S. 81 south of Hebron	U.S. 136 south of Hebron
+Webster	L-91D	0.25	NE 4 south of Blue Hill	U.S. 281 south of Blue Hill
+York	L-93B	5.62	I-80 (exit 360) south of Waco	U.S. 34 in Waco
+York	L-93E	4.68	I-80 (exit 348) west of York	U.S. 34 west of York

@@ -1,0 +1,9 @@
+Interferon beta-1a	Betaseron (beta-1b)	Copaxone	Mitoxantrone	Tysabri	Fingolimod (Gylenya)	Teriflunomide
+—	—	—	—	—	—	—
+NO	—	—	—	—	—	—
+YES	NO	—	—	—	—	—
+NO	NO	YES	—	—	—	—
+YES (linked to PML)	NO	YES	NO	—	—	—
+NO	NO	NO	NO	NO	—	—
+YES	NO	NO	NO	NO	NO	—
+NO	YES	NO	NO	NO	NO	—

@@ -1,0 +1,10 @@
+Sequencer	Ion Torrent PGM	454 GS FLX	HiSeq 2000	SOLiDv4	PacBio	Sanger 3730xl
+Manufacturer	Ion Torrent (Life Technologies)	454 Life Sciences (Roche)	Illumina	Applied Biosystems (Life Technologies)	Pacific Biosciences	Applied Biosystems (Life Technologies)
+Sequencing Chemistry	Ion semiconductor sequencing	Pyrosequencing	Polymerase-based sequence-by-synthesis	Ligation-based sequencing	Phospholinked fluorescent nucleotides	Dideoxy chain termination
+Amplification approach	Emulsion PCR	Emulsion PCR	Bridge amplification	Emulsion PCR	Single-molecule; no amplification	PCR
+Data output per run	100-200 Mb	0.7 Gb	600 Gb	120 Gb	100-500 Mb	1.9∼84 Kb
+Accuracy	99%	99.9%	99.9%	99.94%	90%	99.999%
+Time per run	2 hours	24 hours	3–10 days	7–14 days	2 hours	20 minutes - 3 hours
+Read length	200-400 bp	700 bp	100x100 bp paired end	50x50 bp paired end	1,500-5,000 bp (avg)	400-900 bp
+Cost per run	$350 USD	$7,000 USD	$6,000 USD (30x human genome)	$4,000 USD	$300 USD	$4 USD (single read/reaction)
+Cost per Mb	$1.00 USD	$10 USD	$0.07 USD	$0.13 USD	$2.00 USD	$2400 USD

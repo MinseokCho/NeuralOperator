@@ -1,0 +1,18 @@
+Animal Name	Species	Books	TV Series	Gender	TV Seasons
+Fox	Fox	Yes	Yes	Male	1,2,3
+Badger	Badger	Yes	Yes	Male	1,2*
+Toad	Toad	Yes	Yes	Male	1,2,3
+Owl	Owl	Yes (as Tawny Owl)	Yes	Female (TV) Male (books)	1,2,3
+Weasel	Weasel	Yes	Yes	Female (TV) Male (books)	1,2,3
+Adder	Snake	Yes	Yes	Female (TV) Male (books)	1,2,3
+Kestrel	Kestrel	Yes	Yes	Female (TV) Male (books)	1,2
+Mole	Mole	Yes	Yes	Male	1,2*
+The Pheasants	Pheasants	Yes	Yes	Both	1**
+The Rabbits	Rabbits	Yes	Yes	Both	1*,2*,3
+The Hares	Hares	Yes	Yes	Both	1,2
+The Hedgehogs	s Hedgehog	Yes	Yes	Both	1**
+The Squirrels	Squirrels	Yes	Yes	Both	1,2,3
+The Voles	Voles	Yes	Yes	Both	1,2**
+The Shrews	s Shrew	No	Yes	Both	1,2
+The Fieldmice	Field mice	Yes	Yes (as the Mice)	Both	1***,2**
+The Lizards/The Newts	Lizards / Newts	Yes (Lizards)	Yes (Newts)	Both	1***

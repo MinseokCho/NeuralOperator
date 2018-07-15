@@ -1,0 +1,13 @@
+Colt model no.	Military designation	Barrel Length	Barrel	Handguard type	Buttstock type	Pistol grip type	Lower receiver type	Upper receiver type	Rear sight type	Front sight type	Muzzle device	Forward assist?	Case deflector?	Bayonet lug?	Trigger pack
+601	AR-15	20 in (508mm)	A1 profile (1:14 twist)	Green or brown full-length triangular	Green or brown fixed A1	A1	A1	A1	A1	A1	Duckbill flash suppressor	No	No	Yes	Safe-Semi-Auto
+602	AR-15 or XM16	20 in (508mm)	A1 profile (1:12 twist)	Full-length triangular	Fixed A1	A1	A1	A1	A1	A1	Duckbill or three-prong flash suppressor	No	No	Yes	Safe-Semi-Auto
+603	XM16E1	20 in (508mm)	A1 profile (1:12 twist)	Full-length triangular	Fixed A1	A1	A1	A1	A1	A1	Three-prong or M16A1 birdcage flash suppressor	Yes	No	Yes	Safe-Semi-Auto
+603	M16A1	20 in (508mm)	A1 profile (1:12 twist)	Full-length triangular	Fixed A1	A1	A1	A1	A1	A1	Three-prong or birdcage flash suppressor	Yes	No	Yes	Safe-Semi-Auto
+645	M16A1E1/PIP	20 in (508mm)	A2 profile (1:7 twist)	Full-length ribbed	Fixed A2	A1	A1 or A2	A1 or A2	A1 or A2	A2	M16A1 or M16A2-style birdcage flash suppressor	Yes	Yes or No	Yes	Safe-Semi-Auto or Safe-Semi-Burst
+645	M16A2	20 in (508mm)	A2 profile (1:7 twist)	Full-length ribbed	Fixed A2	A2	A2	A2	A2	A2	M16A2-style birdcage flash suppressor	Yes	Yes	Yes	Safe-Semi-Burst
+645E	M16A2E1	20 in (508mm)	A2 profile (1:7 twist)	Full-length ribbed	Fixed A2	A2	A2	Flattop with Colt Rail	Flip-up	Folding	M16A2-style birdcage flash suppressor	Yes	Yes	Yes	Safe-Semi-Burst
+N/A	M16A2E2	20 in (508mm)	A2 profile (1:7 twist)	Full-length semi-beavertail w/ HEL guide	Retractable ACR	ACR	A2	Flattop with Colt rail	None	A2	ACR muzzle brake	Yes	Yes	Yes	Safe-Semi-Burst
+646	M16A2E3/M16A3	20 in (508mm)	A2 profile (1:7 twist)	Full-length ribbed	Fixed A2	A2	A2	A2	A2	A2	M16A2-style birdcage flash suppressor	Yes	Yes	Yes	Safe-Semi-Auto
+655	M16A1 Special High Profile	20 in (508mm)	HBAR profile (1:12 twist)	Full-length triangular	Fixed A1	A1	A1	A1	A1	A1	M16A1-style birdcage flash suppressor	Yes	No	Yes	Safe-Semi-Auto
+656	M16A1 Special Low Profile	20 in (508mm)	HBAR profile (1:12 twist)	Full-length triangular	Fixed A1	A1	A1	A1 with modified Weaver base	Low Profile A1	Hooded A1	M16A1-style birdcage flash suppressor	Yes	No	Yes	Safe-Semi-Auto
+945	M16A2E4/M16A4	20 in (508mm)	A2 profile (1:7 twist)	Full-length ribbed or KAC M5 RAS	Fixed A2	A2	A2	Flattop with MIL-STD-1913 rail	None	A4	M16A2-style birdcage flash suppressor	Yes	Yes	Yes	Safe-Semi-Burst

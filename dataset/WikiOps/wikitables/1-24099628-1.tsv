@@ -1,0 +1,10 @@
+Processor	Brand name	Model (list)	Cores	L2 Cache	Socket	TDP
+Allendale	Xeon	3xxx	2	2 MB	LGA 775	65 W
+Conroe	Xeon	3xxx	2	2-4 MB	LGA 775	65 W
+Conroe and Allendale	Core 2 Duo	E4xxx	2	2 MB	LGA 775	65 W
+Conroe and Allendale	Core 2 Duo	E6xx0	2	2-4 MB	LGA 775	65 W
+Conroe-CL	Core 2 Duo	E6xx5	2	2-4 MB	LGA 771	65 W
+Conroe-XE	Core 2 Extreme	X6xxx	2	4 MB	LGA 775	75 W
+Allendale	Pentium Dual-Core	E2xxx	2	1 MB	LGA 775	65 W
+Allendale	Celeron	E1xxx	2	512 KB	LGA 775	65 W
+Conroe-L	Celeron	4x0	1	512 KB	LGA 775	35 W

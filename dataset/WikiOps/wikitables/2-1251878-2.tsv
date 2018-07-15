@@ -1,0 +1,7 @@
+Frame size	Width	Height	Mpix	Aspect Ratio	max. fps	max. fps HDRx	lowest possible REDCODE at 24 fps	lowest possible REDCODE at max. fps
+5K	5120	2700	13.8	1.9:1	96	48	3:1	12:1
+5K WS	5120	2134	10.9	2.4:1	120	60	3:1	12:1
+4K	4096	2160	8.8	1.9:1	120	60	3:1	12:1
+4K HD	3840	2160	8.2	1.78:1	120	60	3:1	12:1
+3K	3072	1620	5.0	1.9:1	160	80	3:1	12:1
+2K	2048	1080	2.2	1.9:1	300	120	3:1	12:1

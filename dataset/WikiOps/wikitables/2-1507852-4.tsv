@@ -1,0 +1,40 @@
+Category	Type	Attribute	Bubbles	Cancelable
+Clipboard	cut	oncut	Yes	Yes
+Clipboard	copy	oncopy	Yes	Yes
+Clipboard	paste	onpaste	Yes	Yes
+Clipboard	beforecut	onbeforecut	Yes	Yes
+Clipboard	beforecopy	onbeforecopy	Yes	Yes
+Clipboard	beforepaste	onbeforepaste	Yes	Yes
+Data binding	afterupdate	onafterupdate	Yes	No
+Data binding	beforeupdate	onbeforeupdate	Yes	Yes
+Data binding	cellchange	oncellchange	Yes	No
+Data binding	dataavailable	ondataavailable	Yes	No
+Data binding	datasetchanged	ondatasetchanged	Yes	No
+Data binding	datasetcomplete	ondatasetcomplete	Yes	No
+Data binding	errorupdate	onerrorupdate	Yes	No
+Data binding	rowenter	onrowenter	Yes	No
+Data binding	rowexit	onrowexit	No	Yes
+Data binding	rowsdelete	onrowsdelete	Yes	No
+Data binding	rowinserted	onrowinserted	Yes	No
+Mouse	contextmenu	oncontextmenu	Yes	Yes
+Mouse	drag	ondrag	Yes	Yes
+Mouse	dragstart	ondragstart	Yes	Yes
+Mouse	dragenter	ondragenter	Yes	Yes
+Mouse	dragover	ondragover	Yes	Yes
+Mouse	dragleave	ondragleave	Yes	Yes
+Mouse	dragend	ondragend	Yes	Yes
+Mouse	drop	ondrop	Yes	Yes
+Mouse	selectstart	onselectstart	Yes	Yes
+Keyboard	help	onhelp	Yes	Yes
+HTML frame/object	beforeunload	onbeforeunload	No	Yes
+HTML frame/object	stop	onstop	No	No
+HTML form	beforeeditfocus	onbeforeeditfocus	Yes	Yes
+Marquee	start	onstart	No	No
+Marquee	finish	onfinish	No	Yes
+Marquee	bounce	onbounce	No	Yes
+Miscellaneous	beforeprint	onbeforeprint	No	No
+Miscellaneous	afterprint	onafterprint	No	No
+Miscellaneous	propertychange	onpropertychange	No	No
+Miscellaneous	filterchange	onfilterchange	No	No
+Miscellaneous	readystatechange	onreadystatechange	No	No
+Miscellaneous	losecapture	onlosecapture	No	No

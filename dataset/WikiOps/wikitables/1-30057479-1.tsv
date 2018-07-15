@@ -1,0 +1,7 @@
+Material	Type	Geometry	Output voltage	Output power	Synthesis	Researched at
+ZnO (n-type)	Wurtzite	D: ~100nm, L: 200~500nm	V P =~9 mV @ R=500MΩ	~0.5 pW per cycle (estimated)	CVD, hydrothermal process	Georgia Tech.
+ZnO (p-type)	Wurtzite	D: ~50nm, L: ~600nm	V P =50~90 mV @ R=500MΩ	5~16.2 pW per cycle (calculated)	CVD	Georgia Tech.
+ZnO-ZnS	Wurtzite (Heterostructure)	Not stated	V P =~6 mV @ R=500MΩ	~0.1 pW per cycle (calculated)	Thermal evaporation and etching	Georgia Tech.
+GaN	Wurtzite	D: 25~70nm, L: 10~20 μm	V avg =~20 mV,V max =~0.35 V@ R=500MΩ	~0.8 pW per cycle (average, calculated)	CVD	Georgia Tech.
+CdS	Wurtzite	D: ~100nm, L: 1 μm	V P =~3 mV	Not stated	PVD, Hydrothermal Process	Georgia Tech.
+BaTiO 3	Pervoskite	D: ~280nm, L: ~15 μm	V P =~25 mV @ R=100MΩ	~0.3 aJ per cycle (stated)	High temperature chemical reaction	UIUC

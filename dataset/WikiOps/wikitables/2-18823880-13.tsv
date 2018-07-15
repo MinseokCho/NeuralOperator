@@ -1,0 +1,15 @@
+Model number	sSpec number	Cores	Frequency	Turbo	L2 cache	L3 cache	GPU model	GPU frequency	Socket	I/O bus	Release date	Part number(s)	Release price ( USD )
+standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power	standard power
+Core i7-2630QM	SR02Y(D2)	4	2 GHz	6/6/8/9	4 × 256 KB	6 MB	HD Graphics 3000	650–1100 MHz	SocketG2	DMI 2.0	January 2011	FF8062700837005	$378
+Core i7-2635QM	SR030(D2)	4	2 GHz	6/6/8/9	4 × 256 KB	6 MB	HD Graphics 3000	650–1200 MHz	BGA-1224	DMI 2.0	January 2011	AV8062700837205	$378
+Core i7-2670QM	SR02N(D2)	4	2.2 GHz	6/6/8/9	4 × 256 KB	6 MB	HD Graphics 3000	650–1100 MHz	Socket G2	DMI 2.0	October 2011	FF8062701065500	$378
+Core i7-2675QM	SR02S(D2)	4	2.2 GHz	6/6/8/9	4 × 256 KB	6 MB	HD Graphics 3000	650–1200 MHz	BGA-1224	DMI 2.0	October 2011	AV8062701065600	$378
+Corei7-2720QM	SR014(D2)SR00W(D2)	4	2.2 GHz	8/8/10/11	4 × 256 KB	6 MB	HD Graphics 3000	650–1300 MHz	Socket G2BGA-1224	DMI 2.0	January 2011	FF8062700835817AV8062700836011	$378
+Corei7-2760QM	SR02W(D2)SR02R(D2)	4	2.4 GHz	8/8/10/11	4 × 256 KB	6 MB	HD Graphics 3000	650–1300 MHz	Socket G2BGA-1224	DMI 2.0	September 2011	FF8062701065300AV8062701065400	$378
+Core i7-2820QM	SR012(D2)SR00U(D2)	4	2.3 GHz	8/8/10/11	4 × 256 KB	8 MB	HD Graphics 3000	650–1300 MHz	Socket G2BGA-1224	DMI 2.0	January 2011	FF8062700834709AV8062700834912	$568
+Core i7-2860QM	SR02X(D2)SR02Q(D2)	4	2.5 GHz	8/8/10/11	4 × 256 KB	8 MB	HD Graphics 3000	650–1300 MHz	Socket G2BGA-1224	DMI 2.0	September 2011	FF8062701065100AV8062701065200	$568
+Core i7-2920XM	SR02E(D2)	4	2.5 GHz	7/7/9/10	4 × 256 KB	8 MB	HD Graphics 3000	650–1300 MHz	Socket G2	DMI 2.0	January 2011	FF8062700834406	$1096
+Core i7-2960XM	SR02F(D2)	4	2.7 GHz	7/7/9/10	4 × 256 KB	8 MB	HD Graphics 3000	650–1300 MHz	Socket G2	DMI 2.0	September 2011	FF8062700834603	$1096
+standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded	standard power, embedded
+Core i7-2710QE	SR02T(D2)	4	2.1 GHz	6/6/8/9	4 × 256 KB	6 MB	HD Graphics 3000	650–1200 MHz	Socket G2	DMI 2.0	January 2011	FF8062700841002	$378
+Core i7-2715QE	SR076(D2)	4	2.1 GHz	6/6/8/9	4 × 256 KB	6 MB	HD Graphics 3000	650–1200 MHz	BGA-1023	DMI 2.0	January 2011	AV8062700843908	$378

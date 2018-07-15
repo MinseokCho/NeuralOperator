@@ -1,0 +1,16 @@
+Issuing network	IIN ranges	Active	Length	Validation
+American Express	34, 37 [ dead link ]	Yes	15	Luhn algorithm
+Bankcard	5610, 560221-560225	No	16	Luhn algorithm
+China UnionPay	62 or 88	Yes	16-19	no validation
+Diners Club Carte Blanche	300-305	Yes	14	Luhn algorithm
+Diners Club enRoute	2014, 2149	No	15	no validation
+Diners Club International	36	Yes	14	Luhn algorithm
+Diners Club United States & Canada	54, 55	Yes	16	Luhn algorithm
+Discover Card	6011, 622126-622925, 644-649, 65	Yes	16	Luhn algorithm
+InstaPayment	637-639[ citation needed ]	Yes	16	Luhn algorithm
+JCB	3528-3589	Yes	16	Luhn algorithm
+Laser	6304, 6706, 6771, 6709	Yes	16-19	Luhn algorithm
+MasterCard	51-55	Yes	16	Luhn algorithm
+Solo	6334, 6767	No	16, 18, 19	Luhn algorithm
+Switch	4903, 4905, 4911, 4936, 564182, 633110, 6333, 6759	No	16, 18, 19	Luhn algorithm
+Visa	4	Yes	13, 16	Luhn algorithm

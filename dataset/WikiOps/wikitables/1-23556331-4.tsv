@@ -1,0 +1,15 @@
+Code name	Market name	Platform	Release date	Android version	System on chip	RAM	ROM	Display	Weight	Battery ( mAh )	Bluetooth	Wi-Fi	NFC	Camera	Network
+Nozomi	Xperia S	Fuji	2012-02	2.3/ 4.0/ 4.1	1.5GHz Qualcomm Snapdragon S3 MSM8260, dual-core	1GB	32GB	4.3" HD	144g	1750	2.1 + EDR	802.11b/g/n	Yes	Rear: 12.1MP Front: 1.3MP	GSM / HSPA+
+Aoba	Xperia ion	Fuji	2012-03	2.3/ 4.0/ 4.1	1.5GHz Qualcomm Snapdragon S3 APQ8060, dual-core	1GB	16GB	4.55" HD	144g	1900	2.1 + EDR	802.11b/g/n	Yes	Rear: 12MP Front: 1.3MP	GSM / HSPA+ / LTE
+Hayate	Xperia acro HD	Fuji	2013-03	2.3/ 4.0	1.5GHz Qualcomm Snapdragon S3 MSM8660, dual-core	1GB	11GB	4.3" HD	149g	1900	2.1	802.11b/g/n	No	Rear: 12.1MP Front: 1.3MP	CDMA / GSM / HSPA+
+Hikari	Xperia acro HD Xperia acro S	Fuji	2013-03 (HD) 2012-08 (S)	2.3/ 4.0/ 4.1	1.5GHz Qualcomm Snapdragon S3 MSM8260, dual-core	1GB	11GB (HD) 16GB (S)	4.3" HD	149g (HD) 147g (S)	1910	2.1 (HD) 3.0 (S)	802.11b/g/n	Yes	Rear: 12.1MP Front: 1.3MP	GSM / HSPA+
+Pepper	Xperia sola	RioGrande	2012-03	2.3/ 4.0	1GHz ST-Ericsson NovaThor U8500, dual-core	512MB	8GB	3.7" FWVGA	107g	1320	2.1 + EDR	802.11b/g/n	Yes	5MP	GSM / W-CDMA
+Phoenix	Xperia neo L	Mogami	2012-03	4.0	1GHz Qualcomm Snapdragon S2 MSM8255	512MB	1GB	4" FWVGA	131.5g	1500	2.1 + EDR	802.11b/g/n	No	Rear: 5MP Front: 0.3MP	GSM / HSPA
+Nypon	Xperia P	RioGrande	2012-04	2.3/ 4.0/ 4.1	1GHz ST-Ericsson NovaThor U8500, dual-core	1GB	16GB	4" qHD	126g	1305	2.1 + EDR	802.11b/g/n	Yes	Rear: 8MP Front: 0.3MP	GSM / HSPA+
+Kumquat	Xperia U	RioGrande	2012-05	2.3/ 4.0	1GHz ST-Ericsson NovaThor U8500, dual-core	512MB	4GB	3.5" FWVGA	110g	1320	2.1 + EDR	802.11b/g/n	No	Rear: 5MP Front: 0.3MP	GSM / HSPA+
+Lotus	Xperia go	RioGrande	2012-07	2.3/ 4.0/ 4.1	1GHz ST-Ericsson NovaThor U8500, dual-core	512MB	8GB	3.5" HVGA	110g	1305	3.0	802.11b/g/n	No	5MP	GSM / HSPA+
+Tapioca	Xperia tipo Xperia tipo dual	Tamsui	2012-08	4.0	800MHz Qualcomm Snapdragon S1 MSM7225A	512MB	2.9GB	3.2" HVGA	0 99.4g	1500	2.1 + EDR	802.11b/g/n	No	Rear: 3.2MP Front: 0.3MP	GSM / HSPA
+Mesona	Xperia miro	Tamsui	2012-09	4.0	800MHz Qualcomm Snapdragon S1 MSM7225A	512MB	4GB	3.5" HVGA	110g	1500	2.1 + EDR	802.11b/g/n	No	Rear: 5MP Front: 0.3MP	GSM / HSPA
+Nozomi2	Xperia SL	Fuji	2012-09	2.3/ 4.0/ 4.1	1.7GHz Qualcomm Snapdragon S3 MSM8260, dual-core	1GB	32GB	4.3" HD	144g	1750	3.0	802.11b/g/n	Yes	Rear: 12.1MP Front: 1.3MP	GSM / HSPA+
+JLo	Xperia J	Tamsui	2012-10	4.0/ 4.1	1GHz Qualcomm Snapdragon S1 MSM7227A	512MB	4GB	4" FWVGA	124g	1750	2.1 + EDR	802.11b/g/n	No	Rear: 5MP Front: 0.3MP	GSM / HSPA
+Nanhu	Xperia E Xperia E dual	Tamsui	2013-03	4.0/ 4.1	1GHz Qualcomm Snapdragon S1 MSM7227A	512MB	4GB	3.5" HVGA	115.7g	1530	2.1 + EDR	802.11b/g/n	No	3.2MP	GSM / HSPA

@@ -1,0 +1,8 @@
+Protocol	Power Line	Radio-Frequency	Open Source?	Needs Neutral Wire?
+C-Bus	no	yes	yes	no (uses category-5 UTP)
+Insteon	yes	yes	yes	Usually
+KNX	yes	yes	yes	no [ citation needed ]
+UPB	yes	no	no	no
+X10	yes	yes	yes	no
+Zigbee	no	yes	yes	no [ citation needed ]
+Z-Wave	no	yes	no	Usually Z-wave list that need Netural

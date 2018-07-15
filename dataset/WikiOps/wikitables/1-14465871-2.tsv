@@ -1,0 +1,23 @@
+Application	Version	Cmdlets	Provider	Management GUI
+Exchange Server	2007	402	Yes	Yes
+Windows Server	2008	Yes	Yes	No
+Microsoft SQL Server	2008	Yes	Yes	No
+Microsoft SharePoint	2010	Yes	Yes	No
+System Center Operations Manager	2007	74	Yes	No
+System Center Virtual Machine Manager	2007	Yes	Yes	Yes
+System Center Data Protection Manager	2007	Yes	No	No
+Windows Compute Cluster Server	2007	Yes	Yes	No
+Microsoft Transporter Suite for Lotus Domino	08.02.0012	47	No	No
+Microsoft PowerTools for Open XML	1.0	33	No	No
+IBM WebSphere MQ	6.0.2.2	44	No	No
+Quest Management Shell for Active Directory	1.1	40	No	No
+Special Operations Software Specops Command	1.0	Yes	No	Yes
+VMware vSphere PowerCLI	5.1 R2	370	No	Yes
+Internet Information Services	7.0	54	Yes	No
+Windows 7 Troubleshooting Center	6.1	Yes	No	Yes
+Microsoft Deployment Toolkit	2010	Yes	Yes	Yes
+NetApp Data ONTAP PowerShell Toolkit	2.1	1158	Yes	Yes
+JAMS Scheduler - Job Access & Management System	5.0	52	Yes	Yes
+UIAutomation	0.8	432	No	No
+Dell Equallogic	3.5	55	No	No
+LOGINventory	5.8	Yes	Yes	Yes

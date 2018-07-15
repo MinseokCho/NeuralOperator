@@ -1,0 +1,35 @@
+2nd component	b.p. 2nd comp. (˚C)	3rd component	b.p. 3rd comp. (˚C)	b.p. azeo. (˚C)	% wt 1st	% wt 2nd	% wt 3rd
+ethanol	78.4	ethyl acetate	77.1	70.3°C	7.8	9.0	83.2
+ethanol	78.4	cyclohexane	80.8	62.1	7	17	76
+ethanol	78.4	benzene	80.2	64.9	7.4 U 1.3 L 43.1	18.5 U 12.7 L 52.1	74.1 U 86.0 L 4.8
+ethanol	78.4	chloroform	61.2	55.5	3.5 U 80.8 L 0.5	4.0 U 18.2 L 3.7	92.5 U 1.0 L 95.8
+ethanol	78.4	carbon tetrachloride	86.8	61.8	4.3	9.7	86.0
+ethanol	78.4	carbon tetrachloride	86.8	61.8	3.4 U 44.5 L <0.1	10.3 U 48.5 L 5.2	86.3 U 7.0 L 94.8
+ethanol	78.4	ethylene chloride	83.7	66.7	5	17	78
+ethanol	78.4	acetonitrile	82.0	72.9	1.0	55.0	44.0
+ethanol	78.4	toluene	110.6	74.4	12.0 U 3.1 L 20.7	37.0 U 15.6 L 54.8	51.0 U 81.3 L 24.5
+ethanol	78.4	methyl ethyl ketone	79.6	73.2	11.0	14.0	75.0
+ethanol	78.4	n-hexane	69.0	56.0	3.0 U 0.5 L 19.0	12.0 U 3.0 L 75.0	85.0 U 96.5 L 6.0
+ethanol	78.4	n-heptane	98.4	68.8	6.1 U 0.2 L 15.0	33.0 U 5.0 L 75.9	60.9 U 94.8 L 9.1
+ethanol	78.4	carbon disulfide	46.2	41.3	1.6	5.0	93.4
+n-propanol	97.2	cyclohexane	80.8	66.6	8.5	10.0	81.5
+n-propanol	97.2	benzene	80.2	68.5	8.6	9.0	82.4
+n-propanol	97.2	carbon tetrachloride	76.8	65.4	5 U 84.9 L 1.0	11 U 15.0 L 11.0	84 U 0.1 L 88.0
+n-propanol	97.2	diethyl ketone	102.2	81.2	20	20	60
+n-propanol	97.2	n-propyl acetate	101.6	82.2	21.0	19.5	59.5
+isopropanol	82.5	cyclohexane	80.8	64.3	7.5	18.5	74.0
+isopropanol	82.5	cyclohexane	80.8	66.1	7.5	21.5	71.0
+isopropanol	82.5	benzene	80.2°C	66.5	7.5	18.7	73.8
+isopropanol	82.5	benzene	80.2°C	65.7°C	8.2 U 2.3 L 85.1	19.8 U 20.2 L 14.4	72.0 U 77.5 L 0.5
+isopropanol	82.5	methyl ethyl ketone	79.6	73.4	11.0	1.0	88.0
+isopropanol	82.5	toluene	110.6	76.3	13.1 U 8.5 L 61.0	38.2 U 38.2 L 38.0	48.7 U 53.3 L 1.0
+allyl alcohol	97.0	n-hexane	69.0	59.7	5 U 0.5 L 64.4	5 U 3.6 L 34.8	90 U 95.9 L 0.8
+allyl alcohol	97.0	benzene	80.2	68.2	8.6 U 0.6 L 80.9	9.2 U 8.7 L 17.7	82.2 U 90.7 L 0.4
+allyl alcohol	97.0	cyclohexane	80.8	66.2	8	11	81
+allyl alcohol	97.0	carbon tetrachloride	76.8	65.2	5 U 71.7 L 0.8	11 U 25.6 L 10.1	84 U 2.7 L 89.1
+benzene	80.1	acetonitrile	82.0	66.0	8.2	68.5	23.3
+benzene	80.1	methyl ethyl ketone	79.6	68.2	8.8 U 0.6 L 94.7	65.1 U 71.3 L 0.1	26.1 U 28.1 L 5.2
+methyl ethyl ketone	79.6	carbon tetrachloride	76.8	65.7	3.0 U 94.4 L 0.1	22.2 U 5.5 L 22.6	74.8 U 0.1 L 77.3
+methyl ethyl ketone	79.6	cyclohexane	81.0	63.6	5.0 U 0.6 L 89.9	60.0 U 37.0 L 10.0	35.0 U 62.4 L 0.1
+chloroform	61.2	methanol	64.65	52.6	4.0 U 27.0 L 3.0	81.0 U 32.0 L 83.0	15.0 U 41.0 L 14.0
+chloroform	61.2	acetone ‡	56.5	60.4	4.0	57.6	38.4

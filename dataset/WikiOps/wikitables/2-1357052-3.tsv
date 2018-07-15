@@ -1,0 +1,34 @@
+Distribution	x86-64	ia64	ppc64	sparc32	hppa	mips	s390	s390x	alpha	m68k
+Arch Linux	Yes	No	No	No	No	No	No	No	No	No
+BackTrack	Yes	No	No	No	No	No	No	No	No	No
+Bodhi Linux	Yes	No	No	No	No	No	No	No	No	No
+CentOS	Yes	Discontinued 3.5-3.8 4.1-4.7	No	Beta 4.2	No	No	Discontinued 3.5-3.8 4.1-4.7	Discontinued 3.5-3.8 4.1-4.7	Discontinued 4.2-4.3	No
+Chakra	Yes	No	No	No	No	No	No	No	No	No
+CRUX	Yes	No	No	No	No	No	No	No	No	No
+Debian	Yes 4.0+	Yes 3.0+	Yes	Discontinued on Lenny	Discontinued 3.0-5.0	Yes 3.0+	Yes 3.0+	Yes 7.0+	Discontinued 2.1-5.0	Discontinued 2.0-3.1
+Fedora	Yes	Discontinued from Fedora 9	Yes	No	No	Inactive from Fedora 13	No	Yes	No	No
+Finnix	Yes	No	Yes	No	No	No	No	No	No	No
+Frugalware	Yes	No	No	No	No	No	No	No	No	No
+Gentoo	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Kali Linux	Yes	No	No	No	No	No	No	No	No	No
+MEPIS	Yes	No	No	No	No	No	No	No	No	No
+MintPPC	No	No	Yes	No	No	No	No	No	No	No
+OES2-Linux	Yes	No	No	No	No	No	Yes	No	No	No
+openSUSE	Yes	No	Yes	No	No	No	No	No	No	No
+OpenWrt	No	No	No	No	No	Yes	No	No	No	No
+Oracle Linux	Yes	Yes	No	No	No	No	No	No	No	No
+Red Flag Linux	Yes	Yes	No	No	No	No	No	No	No	No
+Red Hat Linux	No	Discontinued 7.1-7.2	No	Discontinued 4.0-4.2 5.1-6.2	No	Test release 5.1	Discontinued 7.2	Discontinued 7.1	Discontinued 2.1-7.1	Test release 5.1
+Red Hat Enterprise Linux	Yes 3+	Discontinued 2.1-5	Yes 3+	No	No	No	Discontinued 3-4	Yes 3+	No	No
+Rxart Desktop	No	Yes	No	No	No	No	No	No	No	No
+Porteus	Yes	Yes	No	No	No	No	No	No	No	No
+Scientific Linux	Yes	Yes	No	No	No	No	No	No	No	No
+SHR	No	No	No	No	No	No	No	No	No	No
+Slackware	Yes	No	No	Discontinued ?	No	No	Yes	Yes	Discontinued 8.1	No
+Source Mage GNU/Linux	Yes	No	No	No	No	No	No	No	No	No
+SUSE Linux Enterprise Server	Yes	Yes	Yes	No	No	No	No	Yes	No	No
+Tor-ramdisk	Yes	No	No	No	No	Yes	No	No	No	No
+Ubuntu / Kubuntu / Xubuntu / Lubuntu	Yes	Yes	No	No	No	No	No	No	No	No
+XBMC	No	No	No	No	No	No	No	No	No	No
+Yellow Dog Linux	No	No	Yes	No	No	No	No	No	No	No
+Distribution	x86-64	ia64	ppc64	sparc32	hppa	mips	s390	s390x	alpha	m68k

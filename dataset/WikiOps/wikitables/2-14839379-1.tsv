@@ -1,0 +1,22 @@
+Model	Min. capacity (mAh)	Typ. capacity (mAh)	Capacity after first day	After 1 year	After 2 years	After 3 years	After 5 years
+HR-3UG	2500	2700	≈80%	≈50%	0%	0%	0%
+HR-3UTG	1900	2000	N/A	≈80%	N/A	N/A	N/A
+HR-3UTGA	1900	2000	N/A	≈85%	≈80%	≈75%	N/A
+HR-3UTGB	1900	2000	N/A	90%	>80%	80%	70%
+BK-3MCC	1900	2000	N/A	90%	>80%	80%	70%
+Model	Min. capacity (mAh)	Typ. capacity (mAh)	Capacity after first day	After 1 year	After 2 years	After 3 years	After 5 years
+HR-3UQ	950	1000	N/A	85%	80%	75%	N/A
+BK-3LCC	950	1000	N/A	90%	>80%	80%	70%
+HR-3UWX	2400	2500	N/A	75%	N/A	N/A	N/A
+HR-3UWXA	2400	2500	N/A	75%	N/A	N/A	N/A
+HR-3UWXB	2450	2550	N/A	85%	N/A	N/A	N/A
+BK-3HCC	2450	2550	N/A	90%	>80%	80%	70%
+Sanyo HR-4U	930	1000	≈80%	≈50%	0%	0%	0%
+HR-4UTG	750	800	N/A	≈80%	N/A	N/A	N/A
+HR-4UTGA	750	800	N/A	≈85%	≈80%	≈75%	N/A
+HR-4UTGB	750	800	N/A	90%	>80%	80%	70%
+BK-4MCC	750	800	N/A	90%	>80%	80%	70%
+HR-4UQ	500	600	N/A	85%	80%	75%	N/A
+BK-4LCC	500	600	N/A	90%	>80%	80%	70%
+HR-4UWXB	900	950	N/A	85%	N/A	N/A	N/A
+BK-4HCC	900	950	N/A	90%	>80%	80%	70%

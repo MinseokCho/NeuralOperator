@@ -1,0 +1,8 @@
+Engine type	Scenario	SFC in lb/(lbf·h)	SFC in g/(kN·s)	Specific impulse (s)	Effective exhaust velocity (m/s)
+NK-33 rocket engine	Vacuum	10.9	309	331	3,240
+SSME rocket engine	Space shuttle vacuum	7.95	225	453	4,423
+Ramjet	Mach 1	4.5	127	800	7,877
+J-58 turbojet	SR-71 at Mach 3.2 (Wet)	1.9	53.8	1,900	18,587
+Rolls-Royce/Snecma Olympus 593	Concorde Mach 2 cruise (Dry)	1.195	33.8	3,012	29,553
+CF6-80C2B1F turbofan	Boeing 747-400 cruise	0.605	17.1	5,950	58,400
+General Electric CF6 turbofan	Sea level	0.307	8.696	11,700	115,000

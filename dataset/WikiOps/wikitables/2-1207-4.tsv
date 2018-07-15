@@ -1,0 +1,21 @@
+Amino Acid	3-Letter	1-Letter	Side-chain polarity	Side-chain charge (pH 7.4)	Hydropathy index
+Alanine	Ala	A	nonpolar	neutral	1.8
+Arginine	Arg	R	Basic polar	positive	−4.5
+Asparagine	Asn	N	polar	neutral	−3.5
+Aspartic acid	Asp	D	acidic polar	negative	−3.5
+Cysteine	Cys	C	nonpolar	neutral	2.5
+Glutamic acid	Glu	E	acidic polar	negative	−3.5
+Glutamine	Gln	Q	polar	neutral	−3.5
+Glycine	Gly	G	nonpolar	neutral	−0.4
+Histidine	His	H	Basic polar	positive(10%) neutral(90%)	−3.2
+Isoleucine	Ile	I	nonpolar	neutral	4.5
+Leucine	Leu	L	nonpolar	neutral	3.8
+Lysine	Lys	K	Basic polar	positive	−3.9
+Methionine	Met	M	nonpolar	neutral	1.9
+Phenylalanine	Phe	F	nonpolar	neutral	2.8
+Proline	Pro	P	nonpolar	neutral	−1.6
+Serine	Ser	S	polar	neutral	−0.8
+Threonine	Thr	T	polar	neutral	−0.7
+Tryptophan	Trp	W	nonpolar	neutral	−0.9
+Tyrosine	Tyr	Y	polar	neutral	−1.3
+Valine	Val	V	nonpolar	neutral	4.2

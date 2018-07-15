@@ -1,0 +1,15 @@
+Model	Power	Torque @rpm	Displacement (cc)	Engine
+2.0	PS (kW; hp)	N·m (lb·ft) @4800	1984	B5204
+2.5	PS (kW; hp)	N·m (lb·ft) @3300	2435	B5252 S2
+GLT	PS (kW; hp)	N·m (lb·ft) @3300	2435	B5254 S
+2.0T	PS (kW; hp)	N·m (lb·ft) @1800	1984	B5204 T2
+2.4T	PS (kW; hp)	N·m (lb·ft) @1800	2435	B5254 T3
+2.4T AWD	PS (kW; hp)	N·m (lb·ft) @1800	2435	B5254 T3
+T5 2.0	PS (kW; hp)	N·m (lb·ft) @2700	1984	B5204 T3
+T5	PS (kW; hp)	N·m (lb·ft) @2700	2319	B5234 T3
+R FWD Manual Phase1	PS (kW; hp)	N·m (lb·ft) @2700	2319	B5234 T4
+R FWD Auto Phase1	PS (kW; hp)	N·m (lb·ft) @2700	2319	B5234 T3
+R AWD Manual Phase1	PS (kW; hp)	N·m (lb·ft) @2700	2319	B5234 T4
+R AWD Auto Phase1	PS (kW; hp)	N·m (lb·ft) @2700	2319	B5234 T6
+R AWD Auto Phase2	PS (kW; hp)	N·m (lb·ft) @2400	2319	B5234 T8
+R AWD Auto Phase3	PS (kW; hp)	N·m (lb·ft) @2500	2435	B5244 T2

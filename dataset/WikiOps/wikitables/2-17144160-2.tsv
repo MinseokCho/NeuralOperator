@@ -1,0 +1,257 @@
+Rnd.	Pick #	NFL team	Pos.	College	Conf.
+1	1	Detroit Lions	QB	Georgia	SEC
+1	2	St. Louis Rams	OT	Baylor	Big 12
+1	3	Kansas City Chiefs	DE	LSU	SEC
+1	4	Seattle Seahawks	LB	Wake Forest	ACC
+1	5	New York Jets	QB	USC	Pac-10
+1	6	Cincinnati Bengals	OT	Alabama	SEC
+1	7	Oakland Raiders	WR	Maryland	ACC
+1	8	Jacksonville Jaguars	OT	Virginia	ACC
+1	9	Green Bay Packers	DT	Boston College	ACC
+1	10	San Francisco 49ers	WR	Texas Tech	Big 12
+1	11	Buffalo Bills	DE	Penn State	Big Ten
+1	12	Denver Broncos	RB	Georgia	SEC
+1	13	Washington Redskins	DE	Texas	Big 12
+1	14	New Orleans Saints	CB	Ohio State	Big Ten
+1	15	Houston Texans	LB	USC	Pac-10
+1	16	San Diego Chargers	DE	Northern Illinois	MAC
+1	17	Tampa Bay Buccaneers	QB	Kansas State	Big 12
+1	18	Denver Broncos	DE	Tennessee	SEC
+1	19	Philadelphia Eagles	WR	Missouri	Big 12
+1	20	Detroit Lions	TE	Oklahoma State	Big 12
+1	21	Cleveland Browns	C	California	Pac-10
+1	22	Minnesota Vikings	WR	Florida	SEC
+1	23	Baltimore Ravens	OT	Ole Miss	SEC
+1	24	Atlanta Falcons	DT	Ole Miss	SEC
+1	25	Miami Dolphins	CB	Illinois	Big Ten
+1	26	Green Bay Packers	LB	USC	Pac-10
+1	27	Indianapolis Colts	RB	Connecticut	Big East
+1	28	Buffalo Bills	C	Louisville	Big East
+1	29	New York Giants	WR	North Carolina	ACC
+1	30	Tennessee Titans	WR	Rutgers	Big East
+1	31	Arizona Cardinals	RB	Ohio State	Big Ten
+1	32	Pittsburgh Steelers	DT	Missouri	Big 12
+2	33	Detroit Lions	S	Western Michigan	MAC
+2	34	New England Patriots	S	Oregon	Pac-10
+2	35	St. Louis Rams	LB	Ohio State	Big Ten
+2	36	Cleveland Browns	WR	Ohio State	Big Ten
+2	37	Denver Broncos	CB	Wake Forest	ACC
+2	38	Cincinnati Bengals	LB	USC	Pac-10
+2	39	Jacksonville Jaguars	OT	Arizona	Pac-10
+2	40	New England Patriots	DT	Boston College	ACC
+2	41	New England Patriots	CB	Connecticut	Big East
+2	42	Buffalo Bills	S	Oregon	Pac-10
+2	43	Carolina Panthers	DE	Florida State	ACC
+2	44	Miami Dolphins	QB	West Virginia	Big East
+2	45	New York Giants	LB	Virginia	ACC
+2	46	Houston Texans	DE	Cincinnati	Big East
+2	47	Oakland Raiders	S	Ohio	MAC
+2	48	Denver Broncos	S	Texas Tech	Big 12
+2	49	Seattle Seahawks	C	Oregon	Pac-10
+2	50	Cleveland Browns	WR	Georgia	SEC
+2	51	Buffalo Bills	G	Oregon State	Pac-10
+2	52	Cleveland Browns	DE	Hawai ʻ i	WAC
+2	53	Philadelphia Eagles	RB	Pittsburgh	Big East
+2	54	Minnesota Vikings	OT	Oklahoma	Big 12
+2	55	Atlanta Falcons	S	Missouri	Big 12
+2	56	Indianapolis Colts	DT	USC	Pac-10
+2	57	Baltimore Ravens	DE	Utah	MWC
+2	58	New England Patriots	OT	Houston	C-USA
+2	59	Carolina Panthers	CB	Troy	Sun Belt
+2	60	New York Giants	OT	Connecticut	Big East
+2	61	Miami Dolphins	CB	Utah	MWC
+2	62	Tennessee Titans	DT	Auburn	SEC
+2	63	Arizona Cardinals	DE	Connecticut	Big East
+2	64	Denver Broncos	TE	North Carolina	ACC
+3	65	New York Jets	RB	Iowa	Big Ten
+3	66	St. Louis Rams	CB	Iowa	Big Ten
+3	67	Kansas City Chiefs	DT	Purdue	Big Ten
+3	68	Chicago Bears	DT	San Jose State	WAC
+3	69	Dallas Cowboys	LB	Western Illinois	MVFC
+3	70	Cincinnati Bengals	DE	Georgia Tech	ACC
+3	71	Oakland Raiders	DE	Wisconsin	Big Ten
+3	72	Jacksonville Jaguars	DT	Temple	MAC
+3	73	Jacksonville Jaguars	CB	William & Mary	CAA
+3	74	San Francisco 49ers	RB	Alabama	SEC
+3	75	Dallas Cowboys	OT	Ball State	MAC
+3	76	Detroit Lions	LB	Wisconsin	Big Ten
+3	77	Houston Texans	C	Alabama	SEC
+3	78	San Diego Chargers	G	Texas Tech	Big 12
+3	79	Pittsburgh Steelers	G	Wisconsin	Big Ten
+3	80	Washington Redskins	CB	Maryland	ACC
+3	81	Tampa Bay Buccaneers	DT	Texas	Big 12
+3	82	Detroit Lions	WR	Penn State	Big Ten
+3	83	New England Patriots	WR	North Carolina	ACC
+3	84	Pittsburgh Steelers	WR	Ole Miss	SEC
+3	85	New York Giants	WR	Cal Poly	Great West
+3	86	Minnesota Vikings	CB	Georgia	SEC
+3	87	Miami Dolphins	WR	USC	Pac-10
+3	88	Baltimore Ravens	CB	Nicholls State	Southland
+3	89	Tennessee Titans	TE	South Carolina	SEC
+3	90	Atlanta Falcons	CB	San Jose State	WAC
+3	91	Seattle Seahawks	WR	Penn State	Big Ten
+3	92	Indianapolis Colts	CB	Auburn	SEC
+3	93	Carolina Panthers	DT	Georgia	SEC
+3	94	Tennessee Titans	CB	Hawai ʻ i	WAC
+3	95	Arizona Cardinals	S	Alabama	SEC
+3	96	Pittsburgh Steelers	CB	Oregon State	Pac-10
+3	97	New England Patriots	LB	South Florida	Big East
+3	98	Cincinnati Bengals	TE	Missouri	Big 12
+3	99	Chicago Bears	WR	Oklahoma	Big 12
+3	100	New York Giants	TE	Wisconsin	Big Ten
+4	101	Dallas Cowboys	QB	Texas A&M	Big 12
+4	102	Kansas City Chiefs	CB	Ohio State	Big Ten
+4	103	St. Louis Rams	DT	Clemson	ACC
+4	104	Cleveland Browns	LB	USC	Pac-10
+4	105	Chicago Bears	DE	Texas	Big 12
+4	106	Cincinnati Bengals	C	Arkansas	SEC
+4	107	Jacksonville Jaguars	WR	Arizona	Pac-10
+4	108	Miami Dolphins	WR	Ohio State	Big Ten
+4	109	Green Bay Packers	OT	Eastern Michigan	MAC
+4	110	Dallas Cowboys	DE	Oregon State	Pac-10
+4	111	Carolina Panthers	RB	Texas A&M	Big 12
+4	112	Houston Texans	S	New Mexico	MWC
+4	113	San Diego Chargers	DT	Western Ontario	OUA
+4	114	Denver Broncos	S	Notre Dame	Ind.
+4	115	Detroit Lions	DT	Stillman	SIAC
+4	116	New Orleans Saints	S	Wake Forest	ACC
+4	117	Tampa Bay Buccaneers	DE	USC	Pac-10
+4	118	New Orleans Saints	LB	Wake Forest	ACC
+4	119	Chicago Bears	CB	Vanderbilt	SEC
+4	120	Dallas Cowboys	DE	Texas Tech	Big 12
+4	121	Buffalo Bills	TE	Southern Miss	C-USA
+4	122	Houston Texans	TE	NC State	ACC
+4	123	New England Patriots	G	Penn State	Big Ten
+4	124	Oakland Raiders	WR	Florida	SEC
+4	125	Atlanta Falcons	DE	Richmond	CAA
+4	126	Oakland Raiders	DE	Oregon State	Pac-10
+4	127	Indianapolis Colts	WR	BYU	MWC
+4	128	Carolina Panthers	FB	Syracuse	Big East
+4	129	New York Giants	RB	NC State	ACC
+4	130	Tennessee Titans	LB	Southern Miss	C-USA
+4	131	Arizona Cardinals	CB	St. Paul's College (VA)	CIAA
+4	132	Denver Broncos	OT	Iowa	Big Ten
+4	133	San Diego Chargers	G	Auburn	SEC
+4	134	San Diego Chargers	RB	Colorado State	MWC
+4	135	Tennessee Titans	OT	Tulane	C-USA
+4	136	Indianapolis Colts	DT	Michigan	Big Ten
+5	137	Baltimore Ravens	LB	TCU	MWC
+5	138	Atlanta Falcons	CB	Furman	SoCon
+5	139	Kansas City Chiefs	OT	Missouri	Big 12
+5	140	Chicago Bears	WR	Abilene Christian	LSC
+5	141	Denver Broncos	WR	South Carolina	SEC
+5	142	Cincinnati Bengals	P	Cincinnati	Big East
+5	143	Dallas Cowboys	CB	Cincinnati	Big East
+5	144	Jacksonville Jaguars	WR	Rice	C-USA
+5	145	Green Bay Packers	FB	LSU	SEC
+5	146	San Francisco 49ers	LB	Pittsburgh	Big East
+5	147	Buffalo Bills	S	Oklahoma	Big 12
+5	148	San Diego Chargers	CB	Oregon State	Pac-10
+5	149	Baltimore Ravens	TE	East Carolina	C-USA
+5	150	Minnesota Vikings	LB	South Carolina	SEC
+5	151	New York Giants	QB	Sam Houston St.	Southland
+5	152	Houston Texans	TE	Rice	C-USA
+5	153	Philadelphia Eagles	TE	Florida	SEC
+5	154	Chicago Bears	LB	Ohio State	Big Ten
+5	155	Tampa Bay Buccaneers	OT	Illinois	Big Ten
+5	156	Atlanta Falcons	OT	North Carolina	ACC
+5	157	Philadelphia Eagles	CB	Virginia Tech	ACC
+5	158	Washington Redskins	LB	Nebraska	Big 12
+5	159	Philadelphia Eagles	OT	Oregon	Pac-10
+5	160	St. Louis Rams	WR	North Carolina	ACC
+5	161	Miami Dolphins	TE	Monmouth	NEC
+5	162	Green Bay Packers	OT	South Carolina	SEC
+5	163	Carolina Panthers	G	Oklahoma	Big 12
+5	164	New Orleans Saints	P	SMU	C-USA
+5	165	Miami Dolphins	S	Clemson	ACC
+5	166	Dallas Cowboys	S	Clemson	ACC
+5	167	Arizona Cardinals	G	LSU	SEC
+5	168	Pittsburgh Steelers	CB	UCF	C-USA
+5	169	Pittsburgh Steelers	RB	UNLV	MWC
+5	170	New England Patriots	G	Louisville	Big East
+5	171	San Francisco 49ers	QB	Ball State	MAC
+5	172	Dallas Cowboys	K	USC	Pac-10
+5	173	Tennessee Titans	RB	Michigan State	Big Ten
+6	174	Denver Broncos	QB	Fresno State	WAC
+6	175	Kansas City Chiefs	WR	McNeese State	Southland
+6	176	Atlanta Falcons	LB	Miami (FL)	ACC
+6	177	Cleveland Browns	CB	Norfolk State	MEAC
+6	178	Seattle Seahawks	QB	Rutgers	Big East
+6	179	Cincinnati Bengals	CB	Michigan	Big Ten
+6	180	Jacksonville Jaguars	TE	Nebraska–Omaha	MIAA
+6	181	Miami Dolphins	OT	Georgia Tech	ACC
+6	182	Green Bay Packers	DE	Georgia	SEC
+6	183	Buffalo Bills	CB	USC	Pac-10
+6	184	San Francisco 49ers	TE	Fresno State	WAC
+6	185	Baltimore Ravens	RB	Virginia	ACC
+6	186	Washington Redskins	LB	TCU	MWC
+6	187	Green Bay Packers	CB	Cincinnati	Big East
+6	188	Houston Texans	CB	Utah	MWC
+6	189	San Diego Chargers	S	USC	Pac-10
+6	190	Chicago Bears	S	Oregon State	Pac-10
+6	191	Cleveland Browns	CB	San Jose State	WAC
+6	192	Detroit Lions	RB	TCU	MWC
+6	193	New York Jets	G	Nebraska	Big 12
+6	194	Philadelphia Eagles	WR	Washington State	Pac-10
+6	195	Cleveland Browns	RB	Clemson	ACC
+6	196	St. Louis Rams	QB	West Texas A&M	LSC
+6	197	Dallas Cowboys	S	TCU	MWC
+6	198	New England Patriots	LS	Hawai ʻ i	WAC
+6	199	Oakland Raiders	DE	Missouri	Big 12
+6	200	New York Giants	CB	New Mexico	MWC
+6	201	Indianapolis Colts	QB	Purdue	Big Ten
+6	202	Oakland Raiders	TE	Iowa	Big Ten
+6	203	Tennessee Titans	CB	Rutgers	Big East
+6	204	Arizona Cardinals	DE	Illinois	Big Ten
+6	205	Pittsburgh Steelers	DT	Oregon	Pac-10
+6	206	Tennessee Titans	WR	Stephen F. Austin	Southland
+6	207	New England Patriots	DT	Kentucky	SEC
+6	208	Dallas Cowboys	TE	Virginia	ACC
+6	209	Cincinnati Bengals	RB	Abilene Christian	LSC
+7	210	Atlanta Falcons	DT	Georgia Tech	ACC
+7	211	St. Louis Rams	RB	Texas	Big 12
+7	212	Kansas City Chiefs	RB	Tennessee State	OVC
+7	213	Philadelphia Eagles	G	Arizona State	Pac-10
+7	214	Miami Dolphins	LB	Weber State	Big Sky
+7	215	Cincinnati Bengals	RB	BYU	MWC
+7	216	Carolina Panthers	CB	South Carolina	SEC
+7	217	Tampa Bay Buccaneers	CB	Western Michigan	MAC
+7	218	Green Bay Packers	LB	Colorado	Big 12
+7	219	San Francisco 49ers	S	LSU	SEC
+7	220	Buffalo Bills	CB	West Virginia	Big East
+7	221	Washington Redskins	TE	Idaho	WAC
+7	222	Indianapolis Colts	P	West Virginia	Big East
+7	223	Houston Texans	S	Arizona State	Pac-10
+7	224	San Diego Chargers	WR	LSU	SEC
+7	225	Denver Broncos	C	TCU	MWC
+7	226	Pittsburgh Steelers	C	Penn State	Big Ten
+7	227	Dallas Cowboys	CB	Cincinnati	Big East
+7	228	Detroit Lions	OT	Nebraska	Big 12
+7	229	Dallas Cowboys	WR	Oklahoma	Big 12
+7	230	Philadelphia Eagles	LB	Maryland	ACC
+7	231	Minnesota Vikings	S	Ole Miss	SEC
+7	232	New England Patriots	WR	Kent State	MAC
+7	233	Tampa Bay Buccaneers	WR	Oregon State	Pac-10
+7	234	New England Patriots	DT	Georgia Tech	ACC
+7	235	Detroit Lions	LB	California	Pac-10
+7	236	Indianapolis Colts	OT	Maryland	ACC
+7	237	Kansas City Chiefs	TE	Miami (OH)	MAC
+7	238	New York Giants	CB	South Carolina	SEC
+7	239	Tennessee Titans	G	Syracuse	Big East
+7	240	Arizona Cardinals	RB	Pittsburgh	Big East
+7	241	Pittsburgh Steelers	TE	Arkansas State	Sun Belt
+7	242	Tennessee Titans	S	North Dakota State	MVFC
+7	243	Washington Redskins	WR	Nevada	WAC
+7	244	San Francisco 49ers	DT	LSU	SEC
+7	245	Seattle Seahawks	S	Rutgers	Big East
+7	246	Chicago Bears	G	San Diego State	MWC
+7	247	Seattle Seahawks	DE	Oregon	Pac-10
+7	248	Seattle Seahawks	TE	California	Pac-10
+7	249	Cincinnati Bengals	DE	Memphis	C-USA
+7	250	Jacksonville Jaguars	RB	Liberty	Big South
+7	251	Chicago Bears	WR	Pittsburgh	Big East
+7	252	Cincinnati Bengals	WR	Utah	MWC
+7	253	Jacksonville Jaguars	WR	Rutgers	Big East
+7	254	Arizona Cardinals	G	Cincinnati	Big East
+7^	255	Detroit Lions	TE	Maryland	ACC
+7^	256	Kansas City Chiefs	K	South Carolina	SEC

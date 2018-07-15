@@ -1,0 +1,97 @@
+Colt model no.	Name	Stock	Fire control	Rear sight	Forward assist	Case deflector	Barrel length	Barrel profile	Barrel twist	Hand guards	Bayonet Lug	Muzzle device
+601	AR-15	A1	S-1-F	A1	No	No	20 in.	A1	1:14 (early) or 1:12 (late)	Triangular	Yes	Type 1 Duckbill/Type 2 Duckbill
+602	AR-15	A1	S-1-F	A1	No	No	20 in.	A1	1:12	Triangular	Yes	Type 2 Duckbill
+603	XM16E1	A1	S-1-F	A1	Yes	No	20 in.	A1	1:12	Triangular	Yes	Type 2 Duckbill
+603	M16A1	A1	S-1-F	A1	Yes	No	20 in.	A1	1:12	Triangular	Yes	A1
+604	M16 (No XM16 designation)	A1	S-1-F	A1	No	No	20 in.	A1	1:12	Triangular	Yes	A1
+605	CAR-15 Carbine	A1	S-1-F	A1	No	No	15 in.	A1	1:12	Triangular	No	Type 2 Duckbill
+605A	CAR-15 Carbine	A1	S-1-F	A1	Yes	No	15 in.	A1	1:12	Triangular	No	Type 2 Duckbill
+605B	CAR-15 Carbine	A1	S-F-1-3	A1	No	No	15 in.	A1	1:12	Triangular	No	Type 2 Duckbill
+606	CAR-15 Heavy Assault Rifle M1	A1	S-1-F	A1	No	No	20 in.	HBAR	1:12	Triangular	Yes	Type 2 Duckbill
+606A	CAR-15 Heavy Assault Rifle M1	A1	S-1-F	A1	Yes	No	20 in.	HBAR	1:12	Triangular	Yes	Type 2 Duckbill
+606B	CAR-15 Heavy Assault Rifle M1	A1	S-F-1-3	A1	Yes	No	20 in.	HBAR	1:12	Triangular	Yes	Type 2 Duckbill
+607	CAR-15 SMG	1st Generation	S-1-F	A1	No	No	10 in.	A1	1:12	Short Triangular	No	Type 1 and 2 Duckbill and 3.5" Moderator
+607A	CAR-15 SMG	1st Generation	S-1-F	A1	Yes	No	10 in.	A1	1:12	Short Triangular	No	Type 1 and 2 Duckbill and 3.5" Moderator
+607B	CAR-15 SMG	1st Generation	S-F-1-3	A1	No	No	10 in.	A1	1:12	Short Triangular	No	Type 1 and 2 Duckbill and 3.5" Moderator
+608	CAR-15 Survival Rifle	Tubular	S-1-F	A1	No	No	10 in.	A1	1:12	Short Round	No	Conical or 3.5" Moderator
+609	XM177E1	2nd Generation	S-1-F	A1	Yes	No	10 in.	A1	1:12	Short Ribbed	No	3.5" or 4.5" Moderator
+610	XM177 or GAU-5/A	2nd Generation	S-1-F	A1	No	No	10 in.	A1	1:12	Short Ribbed	No	3.5" or 4.5" Moderator
+610B	CAR-15 SMG	2nd Generation	S-F-1-3	A1	No	No	10 in.	A1	1:12	Short Ribbed	No	3.5" or 4.5" Moderator
+611	M16 HBAR	A1	S-1-F	A1	Yes	No	20 in.	HBAR	1:12	Triangular	Yes	A1
+611P	M16 HBAR (License produced by Elisco Tools)	A1	S-1-F	A1	Yes	No	20 in.	HBAR	1:12	Triangular	Yes	A1
+613	M16	A1	S-1-F	A1	Yes	No	20 in.	A1	1:12	Triangular	Yes	A1
+613P	M16 (License produced by Elisco Tools)	A1	S-1-F	A1	Yes	No	20 in.	A1	1:12	Triangular	Yes	A1
+614	M16	A1	S-1-F	A1	No	No	20 in.	A1	1:12	Triangular	Yes	A1
+615	M16 HBAR	A1	S-1-F	A1	No	No	20 in.	HBAR	1:12	Triangular	Yes	A1
+616	M16 HBAR	A1	S-1-F	A1	No	No	20 in.	HBAR	1:12	Round	Yes	A1
+619	XM177E1	2nd Generation	S-1-F	A1	Yes	No	10 in.	A1	1:12	Short Ribbed	No	3.5" or 4.5" Moderator
+620	CAR-15	2nd Generation	S-1-F	A1	No	No	10 in.	A1	1:12	Short Ribbed	No	3.5" or 4.5" Moderator
+621	M16A1 HBAR	A1	S-1-F	A1	Yes	No	20 in.	HBAR	1:12	Triangular	Yes	A1
+629	XM177E2	2nd Generation	S-1-F	A1	Yes	No	11.5 in.	A1	1:12	Short Ribbed	No	4.5" Moderator
+630	GAU-5A/A	2nd Generation	S-1-F	A1	No	No	11.5 in.	A1	1:12	Short Ribbed	No	4.5" Moderator
+633	Colt SMG	2nd Generation	S-1-F	A1	No	Yes	7 in.	A1	1:10	Short Round	No	None
+634	Colt SMG	2nd Generation	Conflict between S-1 and S-1-F	A1	No	Yes	10 in.	A1	1:10	Short Ribbed	No	A2
+635	Colt SMG	2nd, 3rd, or 4th Generation	S-1-F	A1	No	Yes	10 in.	A1	1:10	Short Ribbed	No	A2
+635S	Colt SMG	2nd Generation	S-1-F	A1	No	Yes	10 in.	A1 w/ integral silencer	1:10	Short Ribbed	No	A2
+639	XM177E2	2nd Generation	S-1-F	A1	Yes	No	11.5 in.	A1	1:12	Short Ribbed	No	4.5" Moderator or A1
+639	Colt SMG	2nd	S-1-3	A1	No	Yes	10 in.	A1 w/ integral silencer	1:10	Short Ribbed	No	A2
+640	XM177E2	2nd Generation	S-1-F	A1	No	No	11.5 in.	A1	1:12	Short Ribbed	No	4.5" Moderator or A1
+645	M16A1E1/M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+645E	M16A2E1	Flattop (w/ flip down front sight)	S-1-3	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+646	M16A2E3/M16A3	A2	S-1-F	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+649	GAU-5A/A	2nd Generation	S-1-F	A1	No	No	11.5 in.	A1	1:12	Short Ribbed	No	4.5" Moderator
+650	M16A1 carbine	A1	S-1-F	A1	Yes	No	14.5 in.	A1	1:12	Short Ribbed	Yes	A1
+651	M16A1 carbine	A1	S-1-F	A1	Yes	No	14.5 in.	A1	1:12	Short Ribbed	Yes	A1
+652	M16A1 carbine	A1	S-1-F	A1	No	No	14.5 in.	A1	1:12	Short Ribbed	Yes	A1
+653	M16A1 carbine	2nd Generation	S-1-F	A1	Yes	No	14.5 in.	A1	1:12	Short Ribbed	Yes	A1
+653P	M16A1 carbine (License produced by Elisco Tools)	2nd Generation	S-1-F	A1	Yes	No	14.5 in.	A1	1:12	Short Ribbed	Yes	A1
+654	M16A1 carbine	2nd Generation	S-1-F	A1	No	No	14.5 in.	A1	1:12	Short Ribbed	Yes	A1
+656	M16A1 Special Low Profile	A1	S-1-F	Flattop	Yes	No	20 in.	HBAR	1:12	Triangular	Yes	A1
+701	M16A2	A2	S-1-F	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+702	M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+703	M16A2	A2	S-1-F	A2	Yes	Yes	20 in.	A1	1:7	Ribbed	Yes	A2
+705	M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+707	M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	A1	1:7	Ribbed	Yes	A2
+711	M16A2	A2	S-1-F	A1	Yes	No and Yes	20 in.	A1	1:7	Ribbed	Yes	A2
+713	M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+719	M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	A1	1:7	Ribbed	Yes	A2
+720	XM4 Carbine	3rd Generation	S-1-3	A2	Yes	Yes	14.5 in.	M4	1:7	Short Ribbed	Yes	A2
+723	M16A2 carbine	3rd Generation	S-1-F	A1	Yes	Yes	14.5 in.	A1	1:7	Short Ribbed	Yes	A1
+725A	M16A2 carbine	3rd Generation	S-1-F	A1	Yes	Yes	14.5 in.	A1	1:7	Short Ribbed	Yes	A2
+725B	M16A2 carbine	3rd Generation	S-1-F	A1	Yes	Yes	14.5 in.	A2	1:7	Short Ribbed	Yes	A2
+726	M16A2 carbine	3rd Generation	S-1-F	A1	Yes	Yes	14.5 in.	A1	1:7	Short Ribbed	Yes	A1
+727	M16A2 carbine	3rd Generation	S-1-F	A2	Yes	Yes	14.5 in.	M4	1:7	Short Ribbed	Yes	A2
+728	M16A2 carbine	3rd Generation	S-1-F	A2	Yes	Yes	14.5 in.	M4	1:7	Short Ribbed	Yes	A2
+733	M16A2 Commando / M4 Commando	3rd or 4th Generation	S-1-F	A1 or A2	Yes	Yes or No	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A1 or A2
+733A	M16A2 Commando / M4 Commando	3rd or 4th Generation	S-1-3	A1 or A2	Yes	Yes or No	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A1 or A2
+734	M16A2 Commando	3rd Generation	S-1-F	A1 or A2	Yes	Yes or No	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A1 or A2
+734A	M16A2 Commando	3rd Generation	S-1-3	A1 or A2	Yes	Yes or No	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A1 or A2
+735	M16A2 Commando / M4 Commando	3rd or 4th Generation	S-1-3	A1 or A2	Yes	Yes or No	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A1 or A2
+737	M16A2	A2	S-1-3	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+738	M4 Commando Enhanced	4th Generation	S-1-3-F	A2	Yes	Yes	11.5 in.	A2	1:7	Short Ribbed	No	A1 or A2
+741	M16A2	A2	S-1-F	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+742	M16A2 (Standard w/ bipod)	A2	S-1-F	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+745	M16A2 (Standard w/ bipod)	A2	S-1-3	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+746	M16A2 (Standard w/ bipod)	A2	S-1-3	A2	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+750	LMG (Colt/ Diemaco project)	A2	S-F	A2	Yes	Yes	20 in.	HBAR	1:7	Square LMG	Yes	A2
+777	M4 Carbine	4th Generation	S-1-3	A2	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+778	M4 Carbine Enhanced	4th Generation	S-1-3-F	A2	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+779	M4 Carbine	4th Generation	S-1-F	A2	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+901	M16A3	A2	S-1-F	Flattop	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+905	M16A4	A2	S-1-3	Flattop	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+920	M4 Carbine	3rd and 4th Generation	S-1-3	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+921	M4E1/A1 Carbine	4th Generation	S-1-F	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+921HB	M4A1 Carbine	4th Generation	S-1-F	Flattop	Yes	Yes	14.5 in.	M4 HBAR	1:7	M4	Yes	A2
+925	M4E2 Carbine	3rd or 4th Generation	S-1-3	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+927	M4 Carbine	4th Generation	S-1-F	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+933	M4 Commando	4th Generation	S-1-F	Flattop	Yes	Yes	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A2
+935	M4 Commando	4th Generation	S-1-3	Flattop	Yes	Yes	11.5 in.	A1 or A2	1:7	Short Ribbed	No	A2
+938	M4 Commando Enhanced	4th Generation	S-1-3-F	Flattop	Yes	Yes	11.5 in.	A2	1:7	M4	No	A2
+977	M4 Carbine	4th Generation	S-1-3	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+941	M16A3	A2	S-1-F	Flattop	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+942	M16A3 (Standard w/ bipod)	A2	S-1-F	Flattop	Yes	Yes	20 in.	HBAR	1:7	Ribbed	Yes	A2
+945	M16A2E4/M16A4	A2	S-1-3	Flattop	Yes	Yes	20 in.	A2	1:7	Ribbed	Yes	A2
+950	LMG (Colt/ Diemaco project)	A2	S-F	Flattop	Yes	Yes	20 in.	HBAR	1:7	Square LMG	Yes	A2
+"977"	M4 Carbine	4th Generation	S-1-3	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+978	M4 Carbine Enhanced	4th Generation	S-1-3-F	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2
+979	M4A1 Carbine	4th Generation	S-1-F	Flattop	Yes	Yes	14.5 in.	M4	1:7	M4	Yes	A2

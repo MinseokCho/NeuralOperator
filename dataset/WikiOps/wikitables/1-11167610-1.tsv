@@ -1,0 +1,9 @@
+Trim	Engine	Turbo	Fuel Delivery	Power	Torque	Transmission	Performance
+2.0 10v	B5202 2.0L 1984 cc I5 10v	No	Siemens Fenix 5.2	hp (kW) @6100 rpm	N·m (lb·ft) @4800 rpm	M56 5 speed manual	VMax km/h (mph)
+2.0 20v	B5204 2.0L 1984 cc I5 20v	No	Bosch Motronic 4.3	hp (kW) @6500 rpm	N·m (lb·ft) @3800 rpm	M56 5 speed manual	0–100km/h: 10.5s, VMax km/h (mph)
+2.0 T-5 (some EU countries only)	B5204T 2.0L 1984 cc I5 20v Turbo	Yes	Bosch Motronic 4.3	hp (kW) @5000 rpm	N·m (lb·ft) @2200 rpm	M56 5 speed manual/4 speed automatic	0–100km/h: 7.7s, VMax: km/h (mph)
+2.4 10v	B5252 2.4L 2435 cc I5 10v	No	Siemens Fenix 5.2	hp (kW) @5400 rpm	N·m (lb·ft) @3600 rpm	M56 5 speed manual/ 4 speed automatic	VMax km/h (mph)
+2.4 20v	B5254 2.4L 2435 cc I5 20v	No	Bosch LH 3.2 Jetronic*	hp (kW) @6200 rpm	N·m (lb·ft) @3300 rpm	M56 5 speed manual/ 4 speed adaptive automatic	0–100km/h: 9.2s, VMax: km/h (mph)
+2.4T	B5254T 2.4L 2435 cc I5 20v Turbo	Mitsubishi 13g turbo	Bosch Motronic 4.3	hp (kW) @5100 rpm	N·m (lb·ft) @1800 rpm	4 speed adaptive automatic	0–100km/h: 7.8s, VMax: 225km/h(140mph)
+850 R (Auto)	B5234T5 2.3L 2319 cc I5 20v Turbo	Yes (Mitsubishi TD04-15g )	Bosch Motronic 4.3	hp (kW) @5400 rpm	N·m (lb·ft)	AW42-50LE, 4 speed adaptive automatic	0–100km/h: 7.5s auto, VMax: km/h (mph)
+850 R (Manual)	B5234T4 2.3L 2319 cc I5 20v Turbo	Yes (Mitsubishi TD04-16t )	Bosch Motronic 4.4	hp (kW) @5400 rpm	N·m (lb·ft) @2400 rpm manual	M59 5 speed manual with LSD differential	0–100km/h: 6.7s manual, VMax: km/h (mph)

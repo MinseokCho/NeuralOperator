@@ -1,0 +1,13 @@
+Parameter	N80 IEC1	N90 IEC1	N90 IEC2	N100 IEC 2	N100 IEC3	N117/2400 IEC3
+Rated Power (kW)	2,500	2,500	2,500	2,500	2,500	2,400
+Cut-in wind speed (m/s)	3	3	3	3	3	3
+Cut-out wind speed (m/s)	25	25	25	25	25	20
+Rotor diameter (m)	80	90	90	100	100	117
+Swept area (m²)	5,026	6,362	6,362	7,823	7,823	10,751
+m² per MW	2,010	2,548	2,548	3,129	3,129	4,480
+Revolutions per minute	10.8-18.9	10.3-18.1	9.6-16.8	9.6-14.8	9.6-14.8	7.5-13.2
+Overspeed control	Pitch	Pitch	Pitch	Pitch	Pitch	Pitch
+Gearbox	yes	yes	yes	yes	yes	yes
+Generator	double-fed asynchronous generator	double-fed asynchronous generator	double-fed asynchronous generator	double-fed asynchronous generator	double-fed asynchronous generator	double-fed asynchronous generator
+Grid frequency	50/60 Hertz	50/60 Hertz	50/60 Hertz	50/60 Hertz	50/60 Hertz	50/60 Hertz
+Hub height (m)	60	65/70/80	80/100	75/80/100	80/100/140	91/120/141

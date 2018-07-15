@@ -1,0 +1,44 @@
+No	Peak	Location	Elevation (m)	Prominence (m)	Col height (m)	Col location	Parent
+1	Mont Blanc	France / Italy	4810	4697	113	near Lake Kubenskoye	Everest
+2	Großglockner	Austria	3798	2423	1375	Brenner Pass	Mont Blanc
+3	Finsteraarhorn	Switzerland	4274	2280	1994	near Simplon Pass	Mont Blanc
+4	Wildspitze	Austria	3768	2261	1507	Reschen Pass	Finsteraarhorn 1 / MB 2
+5	Piz Bernina	Switzerland	4049	2234	1815	Maloja Pass	Finsteraarhorn 1 / MB 2
+6	Hochkönig	Austria	2941	2181	760	near Maishofen	Großglockner 1 / MB 2
+7	Monte Rosa	Switzerland	4634	2165	2469	Great St Bernard Pass	Mont Blanc
+8	Hoher Dachstein	Austria	2995	2136	859	Eben im Pongau	Großglockner 1 / MB 2
+9	Marmolada	Italy	3343	2131	1212	Toblach	Großglockner 1 / MB 2
+10	Monte Viso	Italy	3841	2062	1779	Le Mauvais Pass	Mont Blanc
+11	Triglav	Slovenia	2864	2052	812	Camporosso Pass	Marmolada 1 / MB 2
+12	Barre des Écrins	France	4102	2045	2057	Col du Lautaret	Mont Blanc
+13	Säntis	Switzerland	2503	2021	482	Heiligkreuz bei Mels	Finsteraarhorn 1 / MB 2
+14	Ortler	Italy	3905	1953	1952	Fraele Pass in the Livigno Alps	Piz Bernina
+15	Monte Baldo / Cima Valdritta	Italy	2218	1950	268	near San Giovanni Pass in Nago–Torbole	Ortler 1 / MB 2
+16	Gran Paradiso	Italy	4061	1891	2170	near Little St Bernard Pass	Mont Blanc
+17	Pizzo di Coca	Italy	3050	1878	1172	Aprica	Ortler 1 / MB 2
+18	Cima Dodici	Italy	2336	1874	462	Pergine Valsugana	Marmolada 1 / MB 2
+19	Dents du Midi	Switzerland	3257	1796	1461	Col des Montets	Mont Blanc
+20	Chamechaude	France	2082	1771	311	Chambéry	Mont Blanc
+21	Zugspitze	Germany / Austria	2962	1746	1216	near Fern Pass	Finsteraarhorn 1 / MB 2
+22	Monte Antelao	Italy	3264	1735	1529	Passo Cimabanche	Marmolada
+23	Arcalod	France	2217	1713	504	Viuz in Faverges	Mont Blanc
+24	Grintovec	Slovenia	2558	1706	852	Rateče	Triglav
+25	Großer Priel	Austria	2515	1700	810	near Pichl-Kainisch	Hoher Dachstein 1 / MB 2
+26	Grigna Settentrionale	Italy	2409	1686	723	Balisio in Ballabio	Pizzo di Coca 1 / MB 2
+27	Monte Bondone	Italy	2180	1679	501	near Cadine in Trento	Ortler 1 / MB 2
+28	Presanella	Italy	3558	1676	1882	Tonale Pass	Ortler
+29	Birnhorn	Austria	2634	1665	969	Hochfilzen	Großglockner 1 / MB 2
+30	Col Nudo	Italy	2471	1644	827	Passo di Sant'Osvaldo	Antelao 1 / MB 2
+31	Pointe Percée	France	2750	1643	1107	near Pont d'Arbon near Megève	Mont Blanc
+32	Jôf di Montasio	Italy	2753	1597	1156	Predil Pass	Triglav
+33	Mölltaler Polinik	Austria	2784	1579	1205	Iselsberg Pass	Großglockner 1 / MB 2
+34	Tödi	Switzerland	3614	1570	2044	Oberalp Pass	Finsteraarhorn
+35	Birkkarspitze	Austria	2749	1569	1180	Seefeld in Tirol	Zugspitze 1 / MB 2
+36	Ellmauer Halt	Austria	2344	1551	793	near Ellmau	Großglockner 1 / MB 2
+37	Grande Tête de l'Obiou	France	2790	1542	1248	Col Bayard	Barre des Écrins 1 / MB 2
+38	Cima Tosa	Italy	3173	1521	1652	near Campo Carlo Magno	Presanella 1 / MB 2
+39	Hochtor	Austria	2369	1520	849	Schober Pass	Großglockner 1 / MB 2
+40	Grimming	Austria	2351	1518	833	near Schrödis near Tauplitz	Großer Priel
+41	Grand Combin	Switzerland	4314	1517	2797	Fenêtre de Durand	Monte Rosa
+42	La Tournette	France	2351	1514	837	Col du Marais	Pointe Percée 1 / MB 2
+43	Zirbitzkogel	Austria	2396	1502	894	Neumarkter Sattel	Großglockner 1 / MB 2

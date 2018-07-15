@@ -1,0 +1,12 @@
+Terminal	Operator	Depth (m)	Berths	Quay cranes
+Terminal 1 (CT1)	MTL	14	1	4
+Terminal 2 (CT2)	MTL	14	1	5
+Terminal 3 (CT3)	DPI	14	1	6
+Terminal 4 (CT4)	HIT	12.5	3	8
+Terminal 5 (CT5)	MTL	14	1	4
+Terminal 6 (CT6)	HIT	12.5-15.5	3	11
+Terminal 7 (CT7)	HIT	15.5	4	15
+Terminal 8 East (CT8E)	HIT/COSCO	15.5	2	9
+Terminal 8 West (CT8W)	ACT	15.5	2	8
+Terminal 9 North (CT9N)	HIT	15.5	2	9
+Terminal 9 South (CT9S)	MTL	15.5	4	13

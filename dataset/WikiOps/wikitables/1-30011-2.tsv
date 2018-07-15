@@ -1,0 +1,9 @@
+Prefix class	Type and usage	Example	Equivalent	Reference
+AC	Germanium small-signal AF transistor	AC126	NTE102A	Datasheet
+AD	Germanium AF power transistor	AD133	NTE179	Datasheet
+AF	Germanium small-signal RF transistor	AF117	NTE160	Datasheet
+AL	Germanium RF power transistor	ALZ10	NTE100	Datasheet
+AS	Germanium switching transistor	ASY28	NTE101	Datasheet
+AU	Germanium power switching transistor	AU103	NTE127	Datasheet
+BD	Silicon, power transistor	BD139	NTE375	Datasheet
+BF	Silicon, RF (high frequency) BJT or FET	BF245	NTE133	Datasheet

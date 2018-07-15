@@ -1,0 +1,12 @@
+LE-5 Model	LE-5	LE-5A	LE-5B	LE-5B-2
+Operational Cycle	Gas Generator	Expander Bleed (Nozzle/Chamber)	Expander Bleed (Chamber)	Expander Bleed (Chamber)
+Rated Thrust	102.9 (23,100)	121.5 (27,300)	137.2 (30,800)	144.9 (32,500)
+Mixture Ratio	5.5	5	5	5
+Expansion Ratio	140	130	110	110
+Specific Impulse (Isp)	450	452	447	447
+Chamber Pressure	3.65 (529)	3.98 (577)	3.58 (519)	3.78 (548)
+LH2 Rotational Speed	50,000	51,000	52,000	53,504
+LOX Rotational Speed	16,000	17,000	18,000	18,560
+Length	2.68 (8.84)	2.69 (8.88)	2.79 (9.21)	2.79 (9.21)
+Weight	255 (562)	248 (547)	285 (628)	290 (639)
+Throttleable down to	no	no	60%	60%

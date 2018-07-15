@@ -1,0 +1,6 @@
+Name	Actual version	System	Platform	License
+MESS	0.147	Various computers and consoles	Cross-platform	Custom
+6502Em	4.00	BBC Micro , BBC Master , Acorn Electron	Windows , RISC OS	Commercial
+ElectrEm for Windows, DOS, UNIX/Linux and Mac OS X	0.6c	Acorn Electron	Windows , OS X	Open source
+Elkulator	1.0	Acorn Electron	Windows , DOS , Linux	GPL
+ElkJS	n/a	Acorn Electron	Cross-platform	Open source

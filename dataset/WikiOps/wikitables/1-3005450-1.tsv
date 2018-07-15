@@ -1,0 +1,22 @@
+Station	Metlink code	Line(s)	Service(s)	Serves	km from Wellington	Fare zone(s)	Opened
+Awarua Street	AWAR	Johnsonville Line	Johnsonville	Ngaio	6.0	3	2 Cannot handle non-empty timestamp argument! 1938
+Carterton	CART	Wairarapa Line	Wairarapa Connection	Carterton	76.6	13	1 Cannot handle non-empty timestamp argument! 1880
+Epuni	EPUN	Wairarapa Line	Hutt Valley	Epuni , Boulcott	16.5	5	7 Cannot handle non-empty timestamp argument! 1946
+Heretaunga	HERE	Wairarapa Line	Hutt Valley	Heretaunga	28.2	6	1908
+Kenepuru	KENE	North Island Main Trunk	Kapiti	Kenepuru , Linden	16.2	5	8 Cannot handle non-empty timestamp argument! 1963
+Mana [d ]	MANA	North Island Main Trunk	Kapiti	Mana	23.2	6	5 Cannot handle non-empty timestamp argument! 1949
+Manor Park	MANO	Wairarapa Line	Hutt Valley	Manor Park	23.7	6	1 Cannot handle non-empty timestamp argument! 1954
+Masterton	MAST	Wairarapa Line	Wairarapa Connection	Masterton	91.0	14	1 Cannot handle non-empty timestamp argument! 1880
+Matarawa	MATA	Wairarapa Line	Wairarapa Connection	Carterton	69.6	13	1 Cannot handle non-empty timestamp argument! 1880
+Maymorn	MAYM	Wairarapa Line	Wairarapa Connection	Maymorn	38.8	8	3 Cannot handle non-empty timestamp argument! 1955
+Naenae	NAEN	Wairarapa Line	Hutt Valley	Naenae , Avalon	18.3	5	7 Cannot handle non-empty timestamp argument! 1946
+Paraparaumu	PARA	North Island Main Trunk	Kapiti	Paraparaumu , Raumati	48.3	9	2 Cannot handle non-empty timestamp argument! 1886
+Petone	PETO	Wairarapa Line	Hutt Valley , Melling , Wairarapa Connection	Petone	10.5	4	Cannot handle non-empty timestamp argument! 1875
+Plimmerton	PLIM	North Island Main Trunk	Kapiti	Plimmerton	24.5	6	2 Cannot handle non-empty timestamp argument! 1885
+Pomare	POMA	Wairarapa Line	Hutt Valley	Pomare , Stokes Valley	22.0	5	9 Cannot handle non-empty timestamp argument! 1954
+Renall Street	RENA	Wairarapa Line	Wairarapa Connection	Masterton	89.4	14	1936
+Simla Crescent	SIML	Johnsonville Line	Johnsonville	Khandallah	6.9	3	2 Cannot handle non-empty timestamp argument! 1938
+Solway	SOLW	Wairarapa Line	Wairarapa Connection	Masterton	88.1	14	1 Cannot handle non-empty timestamp argument! 1880
+Trentham	TREN	Wairarapa Line	Hutt Valley	Trentham	29.4	6/7	8 Cannot handle non-empty timestamp argument! 1907
+Upper Hutt	UPPE	Wairarapa Line	Hutt Valley , Wairarapa Connection	Upper Hutt city centre	32.4	7	1 Cannot handle non-empty timestamp argument! 1876
+Waikanae	WAIK	North Island Main Trunk	Kapiti	Waikanae	55.4	10	2 Cannot handle non-empty timestamp argument! 1886

@@ -1,0 +1,14 @@
+Model	Engine	Displacement	Valvetrain	Fuel system	Max. power at rpm	Max. torque at rpm	Years
+Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines
+1.3	Mitsubishi 4G13	1299cc	SOHC 16v	Multi-point fuel injection	kW (PS; bhp) at 5000rpm	N·m (ft·lbf) at 4000rpm	1995–2004
+1.6	Mitsubishi 4G92	1597 cc	SOHC 16v	Multi-point fuel injection	kW (PS; bhp) at 5500rpm	N·m (ft·lbf) at 4000rpm	1995–1997
+1.6	Mitsubishi 4G92	1597 cc	SOHC 16v	Multi-point fuel injection	kW (PS; bhp) at 5750rpm	N·m (ft·lbf) at 4000rpm	1997–2000
+1.6	Mitsubishi 4G92	1597 cc	SOHC 16v	Multi-point fuel injection	kW (PS; bhp) at 6000rpm	N·m (ft·lbf) at 4500rpm	2000–2004
+1.8	Mitsubishi 4G93	1834 cc	SOHC 16v	Multi-point fuel injection	kW (PS; bhp) at 5500rpm	N·m (ft·lbf) at 4500rpm	1995–1997
+1.8 MSX	Mitsubishi 4G93	1834 cc	DOHC 16v	Multi-point fuel injection	kW (PS; bhp) at 6500rpm	N·m (ft·lbf) at 5000rpm	1995–1997
+1.8 GDI	Mitsubishi 4G93	1834 cc	DOHC 16v	Gasoline direct injection	kW (PS; bhp) at 5500rpm	N·m (ft·lbf) at 3750rpm	1997–2000
+1.8 GDI	Mitsubishi 4G93	1834cc	DOHC 16v	Gasoline direct injection	kW (PS; bhp) at 5500rpm	N·m (ft·lbf) at 3750rpm	2000–2003
+Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines
+1.9 TD	Renault F8QT	1870cc	SOHC 8v	Indirect injection	kW (PS; bhp) at 4250rpm	N·m (ft·lbf) at 2250rpm	1997–2000
+1.9 DI-D MP	Renault F9Q1	1870cc	SOHC 8v	Common rail direct injection	kW (PS; bhp) at 4000rpm	N·m (ft·lbf) at 1700rpm	2000–2004
+1.9 DI-D HP	Renault F9Q2	1870cc	SOHC 8v	Common rail direct injection	kW (PS; bhp) at 4000rpm	N·m (ft·lbf) at 1800rpm	2000–2004

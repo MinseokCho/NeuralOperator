@@ -1,0 +1,25 @@
+Solvent	Chemical Formula	Boiling point	Dielectric constant	Density	Dipole moment ( D )
+Non-Polar Solvents	Non-Polar Solvents	Non-Polar Solvents	Non-Polar Solvents	Non-Polar Solvents	Non-Polar Solvents
+Hexane	CH 3 -CH 2 -CH 2 -CH 2 -CH 2 -CH 3	69 °C	2.0	0.655 g/ml	0.00 D
+Benzene	C 6 H 6	80 °C	2.3	0.879 g/ml	0.00 D
+Toluene	C 6 H 5 -CH 3	111 °C	2.4	0.867 g/ml	0.36 D
+1,4-Dioxane	/-CH 2 -CH 2 -O-CH 2 -CH 2 -O-\	101 °C	2.3	1.033 g/ml	0.45 D
+Chloroform	CHCl 3	61 °C	4.8	1.498 g/ml	1.04 D
+Diethyl ether	CH 3 -CH 2 -O-CH 2 -CH 3	35 °C	4.3	0.713 g/ml	1.15 D
+Dichloromethane (DCM)	CH 2 Cl 2	40 °C	9.1	1.3266 g/ml	1.60 D
+Polar Aprotic Solvents	Polar Aprotic Solvents	Polar Aprotic Solvents	Polar Aprotic Solvents	Polar Aprotic Solvents	Polar Aprotic Solvents
+tetrahydrofuran (THF)	/-CH 2 -CH 2 -O-CH 2 -CH 2 -\	66 °C	7.5	0.886 g/ml	1.75 D
+ethyl acetate (EtOAc)	CH 3 -C(=O)-O-CH 2 -CH 3	77 °C	6.0	0.894 g/ml	1.78 D
+acetone	CH 3 -C(=O)-CH 3	56 °C	21	0.786 g/ml	2.88 D
+dimethylformamide (DMF)	H-C(=O)N(CH 3 ) 2	153 °C	38	0.944 g/ml	3.82 D
+acetonitrile (MeCN)	CH 3 -C≡N	82 °C	37	0.786 g/ml	3.92 D
+dimethyl sulfoxide (DMSO)	CH 3 -S(=O)-CH 3	189 °C	47	1.092 g/ml	3.96 D
+Polar Protic Solvents	Polar Protic Solvents	Polar Protic Solvents	Polar Protic Solvents	Polar Protic Solvents	Polar Protic Solvents
+formic acid	H-C(=O)OH	101 °C	58	1.21 g/ml	1.41 D
+n-butanol	CH 3 -CH 2 -CH 2 -CH 2 -OH	118 °C	18	0.810 g/ml	1.63 D
+isopropanol (IPA)	CH 3 -CH(-OH)-CH 3	82 °C	18	0.785 g/ml	1.66 D
+nitromethane	CH 3 -NO 2	100–103 °C	35.87	1.1371 g/ml	3.56 D
+ethanol (EtOH)	CH 3 -CH 2 -OH	79 °C	30	0.789 g/ml	1.69 D
+methanol (MeOH)	CH 3 -OH	65 °C	33	0.791 g/ml	1.70 D
+Acetic acid (AcOH)	CH 3 -C(=O)OH	118 °C	6.2	1.049 g/ml	1.74 D
+Water	H-O-H	100 °C	80	1.000 g/ml	1.85 D

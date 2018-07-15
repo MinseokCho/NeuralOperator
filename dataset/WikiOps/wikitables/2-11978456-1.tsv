@@ -1,0 +1,354 @@
+Number	Chapter	Installation Date	Location	Status
+1.	Alpha	October 5, 1904	New York, New York	Active
+2.	Beta	March 10, 1910	Denver, Colorado	Active
+3.	Gamma	November 4, 1911	Chicago , Illinois	Active
+4.	Delta	February 8, 1912	Pittsburgh, Pennsylvania	Active
+5.	Epsilon	April 16, 1913	Champaign, Illinois	Active
+6.	Zeta	May 7, 1914	Lincoln, Nebraska	Active
+7.	Eta	May 24, 1914	Cincinnati, Ohio	Active
+8.	Theta	May 30, 1914	Corvallis, Oregon	Active
+9.	Iota	March 6, 1915	Austin, Texas	Active
+10.	Kappa	May 3, 1915	Eugene, Oregon	Active
+11.	Lambda	June 1, 1915	Norman, Oklahoma	Closed
+12.	Mu	June 6, 1915	Columbus, Ohio	Active
+13.	Nu	April 29, 1916	Boston, Massachusetts	Active
+14.	Xi	May 1, 1916	Boston, Massachusetts	Closed
+15.	Omicron	April 21, 1917	Missoula, Montana	Closed
+16.	Pi	November 27, 1917	Atlanta, Georgia	Active
+17.	Rho	June 12, 1919	Seattle, Washington	Active
+18.	Sigma	June 13, 1919	Colorado Springs, Colorado	Closed
+19.	Tau	April 10, 1920	Stillwater, Oklahoma	Active
+20.	Upsilon	April 10, 1920	Columbia, Missouri	Active
+21.	Phi	May 1, 1920	Ann Arbor, Michigan	Active
+22.	Chi	May 22, 1920	New York, New York	Active
+23.	Psi	May 29, 1920	Lawrence, Kansas	Active
+24.	Omega	January 22, 1921	Williamsburg, Virginia	Active
+25.	Alpha Beta	March 8, 1921	Berkeley, California	Active
+26.	Alpha Gamma	June 3, 1921	Charlottesville, Virginia	Active
+27.	Alpha Delta	May 13, 1922	Lexington, Virginia	Closed
+28.	Alpha Epsilon	March 18, 1922	Athens , Georgia	Active
+29.	Alpha Zeta	May 3, 1922	Los Angeles, California	Active
+30.	Alpha Eta	May 20, 1922	Minneapolis, Minnesota	Active
+31.	Alpha Theta	November 18, 1922	Logan, Utah	Closed
+32.	Alpha Iota	November 17, 1922	Salt Lake City, Utah	Closed
+33.	Alpha Kappa	May 11, 1923	Moscow, Idaho	Colony
+34.	Alpha Lambda	May 16, 1923	St. Louis, Missouri	Active
+35.	Alpha Mu	May 17, 1923	Madison, Wisconsin	Active
+36.	Alpha Nu	May 7, 1923	Tucson, Arizona	Active
+37.	Alpha Xi	May 25, 1923	Iowa City, Iowa	Active
+38.	Alpha Omicron	May 26, 1923	Syracuse, New York	Active
+39.	Alpha Pi	November 12, 1923	Dallas, Texas	Active
+40.	Alpha Rho	April 1, 1924	Tuscaloosa, Alabama	Active
+41.	Alpha Sigma	May 19, 1924	Bethlehem, Pennsylvania	Closed
+42.	Alpha Tau	February 18, 1925	Chapel Hill, North Carolina	Active
+43.	Alpha Upsilon	January 5, 1926	Los Angeles, California	Active
+44.	Alpha Phi	January 22, 1926	Gainesville, Florida	Active
+45.	Alpha Chi	January 25, 1926	Atlanta , Georgia	Active
+46.	Alpha Psi	March 11, 1926	Milwaukee, Wisconsin	Closed
+47.	Alpha Omega	May 10, 1926	Manhattan, Kansas	Active
+48.	Beta Gamma	April 5, 1927	Bloomington, Indiana	Active
+49.	Beta Delta	January 14, 1928	Provo, Utah	Closed
+50.	Beta Epsilon	June 3, 1928	Chicago , Illinois	Active
+51.	Beta Zeta	November 10, 1928	Fayetteville, Arkansas	Active
+52.	Beta Eta	December 7, 1929	Durham, North Carolina	Active
+53.	Beta Theta	May 20, 1930	Detroit, Michigan	Closed
+54.	Beta Iota	April 11, 1931	Buffalo, New York	Active
+55.	Beta Kappa	April 18, 1931	London, Ontario , Canada	Closed
+56.	Beta Lambda	November 19, 1932	Pullman, Washington	Active
+57.	Beta Mu	May 6, 1933	Washington , District of Columbia	Active
+58.	Beta Nu	May 16, 1936	Laramie, Wyoming	Active
+59.	Beta Xi	February 18, 1939	Blacksburg, Virginia	Active
+60.	Beta Omicron	May 18, 1941	Detroit, Michigan	Closed
+61.	Beta Pi	May 9, 1941	Coral Gables, Florida	Active
+62.	Beta Rho	April 4, 1943	Morgantown, West Virginia	Active
+63.	Beta Sigma	January 29, 1947	Jamaica, New York	Active
+64.	Beta Tau	May 1, 1948	Albuquerque, New Mexico	Closed
+65.	Beta Upsilon	September 25, 1948	Columbia, South Carolina	Active
+66.	Beta Phi	May 1, 1949	Des Moines, Iowa	Active
+67.	Beta Chi	May 1, 1949	Baton Rouge, Louisiana	Active
+68.	Beta Psi	May 28, 1949	Tallahassee, Florida	Active
+69.	Beta Omega	December 10, 1949	Birmingham, Alabama	Active
+70.	Gamma Delta	May 13, 1950	Winston-Salem, North Carolina	Active
+71.	Gamma Epsilon	May 13, 1950	University Park, Pennsylvania	Active
+72.	Gamma Zeta	December 3, 1950	Boulder, Colorado	Active
+73.	Gamma Eta	January 13, 1951	Toledo, Ohio	Active
+74.	Gamma Theta	April 15, 1951	Peoria, Illinois	Closed
+75.	Gamma Iota	March 16, 1952	Chicago , Illinois	Active
+76.	Gamma Kappa	Sept 28, 1952	Portland, Oregon	Active
+77.	Gamma Lambda	November 1,1952	Fresno, California	Active
+78.	Gamma Mu	December 6, 1952	East Lansing, Michigan	Active
+79.	Gamma Nu	June 7, 1953	Wellesley Park, Massachusetts	Closed
+80.	Gamma Xi	October 18, 1953	Portland, Oregon	Closed
+81.	Gamma Omicron	November 15, 1953	Northfield, Vermont	Closed
+82.	Gamma Pi	January 17, 1954	South Orange, New Jersey	Active
+83.	Gamma Rho	March 6, 1954	Kansas City, Missouri	Closed
+84.	Gamma Sigma	April 20, 1954	Denver, Colorado	Closed
+85.	Gamma Tau	May 23, 1954	Kalamazoo, Michigan	Active
+86.	Gamma Upsilon	January 24, 1954	Wichita, Kansas	Active
+87.	Gamma Phi	October 31, 1954	Tulsa, Oklahoma	Closed
+88.	Gamma Chi	February 13, 1955	Oxford, Ohio	Active
+89.	Gamma Psi	May 1, 1955	Lewiston, New York	Closed
+90.	Gamma Omega	April 16, 1955	Seattle, Washington	Active
+91.	Delta Epsilon	May 22, 1955	Los Angeles, California	Closed
+92.	Delta Zeta	May 15, 1955	Richmond, Virginia	Active
+93.	Delta Eta	May 22, 1955	Boston, Massachusetts	Closed
+94.	Delta Theta	June 5, 1955	Waukesha, Wisconsin	Closed
+95.	Delta Iota	February 19, 1956	Waynesburg, Pennsylvania	Closed
+96.	Delta Kappa	February 12, 1956	Nashville, Tennessee	Active
+97.	Delta Lambda	May 5, 1956	Starkville, Mississippi	Closed
+98.	Delta Mu	May 20, 1956	University Heights, Ohio	Active
+99.	Delta Nu	May 5, 1956	Dayton, Ohio	Active
+100.	Delta Xi	May 13, 1956	St. Paul, Minnesota	Closed
+101.	Delta Omicron	June 10, 1956	Long Beach, California	Active
+102.	Delta Pi	February 3, 1957	Omaha, Nebraska	Active
+103.	Delta Rho	March 10, 1957	St. Paul, Minnesota	Closed
+104.	Delta Sigma	April 7, 1957	St. Louis, Missouri	Active
+105.	Delta Tau	June 15, 1957	Buffalo, New York	Active
+106.	Delta Upsilon	May 19, 1957	Pocatello, Idaho	Active
+107.	Delta Phi	December 8, 1957	Milwaukee, Wisconsin	Active
+108.	Delta Chi	February 8, 1958	Potsdam, New York	Active
+109.	Delta Psi	April 13, 1958	Bloomington, Illinois	Active
+110.	Delta Omega	May 11, 1958	Ames, Iowa	Active
+111.	Epsilon Zeta	July 13, 1958	Detroit, Michigan	Closed
+112.	Epsilon Eta	October 16, 1958	Waco, Texas	Active
+113.	Epsilon Theta	January 31, 1959	Birmingham, Alabama	Closed
+114.	Epsilon Iota	March 15, 1959	Canyon, Texas	Closed
+115.	Epsilon Kappa	April 18, 1959	Carbondale, Illinois	Active
+116.	Epsilon Lambda	April 26, 1959	Norfolk, Virginia	Closed
+117.	Epsilon Mu	May 17, 1959	Pittsburg, Kansas	Closed
+118.	Epsilon Nu	May 24, 1959	Tacoma, Washington	Closed
+119.	Epsilon Xi	May 27, 1959	St. Peter, Minnesota	Closed
+120.	Epsilon Omicron	April 24, 1960	Jonesboro, Arkansas	Closed
+121.	Epsilon Pi	May 21, 1960	Fairbanks, Alaska	Closed
+122.	Epsilon Rho	March 18, 1961	Philadelphia, Pennsylvania	Active
+123.	Epsilon Sigma	February 9, 1962	Atlanta , Georgia	Active
+124.	Epsilon Tau	February 15, 1962	Jacksonville, Florida	Active
+125.	Epsilon Upsilon	February 13, 1962	Jefferson City, Tennessee	Closed
+126.	Epsilon Phi	June 6, 1962	Little Rock, Arkansas	Closed
+127.	Epsilon Chi	February 24, 1963	East Orange, New Jersey	Closed
+128.	Epsilon Psi	March 3, 1963	New York, New York	Closed
+129.	Epsilon Omega	May 12, 1963	Portland, Oregon	Active
+130.	Zeta Eta	May 12, 1963	Tacoma, Washington	Closed
+131.	Zeta Theta	May 23, 1963	Winona, Minnesota	Closed
+132.	Zeta Iota	May 9, 1964	Brooklyn, New York	Closed
+133.	Zeta Kappa	May 2, 1964	Ypsilanti, Michigan	Closed
+134.	Zeta Lambda	May 10, 1964	Knoxville, Tennessee	Active
+135.	Zeta Mu	June 7, 1964	Bloomfield, New Jersey	Closed
+136.	Zeta Nu	May 24, 1964	Loretto, Pennsylvania	Closed
+137.	Zeta Xi	October 25, 1964	Mt. Pleasant, Michigan	Active
+138.	Zeta Omicron	March 20, 1965	Cape Girardeau, Missouri	Active
+139.	Zeta Pi	March 21, 1965	Hays, Kansas	Active
+140.	Zeta Rho	May 16, 1965	Huntington, West Virginia	Active
+141.	Zeta Sigma	May 23, 1965	Decatur, Illinois	Closed
+142.	Zeta Tau	May 30, 1965	Bowling Green, Kentucky	Active
+143.	Zeta Upsilon	May 23, 1965	Cookeville, Tennessee	Active
+144.	Zeta Phi	May 22, 1965	Clarksville, Tennessee	Active
+145.	Zeta Chi	May 29, 1965	Martin, Tennessee	Active
+146.	Zeta Psi	May 28, 1965	Murfreesboro, Tennessee	Active
+147.	Zeta Omega	June 14, 1965	Jamaica, New York	Closed
+148.	Eta Theta	May 21, 1966	Lubbock, Texas	Active
+149.	Eta Iota	February 20, 1966	Murray, Kentucky	Active
+150.	Eta Kappa	February 19, 1966	Abilene, Texas	Closed
+151.	Eta Lambda	April 30, 1966	Las Vegas, Nevada	Active
+152.	Eta Mu	May 1, 1966	Nacogdoches, Texas	Closed
+153.	Eta Nu	April 24, 1966	Dearborn, Michigan	Closed
+154.	Eta Xi	May 22, 1966	Youngstown, Ohio	Closed
+155.	Eta Omicron	November 5, 1966	Greenville, North Carolina	Active
+156.	Eta Pi	October 20, 1966	Adrian, Michigan	Active
+157.	Eta Rho	November 13, 1966	Chicago , Illinois	Active
+158.	Eta Sigma	November 4, 1966	New York, New York	Closed
+159.	Eta Tau	February 12, 1967	Ruston, Louisiana	Active
+160.	Eta Upsilon	May 6, 1967	Montevallo, Alabama	Closed
+161.	Eta Phi	May 21, 1967	Cheney, Washington	Active
+162.	Eta Chi	December 9, 1967	Marquette, Michigan	Closed
+163.	Eta Psi	January 13, 1968	Philadelphia, Pennsylvania	Active
+164.	Eta Omega	February 11, 1968	Charlotte, North Carolina	Active
+165.	Theta Iota	March 23, 1968	Erie, Pennsylvania	Active
+166.	Theta Kappa	April 17, 1968	Houghton, Michigan	Active
+167.	Theta Lambda	May 25, 1968	Springfield, Massachusetts	Closed
+168.	Theta Mu	May 19, 1968	DeLand, Florida	Active
+169.	Theta Nu	January 25, 1969	Mobile, Alabama	Active
+170.	Theta Xi	April 13, 1969	Angola, Indiana	Closed
+171.	Theta Omicron	March 30, 1969	Boise, Idaho	Active
+172.	Theta Pi	May 3, 1969	Cullman, Alabama	Closed
+173.	Theta Rho	May 10, 1969	Edinburg, Texas	Closed
+174.	Theta Sigma	April 19, 1969	San Marcos, Texas	Active
+175.	Theta Tau	November 23, 1969	Cullowhee, North Carolina	Active
+176.	Theta Upsilon	April 4, 1970	Pittsburgh, Pennsylvania	Closed
+177.	Theta Phi	May 3, 1970	Evansville, Indiana	Active
+178.	Theta Chi	May 16, 1970	Carrollton , Georgia	Active
+179.	Theta Psi	December 5, 1970	Memphis, Tennessee	Active
+180.	Theta Omega	December 5, 1970	Misenheimer, North Carolina	Closed
+181.	Iota Kappa	February 14, 1971	Springfield, Massachusetts	Closed
+182.	Iota Lambda	April 3, 1971	Atchison, Kansas	Closed
+183.	Iota Mu	July 24, 1971	Stockton, California	Closed
+184.	Iota Nu	December 19, 1971	West Liberty, West Virginia	Closed
+185.	Iota Xi	May 6, 1972	Tempe, Arizona	Active
+186.	Iota Omicron	June 30, 1972	San Bernardino, California	Active
+187.	Iota Pi	May 27, 1972	Newport News, Virginia	Active
+188.	Iota Rho	November 18, 1973	Montclair, New Jersey	Active
+189.	Iota Sigma	December 11, 1976	Huntsville, Texas	Active
+190.	Iota Tau	February 11, 1978	San Diego, California	Active
+191.	Iota Upsilon	April 29, 1978	Slippery Rock, Pennsylvania	Active
+192.	Iota Phi	April 30, 1978	Rock Hill, South Carolina	Active
+193.	Iota Chi	May 6, 1978	Arkadelphia, Arkansas	Closed
+194.	Iota Psi	May 7, 1978	Florence, South Carolina	Closed
+195.	Iota Omega	May 13, 1978	Flagstaff, Arizona	Active
+196.	Kappa Lambda	October, 15, 1978	Midland, Michigan	Active
+197.	Kappa Mu	April 21, 1979	Union, New Jersey	Closed
+198.	Kappa Nu	April 28, 1979	Greenwood, South Carolina	Closed
+199.	Kappa Xi	May 12, 1979	Ellensburg, Washington	Active
+200.	Kappa Omicron	May 19, 1979	Bellevue, Nebraska	Closed
+201.	Kappa Pi	August 4, 1979	San Antonio, Texas	Closed
+202.	Kappa Rho	February 2, 1980	Brownsville, Texas	Closed
+203.	Kappa Sigma	April 19, 1980	Indiana, Pennsylvania	Closed
+204.	Kappa Tau	April 26, 1980	Beaumont, Texas	Active
+205.	Kappa Upsilon	April 23, 1980	Orangeburg, South Carolina	Active
+206.	Kappa Phi	June 28, 1980	Montgomery, Alabama	Active
+207.	Kappa Chi	April 25, 1981	Boone, North Carolina	Closed
+208.	Kappa Psi	May 30, 1981	Seattle, Washington	Closed
+209.	Kappa Omega	April 3, 1982	Aiken, South Carolina	Closed
+210.	Lambda Mu	May 1, 1982	Seguin, Texas	Active
+211.	Lambda Nu	Sep 25, 1982	Washington , District of Columbia	Active
+212.	Lambda Xi	October 22, 1982	Portland, Oregon	Closed
+213.	Lambda Omicron	March 19, 1983	Raleigh, North Carolina	Active
+214.	Lambda Pi	April 8, 1983	Georgetown, Texas	Active
+215.	Lambda Rho	April 23, 1983	Springfield, Missouri	Active
+216.	Lambda Sigma	April 28, 1983	Conway, Arkansas	Colony
+217.	Lambda Tau	October 8, 1983	Enid, Oklahoma	Closed
+218.	Lambda Upsilon	March 24, 1984	Indianapolis, Indiana	Active
+219.	Lambda Phi	April 7, 1984	Weatherford, Oklahoma	Closed
+220.	Lambda Chi	April 28, 1984	College Station, Texas	Closed
+221.	Lambda Psi	May 26, 1984	Atherton, California	Closed
+222.	Lambda Omega	March 23, 1985	Alamosa, Colorado	Closed
+223.	Mu Nu	May 4, 1985	Rochester, Michigan	Active
+224.	Mu Xi	April 20, 1985	Petersburg, Virginia	Closed
+225.	Mu Omicron	April 27, 1985	Terre Haute, Indiana	Active
+226.	Mu Pi	May 4, 1985	Elon, North Carolina	Active
+227.	Mu Rho	December 8, 1985	Dallas, Texas	Active
+228.	Mu Sigma	May 10, 1986	San Diego, California	Active
+229.	Mu Tau	December 6, 1986	St. Louis, Missouri	Closed
+230.	Mu Upsilon	April 25, 1987	Bakersfield, California	Active
+231.	Mu Phi	April 25, 1987	Northridge, California	Active
+232.	Mu Chi	May 26, 1987	Orangeburg, New York	Closed
+233.	Mu Psi	January 28, 1989	Hempstead, New York	Active
+234.	Mu Omega	May 6, 1989	Auburn, Alabama	Active
+235.	Nu Xi	May 14, 1989	San Diego, California	Active
+236.	Nu Omicron	November 18, 1989	Houston, Texas	Active
+237.	Nu Pi	January 27, 1990	San Antonio, Texas	Active
+238.	Nu Rho	April 22, 1990	Fort Collins, Colorado	Active
+239.	Nu Sigma	December 8, 1990	Grand Rapids, Michigan	Closed
+240.	Nu Tau	January 26, 1991	Salem, Virginia	Active
+241.	Nu Upsilon	February 9, 1991	Poughkeepsie, New York	Active
+242.	Nu Phi	March 17, 1991	Johnstown, Pennsylvania	Active
+243.	Nu Chi	April 20, 1991	Orlando, Florida	Active
+244.	Nu Psi	November 9, 1991	Harrisonburg, Virginia	Active
+245.	Nu Omega	January 25, 1992	Macon , Georgia	Active
+246.	Xi Omicron	March 28, 1992	San Antonio, Texas	Active
+247.	Xi Pi	April 25, 1992	Lock Haven, Pennsylvania	Active
+248.	Xi Rho	May 2, 1992	Athens, Ohio	Active
+249.	Xi Sigma	June 27, 1992	Miami, Florida	Active
+250.	Xi Tau	April 8, 1995	Shippensburg, Pennsylvania	Active
+251.	Xi Upsilon	May 6, 1995	Hackettstown, New Jersey	Closed
+252.	Xi Phi	May 6, 1995	Greeley, Colorado	Active
+253.	Xi Chi	May 4, 1996	La Verne, California	Closed
+254.	Xi Psi	April 6, 1997	Normal, Illinois	Active
+255.	Xi Omega	April 5, 1997	Tampa, Florida	Active
+256.	Omicron Pi	April 13, 1997	Azusa, California	Closed
+257.	Omicron Rho	May 10, 1997	Teaneck, New Jersey	Active
+258.	Omicron Sigma	November 15, 1997	Radford, Virginia	Active
+259.	Omicron Tau	May 25, 1998	New Brunswick, New Jersey	Active
+260.	Omicron Upsilon	November 8, 1998	Ithaca, New York	Active
+261.	Omicron Phi	November 21, 1998	Louisville, Kentucky	Active
+262.	Omicron Chi	December 5, 1998	Cleveland, Ohio	Active
+263.	Omicron Psi	December 6, 1998	Lexington, Kentucky	Active
+264.	Omicron Omega	February 6, 1999	Santa Barbara, California	Active
+265.	Pi Rho	February 4, 1999	San Luis Obispo, California	Active
+266.	Pi Sigma	April 24, 1999	Fairfax, Virginia	Active
+267.	Pi Tau	April 25, 1999	Stanford, California	Active
+268.	Pi Upsilon	May 8, 1999	San Marcos, California	Active
+269.	Pi Phi	November 11, 1999	State College, Pennsylvania	Closed
+270.	Pi Chi	November 5, 1999	New Orleans, Louisiana	Active
+271.	Pi Psi	December 11, 1999	Irvine, California	Closed
+272.	Pi Omega	February 5, 2000	West Lafayette, Indiana	Active
+273.	Rho Sigma	November 12, 2000	Charleston, South Carolina	Active
+274.	Rho Tau	October 29, 2000	Oxford, Mississippi	Active
+275.	Rho Upsilon	November 18, 2000	St. Joseph, Missouri	Active
+276.	Rho Phi	January 6, 2001	Riverside, California	Active
+277.	Rho Chi	April 21, 2001	Orange, California	Active
+278.	Rho Psi	April 21, 2001	Baltimore, Maryland	Active
+279.	Rho Omega	April 22, 2001	Buies Creek, North Carolina	Closed
+280.	Sigma Tau	April 28, 2001	New York, New York	Closed
+281.	Sigma Upsilon	May 5, 2001	Manchester , England, United Kingdom	Merged
+282.	Sigma Upsilon Phi	May 5, 2001	Manchester , England, United Kingdom	Active
+283.	Sigma Chi	May 5, 2001	Manchester , England, United Kingdom	Merged
+284.	Sigma Psi	May 12, 2001	New Orleans, Louisiana	Active
+285.	Sigma Omega	March 23, 2002	Boca Raton, Florida	Active
+286.	Tau Upsilon	March 23, 2002	Kirksville, Missouri	Active
+287.	Tau Phi	April 13, 2002	Hamden, Connecticut	Closed
+288.	Tau Chi	April 13, 2002	Chicago , Illinois	Active
+289.	Tau Psi	April 20, 2002	Houston, Texas	Active
+290.	Tau Omega	April 20, 2002	Hattiesburg, Mississippi	Active
+291.	Upsilon Phi	April 20, 2002	Bozeman, Montana	Closed
+292.	Upsilon Chi	November 9, 2002	Muncie, Indiana	Active
+293.	Upsilon Psi	November 24, 2002	Davis, California	Active
+294.	Upsilon Omega	December 8, 2002	Phoenix, Arizona	Active
+295.	Phi Chi	January 25, 2003	Montreal , Quebec , Canada	Closed
+296.	Phi Psi	March 8, 2003	Fargo, North Dakota	Closed
+297.	Phi Omega	April 27, 2003	Spokane, Washington	Active
+298.	Chi Psi	November 16, 2003	Nashville, Tennessee	Active
+299.	Chi Omega	November 23, 2003	Denton, Texas	Active
+300.	Psi Omega	January 8, 2005	Santa Clara, California	Active
+301.	Omega Psi	January 15, 2005	Pittsburgh, Pennsylvania	Active
+302.	Omega Chi	March 12, 2005	Calgary , Alberta , Canada	Active
+303.	Omega Phi	March 23, 2005	San Jose, California	Active
+304.	Omega Upsilon	April 9, 2005	Clemson, South Carolina	Active
+305.	Omega Tau	April 30, 2005	Birmingham, Alabama	Active
+306.	Omega Sigma	May 7, 2005	Whitewater, Wisconsin	Closed
+307.	Omega Rho	May 22, 2005	Fort Lauderdale, Florida	Active
+308.	Omega Pi	November 19, 2005	Orono, Maine	Active
+309.	Omega Omicron	December 3, 2005	Richmond, Kentucky	Active
+310.	Omega Xi	January 14, 2006	Tallahassee, Florida	Active
+311.	Omega Nu	February 18, 2006	Nashville, Tennessee	Active
+312.	Omega Mu	April 23, 2006	Chattanooga, Tennessee	Active
+313.	Omega Lambda	April 30, 2006	Washington , District of Columbia	Active
+314.	Omega Kappa	May 6, 2006	Towson, Maryland	Active
+315.	Omega Iota	May 7, 2006	Dover, Delaware	Closed
+316.	Omega Theta	January 27, 2007	College Park, Maryland	Active
+317.	Omega Eta	April 15, 2007	Greenville, South Carolina	Closed
+318.	Omega Zeta	November 3, 2007	Vestal, New York	Active
+319.	Omega Epsilon	April 19, 2008	Malibu, California	Active
+320.	Omega Delta	January 24, 2009	Durham, New Hampshire	Active
+321.	Omega Gamma	January 31, 2009	Vancouver , British Columbia	Active
+322.	Omega Beta	February 21, 2009	Bellingham, Washington	Active
+323.	Omega Alpha	March 14, 2009	Newark, Delaware	Active
+324.	Psi Chi	April 19, 2009	Jacksonville, Alabama	Active
+325.	Psi Phi	April 25, 2009	Reno, Nevada	Active
+326.	Psi Upsilon	May 10, 2009	Merced, California	Active
+327.	Psi Tau	November 7, 2009	Washington, D.C.	Active
+328.	Psi Sigma	February 20, 2010	Greensboro, NC	Active
+329.	Psi Rho	March 27, 2010	Storrs, CT	Active
+330.	Psi Pi	April 10, 2010	Stony Brook, NY	Active
+331.	Psi Omicron	May 1, 2010	Geneseo, NY	Active
+332.	Psi Xi	May 2, 2010	Allendale, MI	Active
+333.	Psi Nu	March 11, 2011	New York, NY	Active
+334.	Psi Mu	April 9, 2011	Rochester, NY	Active
+335.	Psi Lambda	May 7, 2011	Waltham, MA	Active
+336.	Psi Kappa	May 14, 2011	San Francisco, CA	Active
+337.	Psi Iota	December 3, 2011	West Long Branch, NJ	Active
+338.	Psi Theta	February 11, 2012	Ashland, OR	Active
+339.	Psi Eta	April 7, 2012	Philadelphia, PA	Active
+340.	Psi Zeta	April 21, 2012	Conway, SC	Active
+341.	Psi Epsilon	April 21, 2012	Los Angeles, CA	Active
+342.	Psi Delta	April 29, 2012	Winchester, VA	Active
+343.	Psi Gamma	April 29, 2012	Institute, WV	Active
+344.	Psi Beta	April 6, 2013	Jacksonville, FL	Active
+345.	Psi Alpha	March 23, 2013	Big Rapids, Michigan	Active
+346.	Chi Phi	May 18, 2013	Hong Kong, China	Active
+347.	Colony	n/a	Hanover, NH	Colony
+348.	Colony	n/a	Santa Cruz, CA	Colony
+349.	Colony	n/a	Burlington, VT	Colony
+350.	Colony	n/a	Maryville, MO	Colony
+351.	Colony	n/a	Cambridge, MA	Colony
+352.	Colony	n/a	Seaside, CA	Colony
+353.	Colony	n/a	Boston, MA	Colony

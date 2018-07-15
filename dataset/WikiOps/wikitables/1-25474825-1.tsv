@@ -1,0 +1,22 @@
+Software	Description	Platform	License	Developer
+AMPHORA	Metagenomics analysis software	Linux	GNU General Public License	Developer
+AutoDock	suite of automated docking tools	Platform	GNU GPL	Developer
+Bioconductor	R (programming language) language toolkit	Linux , Mac OS X , Windows	Artistic License 2.0	Fred Hutchinson Cancer Research Center
+BioHaskell	Haskell (programming language)	Linux , Mac OS X , Windows	GPL , LGPL , and BSD	Collaborative project
+BioJava	Java (programming language)	Linux , Mac OS X , Windows	LGPL v2.1	Open Bioinformatics Foundation
+BioMOBY	registry of web services	Web	License	Open Bioinformatics Foundation
+BioPerl	Perl language toolkit	Cross-platform	Artistic License & GPL	Open Bioinformatics Foundation
+BioPHP	PHP language toolkit	Platform	License	Open Bioinformatics Foundation
+Biopython	Python language toolkit	Cross-platform	Biopython License	Open Bioinformatics Foundation
+BioRuby	Ruby language toolkit	Platform	GNU GPL v2 or Ruby license	Open Bioinformatics Foundation
+BioSmalltalk	Smalltalk language toolkit	Cross-platform	MIT license	Developer
+caCORE	ontologic representation environment	Platform	License	National Cancer Institute
+caArray	ontologic representation environment	Platform	License	National Cancer Institute
+EMBOSS	Suite of packages for sequencing, searching, etc.	Platform	General Public Licence (GPL) and Library GPL	Collaborative project
+Galaxy	Scientific workflow and data integration system	Unix-like	License	Penn State and Emory University
+GeWorkbench	Genomic data integration platform	Linux , Mac OS X , Windows	License	Columbia University
+Integrated Genome Browser	Java -based desktop genome browser	Linux , Mac OS X , Windows	CPL 1.0	GenoViz
+IntAct	molecular interaction database	Platform	License	European Bioinformatics Institute
+Java Treeview	microarray data viewer	Cross-platform	License	Developer
+Taverna workbench	Tool for designing and executing workflows	Linux , Mac OS X , Windows	LGPL	myGrid
+UGENE	integrated bioinformatics tools	Linux , Mac OS X , Windows	GPL2 License	Unipro

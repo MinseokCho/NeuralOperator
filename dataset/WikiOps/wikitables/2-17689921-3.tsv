@@ -1,0 +1,6 @@
+Model Number	Clock Speed	L1 Cache	L2 Cache	FSB Speed	Clock Multiplier	Idle Power	Socket	Cores	Release Date
+Nano U1700	1.0GHz	16+16 KB	256 KB	800MHz	10~13×	200mW	NanoBGA2	1	May 29, 2008
+Nano U2300	1.0GHz	16+16 KB	256 KB	533MHz	7.5×	100mW	NanoBGA2	1	May 29, 2008
+Nano U2225	1.3GHz	16+16 KB	256 KB	800MHz	13×	200mW	NanoBGA2	1	May 29, 2008
+Nano U2250	1.3GHz	16+16 KB	256 KB	800MHz	13~16×	200mW	NanoBGA2	1	May 29, 2008
+Nano U2500	1.2GHz	16+16 KB	256 KB	800MHz	12×	100mW	NanoBGA2	1	May 29, 2008

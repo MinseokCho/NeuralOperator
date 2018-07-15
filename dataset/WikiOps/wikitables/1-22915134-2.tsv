@@ -1,0 +1,8 @@
+Engine	Crankshaft	Ignition timing	Graphical	Example
+I4	180°	180-180-180-180	1-0-1-0-1-0-1-0-	Honda CB750
+I4 'Long bang'	180°	180-540	2-0-2-0-0-0-0-0-	Shinya Nakano's Kawasaki Ninja ZX-RR
+I4 'Uneven bang'	crossplane	180-90-180-270	1-0-1-1-0-1-0-0-	2009 Yamaha YZF-R1
+70° V4 90° V4	180°	180-70-180-290 180-90-180-270	1-0-1-1-0-1-0-0-	1985-2007 Yamaha V-Max Honda VFR800
+90° V4 'Twin pulse'	70°	90-200-90-340	1-1-0-1-1-0-0-0-	Ducati Desmosedici RR
+90° V4 'Droner'	360°	90-270-90-270	1-1-0-0-1-1-0-0-	Honda VF / RC30 / RC45
+112° V4 'Big bang' (2-stroke)	180°	68-292-68-292	2-2-0-0-2-2-0-0-	1990 Honda NSR500

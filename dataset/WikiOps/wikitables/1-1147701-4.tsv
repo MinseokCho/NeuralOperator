@@ -1,0 +1,12 @@
+Model name	Power (ps)	Torque (Nm@rpm)	Displacement (cm³)	Engine code	Comment
+2.0T (Export) (2000-2004)	163	240@2200-4800?	1984	B5204 T	Inline 5 with low-pressure turbo
+2.0T (Export) (2004-2007)	180	240@2200-5000	1984	B5204 T5	Inline 5 with low-pressure turbo
+2.4 (2001-2007)	140	220@3300	2435	B5244 S2	Inline 5
+2.4 (2001-2003)	170	230@4500	2435	B5244 S	Inline 5
+2.4 (2003-2007)	170	225@4500	2435	B5244 S	Inline 5
+2.4T 2.4T AWD (2000-2003)	200	285@1800-5000	2435	B5244 T3	Inline 5 with low-pressure turbo
+2.5T 2.5T AWD (2002-2007)	210	320@1500-4500	2521	B5254 T2	Inline 5 with low-pressure turbo
+T5 (2000-2004)	250	330@2400-5200	2319	B5234 T3	Inline 5 with high-pressure turbo
+T5 (2004-2007)	260	350@2100-5000	2401	B5244 T5	Inline 5 with high-pressure turbo
+R AWD (5-vxl automat) (2004-2006)	300	350@1800-6000	2521	B5254 T5	Inline 5 with high-pressure turbo
+R AWD (6-vxl automat) (2006-2007)	300	400@1950-5250	2521	B5254 T4	Inline 5 with high-pressure turbo

@@ -1,0 +1,7 @@
+C_{low}	C_{high}	I_{low}	I_{high}	Category
+0	12.0	0	50	Good
+12.1	35.4	51	100	Moderate
+35.5	55.4	101	150	Unhealthy for Sensitive Groups
+55.5	150.4	151	200	Unhealthy
+150.5	250.4	201	300	Very Unhealthy
+250.5	350.4	301	400	Hazardous

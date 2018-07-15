@@ -1,0 +1,66 @@
+Service	Train number	Train name	Source	Departure	Destination	Arrival
+1	12213	Sarai Rohilla Duronto	Yesvantpur Junction	23:40	Delhi Sarai Rohilla	06:50
+1	12214	Sarai Rohilla Duronto	Delhi Sarai Rohilla	23:00	Yesvantpur Junction	07:30
+2	12219	Secunderabad Duronto	Lokmanya Tilak Terminus	23:05	Secunderabad Junction	11:05
+2	12220	Secunderabad Duronto	Secunderabad Junction	23:05	Lokmanya Tilak Terminus	11:05
+3	12221	Howrah Duronto	Pune Junction	15:15	Howrah Junction	19:40
+3	12222	Howrah Duronto	Howrah Junction	08:20	Pune Junction	11:45
+4	12223	Ernakulam Duronto	Lokmanya Tilak Terminus	20:50	Ernakulam Junction	17:45
+4	12224	Ernakulam Duronto	Ernakulam Junction	21:30	Lokmanya Tilak Terminus	18:15
+5	12227	Indore Duronto	Mumbai Central	23:15	Indore Junction	11:15
+5	12228	Indore Duronto	Indore Junction	23:00	Mumbai Central	11:40
+6	12239	Jaipur Duronto Express	Mumbai Central	23:15	Jaipur	14:35
+6	12240	Jaipur Duronto Express	Jaipur	19:15	Mumbai Central	11:40
+7	12243	Coimbatore Duronto	Chennai Central	07:15	Coimbatore Junction	13:55
+7	12244	Coimbatore Duronto	Coimbatore Junction	15:05	Chennai Central	21:50
+8	12245	Yesvantpur Duronto	Howrah Junction	11:00	Yesvantpur Junction	16:00
+8	12246	Yesvantpur Duronto	Yesvantpur Junction	11:15	Howrah Junction	16:00
+9	12259	Delhi Duronto	Sealdah	18:40	New Delhi	11:00
+9	12260	Delhi Duronto	New Delhi	20:05	Sealdah	12:25
+10	12261	Howrah Chattrapati Shivaji Duronto	Chhatrapati Shivaji Terminus	17:15	Howrah Junction	19:40
+10	12262	Howrah Chattrapati Shivaji Duronto	Howrah Junction	08:20	Chhatrapati Shivaji Terminus	10:30
+11	12263	Nizamuddin Duronto	Pune Junction	11:10	Hazrat Nizamuddin	07:15
+11	12264	Nizamuddin Duronto	Hazrat Nizamuddin	11:00	Pune Junction	07:10
+12	12265	Jammu Duronto	Delhi Sarai Rohilla	22:15	Jammu Tawi	07:10
+12	12266	Jammu Duronto	Jammu Tawi	19:25	Delhi Sarai Rohilla	04:00
+13	12267	Ahmedabad Duronto Express	Mumbai Central	23:25	Ahmedabad Junction	06:00
+13	12268	Ahmedabad Duronto Express	Ahmedabad Junction	23:45	Mumbai Central	06:15
+14	12269	Chennai Duronto	Chennai Central	06:40	Hazrat Nizamuddin	10:35
+14	12270	Chennai Duronto	Hazrat Nizamuddin	15:50	Chennai Central	20:10
+15	12271	Lucknow Duronto	Lucknow Charbagh	23:30	New Delhi	07:30
+15	12272	Lucknow Duronto	New Delhi	23:30	Lucknow Charbagh	07:10
+16	12273	Kolkata Duronto	Howrah Junction	13:00	New Delhi	06:05
+16	12274	Kolkata Duronto	New Delhi	13:00	Howrah Junction	06:00
+17	12275	Allahabad Duronto	Allahabad Junction	22:40	New Delhi	06:05
+17	12276	Allahabad Duronto	New Delhi	23:00	Allahabad Junction	06:20
+18	12277	Puri Duronto	Howrah Junction	14:25	Puri	21:40
+18	12278	Puri Duronto	Puri	06:30	Howrah Junction	13:45
+19	12281	Bhubaneshwar Duronto	Bhubaneswar	08:10	New Delhi	06:05
+19	12282	Bhubaneshwar Duronto	New Delhi	13:00	Bhubaneswar	11:05
+20	12283	Kochi Duronto	Ernakulam Junction	23:30	Hazrat Nizamuddin	19:30
+20	12284	Kochi Duronto	Hazrat Nizamuddin	21:35	Ernakulam Junction	15:30
+21	12285	Hyderabad Duronto	Secunderabad Junction	13:30	Hazrat Nizamuddin	10:35
+21	12286	Hyderabad Duronto	Hazrat Nizamuddin	15:50	Secunderabad Junction	14:00
+22	12289	Nagpur Duronto	Chattrapati Shivaji Terminus	20:15	Nagpur	07:20
+22	12290	Nagpur Duronto	Nagpur	20:40	Chattrapati Shivaji Terminus	07:50
+23	12293	Allahabad Duronto Express	Lokmanya Tilak Terminus	17:25	Allahabad Junction	12:25
+23	12294	Allahabad Duronto Express	Allahabad Junction	19:30	Lokmanya Tilak Terminus	14:50
+24	12297	Pune Duronto	Ahmedabad Junction	22:30	Pune Junction	07:10
+24	12298	Pune Duronto	Pune Junction	21:35	Ahmedabad Junction	06:20
+25	12847	Digha Duronto	Howrah Junction	11:15	Digha	14:15
+25	12848	Digha Duronto	Digha	15:35	Howrah Junction	18:35
+26	22201	Sealdah Duronto	Sealdah	20:00	Puri	04:00
+26	22202	Sealdah Duronto	Puri	19:50	Sealdah	04:00
+27	22203	Visakhapatnam Duronto	Visakhapatnam Junction	22:30	Secunderabad Junction	08:00
+27	22204	Visakhapatnam Duronto	Secunderabad Junction	20:30	Visakhapatnam Junction	06:05
+28	22205	Madurai Duronto	Chennai Central	22:30 Mon,Wed	Madurai Junction	07:00 Tue,Thu
+28	22206	Madurai Duronto	Madurai Junction	22:40 Tue,Thu	Chennai Central	07:10 Wed,Fri
+29	22207	Trivandrum Duronto	Chennai Central	16:30	Trivandrum Central	05:15
+29	22208	Trivandrum Duronto	Trivandrum Central	21:40	Chennai Central	10:15
+30	22209	Mumbai Duronto	Mumbai Central	23:15	New Delhi	16:55
+30	22210	Mumbai Duronto	New Delhi	23:30	Mumbai Central	17:00
+31	22211	Ajmer Duronto	Ajmer	05:50	Hazrat Nizamuddin	12:35
+31	22212	Ajmer Duronto	Hazrat Nizamuddin	15:10	Ajmer	21:50
+32	22213	Patna Duronto	Shalimar	22:05	Patna Junction	06:40
+32	22214	Patna Duronto	Patna Junction	20:40	Shalimar	05:40
+33	52451	Shivalik Deluxe Express	Kalka	05:30	Simla	10:15

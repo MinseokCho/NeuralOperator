@@ -1,0 +1,6 @@
+Vaccine	Minimum Age at 1st Dose	Number of Doses	Dose	Minimum Interval Between Doses	Route
+Bacillus Calmette-Guérin	Birth or anytime after birth	1 dose	0.05 mL	none	Intradermal
+Diphtheria-Pertussis-Tetanus Vaccine	6 weeks old	3 doses	0.5 mL	6 weeks(DPT 1), 10 weeks (DPT 2), 14 weeks (DPT 3)	Intramuscular
+Oral Polio Vaccine	6 weeks old	3 doses	2-3 drops	4 weeks	Oral
+Hepatitis B Vaccine	At birth	3 doses	0.5 mL	4 weeks interval	Intramuscular
+Measles Vaccine (not MMR)	9 months old	1 dose	0.5 mL	none	Subcutaneous

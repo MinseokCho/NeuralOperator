@@ -1,0 +1,201 @@
+Rank	Mountain Peak	State	Mountain Range	Location
+1	Mount McKinley ( Denali )	Alaska	Alaska Range	63.0690°N 151.0063°W
+2	Mount Saint Elias	Alaska Yukon	Saint Elias Mountains	60.2931°N 140.9264°W
+3	Mount Foraker	Alaska	Alaska Range	62.9604°N 151.3998°W
+4	Mount Bona	Alaska	Saint Elias Mountains	61.3856°N 141.7495°W
+5	Mount Blackburn	Alaska	Wrangell Mountains	61.7305°N 143.4031°W
+6	Mount Sanford	Alaska	Wrangell Mountains	62.2132°N 144.1292°W
+7	Mount Fairweather ( Fairweather Mountain )	Alaska British Columbia	Saint Elias Mountains	58.9064°N 137.5267°W
+8	Mount Hubbard	Alaska Yukon	Saint Elias Mountains	60.3192°N 139.0714°W
+9	Mount Bear	Alaska	Saint Elias Mountains	61.2834°N 141.1433°W
+10	Mount Hunter	Alaska	Alaska Range	62.9504°N 151.0915°W
+11	Mount Alverstone	Alaska Yukon	Saint Elias Mountains	60.3518°N 139.0749°W
+12	Mount Whitney	California	Sierra Nevada	36.5786°N 118.2920°W
+13	University Peak	Alaska	Saint Elias Mountains	61.3272°N 141.7867°W
+14	Mount Elbert	Colorado	Sawatch Range	39.1178°N 106.4454°W
+15	Mount Massive	Colorado	Sawatch Range	39.1875°N 106.4757°W
+16	Mount Harvard	Colorado	Sawatch Range	38.9244°N 106.3207°W
+17	Mount Rainier	Washington	Cascade Range	46.8529°N 121.7604°W
+18	Mount Williamson	California	Sierra Nevada	36.6559°N 118.3111°W
+19	La Plata Peak	Colorado	Sawatch Range	39.0294°N 106.4729°W
+20	Blanca Peak	Colorado	Sangre de Cristo Mountains	37.5775°N 105.4856°W
+21	Uncompahgre Peak	Colorado	San Juan Mountains	38.0717°N 107.4621°W
+22	Crestone Peak	Colorado	Sangre de Cristo Mountains	37.9668°N 105.5855°W
+23	Mount Lincoln	Colorado	Mosquito Range	39.3515°N 106.1116°W
+24	Castle Peak	Colorado	Elk Mountains	39.0097°N 106.8614°W
+25	Grays Peak	Colorado	Front Range	39.6339°N 105.8176°W
+26	Mount Antero	Colorado	Sawatch Range	38.6741°N 106.2462°W
+27	Mount Evans	Colorado	Front Range	39.5883°N 105.6438°W
+28	Longs Peak	Colorado	Front Range	40.2550°N 105.6151°W
+29	Mount Wilson	Colorado	San Miguel Mountains	37.8391°N 107.9916°W
+30	White Mountain Peak	California	White Mountains	37.6341°N 118.2557°W
+31	North Palisade	California	Sierra Nevada	37.0943°N 118.5145°W
+32	Mount Princeton	Colorado	Sawatch Range	38.7492°N 106.2424°W
+33	Mount Yale	Colorado	Sawatch Range	38.8442°N 106.3138°W
+34	Mount Shasta	California	Cascade Range	41.4092°N 122.1949°W
+35	Maroon Peak	Colorado	Elk Mountains	39.0708°N 106.9890°W
+36	Mount Wrangell	Alaska	Wrangell Mountains	62.0059°N 144.0187°W
+37	Mount Sneffels	Colorado	Sneffels Range	38.0038°N 107.7923°W
+38	Capitol Peak	Colorado	Elk Mountains	39.1503°N 107.0829°W
+39	Pikes Peak	Colorado	Front Range	38.8405°N 105.0442°W
+40	Mount Eolus	Colorado	Needle Mountains	37.6218°N 107.6227°W
+41	Mount Augusta	Alaska Yukon	Saint Elias Mountains	60.3078°N 140.4586°W
+42	Handies Peak	Colorado	San Juan Mountains	37.9130°N 107.5044°W
+43	Culebra Peak	Colorado	Culebra Range	37.1224°N 105.1858°W
+44	San Luis Peak	Colorado	La Garita Mountains	37.9868°N 106.9313°W
+45	Mount of the Holy Cross	Colorado	Sawatch Range	39.4668°N 106.4817°W
+46	Grizzly Peak	Colorado	Sawatch Range	39.0425°N 106.5976°W
+47	Mount Humphreys	California	Sierra Nevada	37.2705°N 118.6730°W
+48	Mount Keith	California	Sierra Nevada	36.7001°N 118.3436°W
+49	Mount Ouray	Colorado	Sawatch Range	38.4227°N 106.2247°W
+50	Vermilion Peak	Colorado	San Juan Mountains	37.7993°N 107.8285°W
+51	Atna Peaks	Alaska	Wrangell Mountains	61.7495°N 143.2414°W
+52	Regal Mountain	Alaska	Wrangell Mountains	61.7438°N 142.8675°W
+53	Mount Darwin	California	Sierra Nevada	37.1669°N 118.6721°W
+54	Mount Hayes	Alaska	Alaska Range	63.6203°N 146.7178°W
+55	Mount Silverheels	Colorado	Front Range	39.3394°N 106.0054°W
+56	Rio Grande Pyramid	Colorado	San Juan Mountains	37.6797°N 107.3924°W
+57	Gannett Peak	Wyoming	Wind River Range	43.1842°N 109.6542°W
+58	Mount Kaweah	California	Sierra Nevada	36.5261°N 118.4785°W
+59	Mauna Kea	Hawaii	Island of Hawai ʻ i	19.8207°N 155.4680°W
+60	Grand Teton	Wyoming	Teton Range	43.7412°N 110.8024°W
+61	Mount Cook	Alaska Yukon	Saint Elias Mountains	60.1819°N 139.9808°W
+62	Mount Morgan	California	Sierra Nevada	37.4053°N 118.7329°W
+63	Mount Gabb	California	Sierra Nevada	37.3769°N 118.8025°W
+64	Bald Mountain	Colorado	Front Range	39.4448°N 105.9705°W
+65	Mount Oso	Colorado	San Juan Mountains	37.6070°N 107.4936°W
+66	Mauna Loa	Hawaii	Island of Hawai ʻ i	19.4756°N 155.6054°W
+67	Mount Jackson	Colorado	Sawatch Range	39.4853°N 106.5367°W
+68	Mount Tom	California	Sierra Nevada	37.3762°N 119.1789°W
+69	Bard Peak	Colorado	Front Range	39.7204°N 105.8044°W
+70	West Spanish Peak	Colorado	Spanish Peaks	37.3756°N 104.9934°W
+71	Mount Powell	Colorado	Gore Range	39.7601°N 106.3407°W
+72	Hagues Peak	Colorado	Mummy Range	40.4845°N 105.6464°W
+73	Mount Dubois	California	White Mountains	37.7834°N 118.3432°W
+74	Tower Mountain	Colorado	San Juan Mountains	37.8573°N 107.6230°W
+75	Treasure Mountain	Colorado	Elk Mountains	39.0244°N 107.1228°W
+76	Kings Peak (Utah)	Utah	Uinta Mountains	40.7763°N 110.3729°W
+77	North Arapaho Peak	Colorado	Front Range	40.0265°N 105.6504°W
+78	Mount Pinchot	California	Sierra Nevada	36.9473°N 118.4054°W
+79	Mount Natazhat	Alaska	Saint Elias Mountains	61.5217°N 141.1030°W
+80	Mount Jarvis	Alaska	Wrangell Mountains	62.0234°N 143.6198°W
+81	Parry Peak	Colorado	Front Range	39.8381°N 105.7132°W
+82	Bill Williams Peak	Colorado	Williams Mountains	39.1806°N 106.6102°W
+83	Sultan Mountain	Colorado	San Juan Mountains	37.7859°N 107.7039°W
+84	Mount Herard	Colorado	Sangre de Cristo Mountains	37.8492°N 105.4949°W
+85	West Buffalo Peak	Colorado	Mosquito Range	38.9917°N 106.1249°W
+86	Tressider Peak	Alaska	Saint Elias Mountains	61.3590°N 141.6664°W
+87	Summit Peak	Colorado	San Juan Mountains	37.3506°N 106.6968°W
+88	Middle Peak	Colorado	San Miguel Mountains	37.8536°N 108.1082°W
+89	Antora Peak	Colorado	Sawatch Range	38.3250°N 106.2180°W
+90	Henry Mountain	Colorado	Sawatch Range	38.6856°N 106.6211°W
+91	Hesperus Mountain	Colorado	La Plata Mountains	37.4451°N 108.0890°W
+92	Mount Silverthrone	Alaska	Alaska Range	63.1157°N 150.6755°W
+93	Jacque Peak	Colorado	Gore Range	39.4549°N 106.1970°W
+94	Bennett Peak	Colorado	San Juan Mountains	37.4833°N 106.4343°W
+95	Wind River Peak	Wyoming	Wind River Range	42.7085°N 109.1284°W
+96	Conejos Peak	Colorado	San Juan Mountains	37.2887°N 106.5709°W
+97	Mount Marcus Baker	Alaska	Chugach Mountains	61.4374°N 147.7525°W
+98	Cloud Peak	Wyoming	Bighorn Mountains	44.3821°N 107.1739°W
+99	Wheeler Peak	New Mexico	Taos Mountains	36.5569°N 105.4169°W
+100	Francs Peak	Wyoming	Absaroka Range	43.9613°N 109.3392°W
+101	Twilight Peak	Colorado	Needle Mountains	37.6630°N 107.7270°W
+102	Red Slate Mountain	California	Sierra Nevada	37.5075°N 118.8693°W
+103	South River Peak	Colorado	San Juan Mountains	37.5741°N 106.9815°W
+104	Mount Ritter	California	Sierra Nevada	37.6891°N 119.1996°W
+105	Mount Lyell	California	Sierra Nevada	37.7394°N 119.2716°W
+106	Bushnell Peak	Colorado	Sangre de Cristo Mountains	38.3412°N 105.8892°W
+107	Truchas Peak	New Mexico	Santa Fe Mountains	35.9625°N 105.6450°W
+108	Wheeler Peak	Nevada	Snake Range	38.9858°N 114.3139°W
+109	Mount Dana	California	Sierra Nevada	37.8999°N 119.2211°W
+110	West Elk Peak	Colorado	West Elk Mountains	38.7179°N 107.1994°W
+111	Mount Moffit	Alaska	Alaska Range	63.5683°N 146.3982°W
+112	Peak 13,010	Colorado	San Juan Mountains	37.6062°N 107.2446°W
+113	Clark Peak	Colorado	Medicine Bow Mountains	40.6068°N 105.9300°W
+114	Mount Richthofen	Colorado	Never Summer Mountains	40.4695°N 105.8945°W
+115	Lizard Head Peak	Wyoming	Wind River Range	42.7901°N 109.1978°W
+116	Granite Peak	Montana	Absaroka Range	45.1634°N 109.8075°W
+117	Mount Crosson	Alaska	Alaska Range	63.0081°N 151.2763°W
+118	Mount Root	Alaska British Columbia	Saint Elias Mountains	58.9856°N 137.5003°W
+119	Venado Peak	New Mexico	Taos Mountains	36.7917°N 105.4933°W
+120	Chair Mountain	Colorado	Elk Mountains	39.0581°N 107.2822°W
+121	Mount Peale	Utah	La Sal Mountains	38.4385°N 109.2292°W
+122	Mount Crillon	Alaska	Saint Elias Mountains	58.6625°N 137.1712°W
+123	Mount Gunnison	Colorado	West Elk Mountains	38.8121°N 107.3826°W
+124	East Spanish Peak	Colorado	Spanish Peaks	37.3934°N 104.9201°W
+125	Borah Peak	Idaho	Lost River Range	44.1374°N 113.7811°W
+126	Mount Wood	Montana	Absaroka Range	45.2749°N 109.8075°W
+127	Mount Gunnar Naslund	Alaska	Saint Elias Mountains	61.2282°N 141.3140°W
+128	Mount Conness	California	Sierra Nevada	37.9670°N 119.3213°W
+129	Humphreys Peak	Arizona	San Francisco Peaks	35.3464°N 111.6780°W
+130	Santa Fe Baldy	New Mexico	Santa Fe Mountains	35.8322°N 105.7581°W
+131	Gothic Mountain	Colorado	Elk Mountains	38.9562°N 107.0107°W
+132	Castle Mountain	Montana	Absaroka Range	45.0989°N 109.6305°W
+133	Lone Cone	Colorado	San Miguel Mountains	37.8880°N 108.2556°W
+134	Mount Moran	Wyoming	Teton Range	43.8350°N 110.7765°W
+135	Tlingit Peak	Alaska	Saint Elias Mountains	58.8931°N 137.3938°W
+136	Little Costilla Peak	New Mexico	Culebra Range	36.8335°N 105.2229°W
+137	Mount Carpe (Alaska)	Alaska	Alaska Range	63.1521°N 150.8616°W
+138	Needham Mountain	California	Sierra Nevada	36.4545°N 118.5373°W
+139	Graham Peak (Colorado)	Colorado	San Juan Mountains	37.4972°N 107.3761°W
+140	Whetstone Mountain	Colorado	West Elk Mountains	38.8223°N 106.9799°W
+141	Kahiltna Dome	Alaska	Alaska Range	63.0550°N 151.2394°W
+142	Mount Thor	Alaska	Chugach Mountains	61.4854°N 147.1460°W
+143	Mount Watson	Alaska	Saint Elias Mountains	59.0088°N 137.5541°W
+144	Atlantic Peak	Wyoming	Wind River Range	42.6165°N 109.0013°W
+145	Specimen Mountain	Colorado	Front Range	40.4449°N 105.8081°W
+146	Baldy Mountain	New Mexico	Cimarron Range	36.6299°N 105.2134°W
+147	East Beckwith Mountain	Colorado	West Elk Mountains	38.8464°N 107.2233°W
+148	Knobby Crest	Colorado	Kenosha Mountains	39.3681°N 105.6050°W
+149	Bison Peak	Colorado	Tarryall Mountains	39.2384°N 105.4978°W
+150	Anthracite Peak	Colorado	West Elk Mountains	38.8145°N 107.1445°W
+151	Matchless Mountain	Colorado	Elk Mountains	38.8340°N 106.6451°W
+152	Flat Top Mountain	Colorado	Flat Tops	40.0147°N 107.0833°W
+153	Mount Nystrom	Wyoming	Wind River Range	42.6418°N 109.0939°W
+154	Moby Dick	Alaska	Alaska Range	63.5561°N 146.6026°W
+155	Greenhorn Mountain	Colorado	Wet Mountains	37.8815°N 105.0133°W
+156	Elliott Mountain	Colorado	San Miguel Mountains	37.7344°N 108.0580°W
+157	Mount Deborah	Alaska	Alaska Range	63.6377°N 147.2384°W
+158	Twin Peaks	California	Sierra Nevada	38.0836°N 119.3588°W
+159	Carter Mountain	Wyoming	Absaroka Range	44.1972°N 109.4112°W
+160	Parkview Mountain	Colorado	Rabbit Ears Range	40.3303°N 106.1363°W
+161	Mount Adams	Washington	Cascade Range	46.2024°N 121.4909°W
+162	Trout Peak	Wyoming	Absaroka Range	44.6012°N 109.5253°W
+163	Mount Huntington	Alaska	Alaska Range	62.9677°N 150.8996°W
+164	Leatherman Peak	Idaho	Lost River Range	44.0820°N 113.7330°W
+165	Mount Huxley (Alaska)	Alaska	Saint Elias Mountains	60.3279°N 141.1554°W
+166	Diamond Peak	Idaho	Lemhi Range	44.1414°N 113.0827°W
+167	Mount Jordan	Alaska	Saint Elias Mountains	61.3987°N 141.4700°W
+168	Mount Zirkel	Colorado	Park Range	40.8313°N 106.6631°W
+169	Delano Peak	Utah	Tushar Mountains	38.3692°N 112.3714°W
+170	Mount Salisbury	Alaska	Saint Elias Mountains	58.8505°N 137.3719°W
+171	Crested Butte	Colorado	Elk Mountains	38.8835°N 106.9436°W
+172	Younts Peak	Wyoming	Absaroka Range	43.9820°N 109.8665°W
+173	Sawtooth Mountain	Colorado	La Garita Mountains	38.2740°N 106.8670°W
+174	Olancha Peak	California	Sierra Nevada	36.2652°N 118.1182°W
+175	Mount Mather (Alaska)	Alaska	Alaska Range	63.1946°N 150.4362°W
+176	Park Cone	Colorado	Sawatch Range	38.7967°N 106.6028°W
+177	Ibapah Peak	Utah	Deep Creek Range	39.8282°N 113.9200°W
+178	Carbon Peak	Colorado	West Elk Mountains	38.7943°N 107.0431°W
+179	Glover Peak	Wyoming	Wind River Range	43.1589°N 109.7656°W
+180	Mount Moriah	Nevada	Snake Range	39.2732°N 114.1988°W
+181	Mount Guero	Colorado	West Elk Mountains	38.7196°N 107.3861°W
+182	Siris Peak	Alaska	Saint Elias Mountains	60.7340°N 141.0138°W
+183	Red Table Mountain	Colorado	Sawatch Range	39.4181°N 106.7712°W
+184	Chalk Benchmark	Colorado	San Juan Mountains	37.1418°N 106.7500°W
+185	Medicine Bow Peak	Wyoming	Medicine Bow Mountains	41.3603°N 106.3176°W
+186	Hyndman Peak	Idaho	Pioneer Mountains	43.7494°N 114.1312°W
+187	Mount Witherspoon	Alaska	Chugach Mountains	61.3954°N 147.2010°W
+188	Mount Zwischen	Colorado	Sangre de Cristo Mountains	37.7913°N 105.4554°W
+189	Mount Drum	Alaska	Wrangell Mountains	62.1159°N 144.6394°W
+190	Little Cone	Colorado	San Miguel Mountains	37.9275°N 108.0908°W
+191	Sierra Blanca Peak	New Mexico	Sacramento Mountains	33.3743°N 105.8087°W
+192	Mount Hope (Alaska)	Alaska	Saint Elias Mountains	60.7039°N 141.0614°W
+193	Mount Jefferson	Nevada	Toquima Range	38.7519°N 116.9267°W
+194	Hess Mountain	Alaska	Alaska Range	63.6382°N 147.1482°W
+195	Mount Brooks	Alaska	Alaska Range	63.1875°N 150.6479°W
+196	Cerro Vista	New Mexico	Sangre de Cristo Mountains	36.2353°N 105.4108°W
+197	Mount Nebo	Utah	Wasatch Range	39.8219°N 111.7603°W
+198	The Grand Parapet	Alaska	Saint Elias Mountains	61.4103°N 142.0266°W
+199	Lituya Mountain	Alaska	Saint Elias Mountains	58.8054°N 137.4367°W
+200	Haydon Peak	Alaska	Saint Elias Mountains	60.2606°N 140.9881°W

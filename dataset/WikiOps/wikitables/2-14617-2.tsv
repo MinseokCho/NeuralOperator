@@ -1,0 +1,21 @@
+Model	Codename	Capacities (GB)	NAND type	Interface	Form factor	Controller	Seq. read/write MB/s	Rnd 4KB read/write IOPS (K)	Introduced
+X18-M/X25-M	Ephraim	80/160	50nm MLC	SATA 3 Gbit/s	1.8"/2.5"	Intel	250 / 70	35 / 3.300–0.35	Sept 2008 (now EOL )
+X25-E	Ephraim	32/64	50nm SLC	SATA 3 Gbit/s	2.5"	Intel	250 / 170	35 / 3.3	Oct 2008
+X18-M G2 / X25-M G2	Postville	80/120/160	34nm MLC	SATA 3 Gbit/s	1.8"/2.5"	Intel	250 / 100	35 / 6.6–0.3	July 2009
+X25-V	Glenbrook	40	34nm MLC	SATA 3 Gbit/s	2.5"	Intel	170 / 35	25 / 2.5–?	Mar 2010
+310	Soda Creek	40/80	25nm MLC	SATA 3 Gbit/s	mSATA	Intel	200/70	35/2.6	Dec 2010
+510	Elmcrest	120/250	34nm MLC	SATA 6 Gbit/s	2.5"	Marvell	500/315	20/8	Mar 2011
+320	Postville Refresh	40/80/120/160/300/600	25nm MLC	SATA 3 Gbit/s	1.8"/2.5"	Intel	270/220	39.5/23	Mar 2011
+311	Larsen Creek	20	34nm SLC	SATA 3 Gbit/s	2.5"/mSATA	Intel	200/105	37/3.3	May 2011
+710	Lyndonville	100/200/300	25nm MLC-HET	SATA 3 Gbit/s	2.5"	Intel	270/210	38.5/2.7	Q3 2011
+520	Cherryville	60/120/180/240/480	25nm MLC	SATA 6 Gbit/s	2.5"	SandForce	550/520	50/80	February 2012
+313	Hawley Creek	20/24	25nm SLC	SATA 3 Gbit/s	2.5"/mSATA	Intel	220/115	36/4	April 2012
+330	Maple Crest	60/120/180/240	25nm MLC	SATA 6 Gbit/s	2.5"	SandForce	500/450	22.5/33	April 2012
+910	Ramsdale	400/800	25nm MLC-HET	PCIe 2.0 × 8	PCIe	Intel/Hitachi	2000/1000	180/75	April 2012
+335	Jay Crest	80/180/240	20nm MLC	SATA 6 Gbit/s	2.5"	SandForce	500/450	42/52	October 2012
+S3700	Taylorsville	100/200/400/800	25nm MLC-HET	SATA 6 Gbit/s	1.8"/2.5"	Intel	500/450	72/34	November 2012
+525	Lincoln Crest	30/60/120/180/240	25nm MLC	SATA 6 Gbit/s	mSATA	SandForce	550/520	50/60	January 2013
+S3500	Wolfsville	80/120/160/240/300/400/480/600/800	20nm MLC	SATA 6 Gbit/s	1.8"/2.5"	Intel	475/450	75/11.5	June 2013
+530	Dale Crest	80/120/180/240/360/480	20nm MLC	SATA 6 Gbit/s	M.2/mSATA/2.5"	SandForce	540/490	41/80	July 2013
+Pro 1500	Sierra Star	80/120/180/240/360/480	20nm MLC	SATA 6 Gbit/s	M.2/2.5"	SandForce	540/490	41/80	Sept 2013
+Model	Codename	Capacities (GB)	NAND type	Interface	Form factor	Controller	Seq. read/write MB/s	Rnd 4KB read/write IOPS (K)	Introduced

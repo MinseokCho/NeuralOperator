@@ -1,0 +1,12 @@
+Name	Platform	License	Windows builders	Java builders	Other builders	SCM system	Notification	IDE Integration	Other Integration
+Apache Gump	Python	Apache 2.0	Unknown	Ant , Maven 1	Unknown	CVS , Subversion	E-mail	Unknown	Unknown
+AppVeyor CI	Hosted	Proprietary	Visual Studio , MSBuild , PSake	No	Custom script, PowerShell	Git , Mercurial	E-mail	None	GitHub , BitBucket , Kiln, Windows Azure
+AutoDE	Python	Proprietary	MSBuild , Visual Studio	Ant , Maven 1 & 2	Yes (common command-line builders)	CVS , Git , Mercurial , Subversion	E-mail	None (standalone)	Unknown
+CABIE	LAMP	GPL2	Unknown	Unknown	Unknown	CVS , Subversion , Perforce	Web	Unknown	Unknown
+CircleCI	Hosted	Proprietary	Unknown	Unknown	Ruby , Python , Node.js , PHP , Java ,	Git	E-mail , Campfire , HipChat , CCtray	Unknown	Heroku , GitHub
+Draco.NET	Windows	BSD -style	NAnt , Visual Studio	Unknown	Unknown	CVS , Visual Source Safe , PVCS, Subversion	E-mail	Unknown	Unknown
+easyCIS	Windows	Proprietary	MSBuild , NAnt , Visual Studio	Unknown	Unknown	Git , Mercurial , Subversion , TFS , File system	Systray , RSS , E-mail	None	None
+Go	Cross-platform	Proprietary	Yes	Yes	Cross-platform command-line	Subversion , Perforce , Mercurial , Git , TFS	E-mail , CCTray	None	RESTful API
+Integrity	Ruby	MIT	Yes (command line)	Yes (command line)	command line	Git	E-mail , Web	Unknown	Unknown
+Team Foundation Server	Windows , VSTM	Proprietary	MSBuild	Ant, Maven	Custom script, Command line	Team Foundation Server	E-Mail , SOAP	Visual Studio , Eclipse	Unknown
+Tinderbox	Cross-platform	MPL	Unknown	Unknown	Unknown	Unknown	E-mail	Unknown	Unknown

@@ -1,0 +1,26 @@
+Name	Mail transfer agent	Mail storage type	IMAP server	IMAP shared	Calendar format	Calendar shared	IM server	WebDAV	Web UI	Contacts shared	Files shared	Web admin UI
+Axigen	SMTP proprietary RFC compliant	proprietary indexed storage	proprietary RFC compliant	Yes	iCal	available from Microsoft Outlook & Webmail	No	No	Yes	Yes	No	Yes
+Bynari	SMTP Postfix	IMAP	Cyrus IMAP	Yes	iCal	iCal	Jabber	Yes	Yes	Yes	Yes	Yes
+Citadel/UX	Custom	Berkeley DB	Custom	Yes	iCal	Yes	Yes	GroupDAV and WebCal support	Yes	Yes	various methods	Yes
+Collaber	No	No	No	No	No	Yes	Yes	No	No	Yes	Yes	No
+Collabtive	Sendmail , SMTP	IMAP server dependent, Database	Any IMAP server	Unknown	iCal	Web interface	Yes	No	Yes	Yes	Yes	Yes
+Expresso Livre	Postfix	IMAP server dependent	Cyrus or any IMAP server	No	iCal	Yes	Yes	No	Yes	Yes	No	Yes
+Group-Office	Custom Postfix	IMAP server dependent	Custom	Yes	iCal	Web interface	No	Yes	Yes	Yes	Yes	Yes
+Horde	Sendmail , SMTP	No	Cyrus , others	No	No	DB, ICAL export	No	Yes	Yes	Yes	Yes	Yes
+i-sense	Sendmail , SMTP	IMAP server dependent, Database	Any IMAP server	Unknown	iCal	iCal and custom export/synchronisation services	No	No	Yes	Yes	Yes	Yes
+Jumper 2.0	No	No	Custom	No	SQL , iCal	iCal	No	Yes	Yes	Yes	Shares any content, media, or data	Yes
+Kolab	Postfix	IMAP (Kolab- XML format) and LDAP	Cyrus and (experimental) Dovecot	Yes	iCal and Kolab- XML format	IMAP , iCal - and HTML -Export	No	No	Horde	IMAP and LDAP	No	Yes
+Open - Xchange	Postfix	IMAP server dependent	Cyrus or any IMAP server	Yes	iCal	LDAP , Export to iCal	No	Yes	Yes	Yes	Yes	If purchased
+Feng Office Community Edition	Sendmail , SMTP	Database or File system	Any IMAP server	No	SQL , iCal	iCal	No	No	Yes	Yes	Yes	Yes
+OpenGroupware	Postfix	Mail Dir	Cyrus	No	No	Export to iCal	XMPP , if purchased	No	No	No	No	If purchased
+PhpGroupWare	No	No	No	Unknown	Unknown	ICAL	Yes	Unknown	Yes	Unknown	Yes	Yes
+Qontext	N/A	N/A	N/A	N/A	No	No	No	No	Yes	Yes	Yes	Yes
+Simple Groupware	SMTP	IMAP server dependent, Database	Cyrus , Courier IMAP , UW IMAP , others	Yes	SQL , iCal and XML format	Database , ICAL import/export	Built-in chat module	Planned for 0.3	Yes	Yes	Yes	Yes
+Synovel Collabsuite	Postfix	Maildir	Dovecot	Yes	iCal	CalDav	XMPP	N/A	Yes	Yes	No	Yes
+Teamwork (software)	relies on existing SMTP	synchronizes with clients	No	Yes	iCal	iCal	No	No	Yes	Yes	Yes	Yes
+Tonido Workspace	No	No	No	No	Synchronizing, Web based access	Built-in chat module	Yes	Yes	Yes	Yes	Yes	Yes
+Tine 2.0	Postfix or any other SMTP Server	SQL	DBMail or other IMAP-server	if IMAP server support	SQL	not yet CalDAV or iCal	No	No	Yes	Yes	No	Yes
+Wrike	No	No	No	No	iCal	Yes	No	Yes	Yes	Yes	Yes	Yes
+Zarafa	Postfix , Exim , Qmail , Sendmail , others	MySQL , optional attachments on filesystem	Yes	Public Folder available	Outlook , Webaccess, iCal , Z-Merge	Outlook , Webaccess, Z-Merge	No	No	Yes	Yes	No	Yes
+Zimbra	Custom Postfix	Mail Dir w/ index db	Custom	No	iCal	ICAL	(Removed in v8)	Yes	Yes	Yes	Yes	Yes
+Name	Mail transfer agent	Mail storage type	IMAP server	IMAP shared	Calendar format	Calendar shared	IM server	WebDAV	Web UI	Contacts shared	Files shared	Web admin UI

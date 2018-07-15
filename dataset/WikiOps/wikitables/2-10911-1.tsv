@@ -1,0 +1,6 @@
+Chemical class	Group	Formula	Prefix	Suffix	Example
+Alkane	Alkyl	R(CH 2 ) n H	alkyl-	-ane	Ethane
+Alkene	Alkenyl	R 2 C=CR 2	alkenyl-	-ene	Ethylene (Ethene)
+Alkyne	Alkynyl	RC≡CR'	alkynyl-	-yne	Acetylene (Ethyne)
+Benzene derivative	Phenyl	RC 6 H 5 RPh	phenyl-	-benzene	Cumene (2-phenylpropane)
+Toluene derivative	Benzyl	RCH 2 C 6 H 5 RBn	benzyl-	1-(substituent)toluene	Benzyl bromide (α-Bromotoluene)

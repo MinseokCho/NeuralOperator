@@ -1,0 +1,34 @@
+Rocket	Country	Type	Launches	Successes	Failures	Partial failures
+Ariane 5ECA	Europe	Ariane 5	6	6	0	0
+Atlas V 401	United States	Atlas V	1	1	0	0
+Atlas V 501	United States	Atlas V	2	2	0	0
+Atlas V 531	United States	Atlas V	1	1	0	0
+Delta II 7420	United States	Delta II	1	1	0	0
+Delta IV-M+(4,2)	United States	Delta IV	2	2	0	0
+Delta IV-H	United States	Delta IV	1	1	0	0
+Dnepr-1	Ukraine	Dnepr	3	3	0	0
+Falcon 9	United States	Falcon 9	2	2	0	0
+GSLV Mk I(c)	India	GSLV	1	0	1	0
+GSLV Mk II	India	GSLV	1	0	1	0
+H-IIA 202	Japan	H-IIA	2	2	0	0
+Kosmos-3M	Russia	Kosmos	1	1	0	0
+Long March 2D	China	Long March 2	3	3	0	0
+Long March 3A	China	Long March 3	3	3	0	0
+Long March 3B	China	Long March 3	1	1	0	0
+Long March 3C	China	Long March 3	4	4	0	0
+Long March 4B	China	Long March 4	1	1	0	0
+Long March 4C	China	Long March 4	3	3	0	0
+Minotaur IV	United States	Minotaur IV	1	1	0	0
+Minotaur IV / HAPS	United States	Minotaur IV	1	1	0	0
+Molniya-M / 2BL	Russia	Molniya	1	1	0	0
+Naro-1	Russia South Korea	Naro	1	0	1	0
+Proton-M / DM-2	Russia	Proton	2	2	0	0
+Proton-M / DM-03	Russia	Proton	1	0	1	0
+Proton-M / Briz-M	Russia	Proton	9	9	0	0
+PSLV-CA	India	PSLV	1	1	0	0
+Rokot / Briz-KM	Russia	UR-100	2	2	0	0
+Shavit-2	Israel	Shavit	1	1	0	0
+Soyuz-2.1a / Fregat	Russia	Soyuz	2	2	0	0
+Soyuz-U	Russia	Soyuz	6	6	0	0
+Soyuz-FG	Russia	Soyuz	4	4	0	0
+Space Shuttle	United States	Space Shuttle	3	3	0	0

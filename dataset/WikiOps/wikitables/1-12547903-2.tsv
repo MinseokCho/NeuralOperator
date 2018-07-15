@@ -1,0 +1,45 @@
+Branding	Callsign	Ch. #	Power (kW)	Station Type	Location (Transmitter site)
+SMNI TV-39 Manila	DWBP-TV	TV-39	50kW	Originating	Metro Manila
+SMNI TV-36 Baguio	DWBQ-TV	TV-36	5kW	Originating	Baguio
+SMNI TV-35 Laoag	DWLQ-TV	TV-35	5kW	Originating	Laoag
+SMNI TV-30 Vigan	DWVQ-TV	TV-30	1kW	Relay	Vigan
+SMNI TV-27 La Union	DWUQ-TV	TV-27	1kW	Relay	San Fernando, La Union
+SMNI TV-28 Dagupan	DWBR-TV	TV-28	5kW	Originating	Dagupan
+SMNI TV-33 Tuguegarao	DWTQ-TV	TV-33	2.5kW	Relay	Tuguegarao
+SMNI TV-37 Isabela	DWIQ-TV	TV-37	2.5kW	Originating	Santiago, Isabela
+SMNI TV-30 Tarlac	DWDQ-TV	TV-30	1kW	Relay	Tarlac
+SMNI TV-32 Pampanga	DZDQ-TV	TV-32	1kW	Relay	San Fernando, Pampanga
+SMNI TV-26 Lucena	DWQQ-TV	TV-26	2.5kW	Relay	Lucena
+SMNI TV-30 San Pablo	DZSP-TV	TV-30	2.5kW	Relay	San Pablo, Laguna
+SMNI TV-40 Calapan	DWMQ-TV	TV-40	5kW	Relay	Calapan
+SMNI TV-39 Palawan	DYPQ-TV	TV-39	1kW	Originating	Puerto Princesa
+SMNI TV-26 Naga	DWNQ-TV	TV-26	5kW	Originating	Naga
+SMNI TV-35 Legazpi	DWAQ-TV	TV-35	5kW	Relay	Legazpi
+SMNI TV-21 Virac	DWKQ-TV	TV-21	1kW	Relay	Virac, Catanduanes
+SMNI TV-31 Sorsogon	DWSQ-TV	TV-31	1kW	Relay	Sorsogon
+SMNI TV-26 Masbate	DYMQ-TV	TV-26	1kW	Relay	Masbate
+SMNI TV-37 Kalibo	DYKQ-TV	TV-37	1kW	Relay	Kalibo, Aklan
+SMNI TV-33 Roxas	DYRQ-TV	TV-33	1kW	Relay	Roxas
+SMNI TV-30 Iloilo	DYAQ-TV	TV-30	2.5kW	Originating	Iloilo
+SMNI TV-40 Bacolod	DYXQ-TV	TV-40	1kW	Originating	Bacolod
+SMNI TV-37 Cebu	DYBQ-TV	TV-37	10kW	Originating	Cebu
+SMNI TV-22 Dumaguete	DYYQ-TV	TV-22	5kW (150.7 kW ERP)	Relay	Dumaguete
+SMNI TV-30 Tagbilaran	DYHQ-TV	TV-30	1kW	Relay	Tagbilaran
+SMNI TV-40 Tacloban	DYLQ-TV	TV-40	5kW	Originating	Tacloban
+SMNI TV-42 Ormoc	DYOQ-TV	TV-42	1kW	Relay	Ormoc
+SMNI TV-34 Calbayog	DXCR-TV	TV-34	1kW	Relay	Calbayog
+SMNI TV-39 Zamboanga	DXZQ-TV	TV-39	5kW	Originating	Zamboanga
+SMNI TV-28 Dipolog	DXDR-TV	TV-28	1kW	Relay	Dipolog
+SMNI TV-32 Pagadian	DXDP-TV	TV-32	1kW	Relay	Pagadian
+SMNI TV-37 Cagayan De Oro	DXCQ-TV	TV-37	5kW	Originating	Cagayan De Oro
+SMNI TV-39 Iligan	DXIQ-TV	TV-39	1kW	Relay	Iligan
+SMNI TV-27 Ozamiz	DXOQ-TV	TV-27	1kW	Relay	Ozamiz
+SMNI TV-43 Davao	DXAQ-TV	TV-43	50kW	Originating	Davao
+SMNI TV-43 Digos	DXDQ-TV	TV-43	1kW	Relay	Digos
+SMNI TV-48 General Santos	DXGQ-TV	TV-48	5kW	Originating	General Santos
+SMNI TV-42 Koronadal	DXKQ-TV	TV-42	1kW	Relay	Koronadal
+SMNI TV-31 Kidapawan	DXNQ-TV	TV-31	1kW	Relay	Kidapawan
+SMNI TV-29 Cotabato	DXTQ-TV	TV-29	5kW	Relay	Cotabato
+SMNI TV-31 Surigao	DXSQ-TV	TV-31	5kW	Relay	Surigao
+SMNI TV-39 Butuan	DXUQ-TV	TV-39	5kW	Originating	Butuan
+SMNI TV-20 Tandag	DXTR-TV	TV-20	1kW	Relay	Tandag

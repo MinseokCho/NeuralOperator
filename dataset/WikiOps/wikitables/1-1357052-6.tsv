@@ -1,0 +1,6 @@
+Distribution	Compile time buffer checks	Mandatory access control	Software executable space protection	grsecurity	RSBAC
+Alpine Linux	Unknown	Unknown	PaX	Yes	Unknown
+Debian / Ubuntu	Yes	SELinux , AppArmor	PaX	Optional	Optional
+Fedora	Yes	SELinux	Exec Shield	No	No
+Gentoo	Optional	SELinux	PaX	Optional	Optional
+Mandriva	Unknown	AppArmor	Unknown	Unknown	Yes

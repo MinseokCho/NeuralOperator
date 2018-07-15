@@ -1,0 +1,67 @@
+N°	Television service	Country	Language	Content	DAR	HDTV	Package/Option
+500	Sky TG 24	Italy	Italian	all-news	16:9	no	Any combination
+500	Sky TG 24 Active	Italy	Italian	all-news	16:9	no	Any combination
+501	Sky Meteo 24	Italy	Italian	meteo	16:9	no	Any combination
+501	Sky Meteo 24 Active	Italy	Italian	meteo	16:9	no	Any combination
+502	Sky Sport 24	Italy	Italian	sport news	16:9	no	Sky Sport, Sky Calcio o Sky TV
+503	Sky TG 24 Primo Piano	Italy	Italian	all-news , top news	16:9	no	Any combination
+504	Sky TG 24 Eventi	Italy	Italian	all-news , top events	16:9	no	Any combination
+505	Sky TG 24 Rassegne	Italy	Italian	all-news , rassegne stampa	16:9	no	Any combination
+506	In evidenza	Italy	Italian	all-news , eventi internazionali	16:9	no	no
+507	Class CNBC	Italy	Italian	economia	4:3	no	Sky TV
+508	Rai News	Italy	Italian	all-news	16:9	no	no ( FTA )
+509	TGcom24	Italy	Italian	all-news	16:9	no	no ( FTA )
+510	TG Norba 24	Italy ( Puglia )	Italian	all-news	16:9	no	Sky TV
+511	Telelombardia	Italy ( Lombardia )	Italian	general television	4:3	no	Sky TV
+513	Antenna Tre Nordest	Italy ( Veneto e Friuli-Venezia Giulia )	Italian	news	16:9	no	Sky TV
+515	Primocanale	Italy ( Liguria )	Italian	news	4:3	no	Sky TV
+517	Italia 7 Toscana	Italy ( Toscana )	Italian	news	4:3	no	Sky TV
+518	Roma Uno	Italy ( Lazio )	Italian	tv locale	4:3	no	no ( FTA )
+519	Videolina Sat	Italy ( Sardegna )	Italian	all news	16:9	no	Sky TV
+520	SMtv San Marino	San Marino	Italian	general television	16:9	no	no ( FTA )
+522	Sky News	United Kingdom	English	all-news	16:9	no	Sky TV
+523	Fox News Channel	United States	English	all-news	16:9	no	Sky TV
+524	Camera dei Deputati	Italy	Italian	attività parliamentare	4:3	no	no ( FTA )
+525	Senato della Repubblica	Italy	Italian	attività parliamentare	4:3	no	no ( FTA )
+526	CNN International	United States	English	all-news	4:3	no	no ( FTV )
+527	Fox Business Network	United States	English	economia	16:9	no	Sky TV
+528	CNBC Europe	United Kingdom	English	economia	4:3	no	no ( FTA )
+529	Bloomberg Television	United States	English	all-news	4:3	no	no ( FTA )
+530	BBC World News	United Kingdom	English	all-news	16:9	no	no ( FTA )
+531	France 24 English	Francia	English	all-news	16:9	no	no ( FTA )
+532	Al Jazeera International	Qatar	English	all-news	16:9	no	no ( FTA )
+533	NHK World	Giappone	English	all-news	4:3	no	no ( FTA )
+534	Arirang TV	Corea del Sud	English	all-news	4:3	no	no ( FTA )
+535	CCTV-9	Cina	English	all-news	4:3	no	no ( FTA )
+536	Russia Today	Russia	English	all-news	4:3	no	no ( FTA )
+538	TVE Internacional	Spagna	spagnolo	general television	16:9	no	no ( FTA )
+539	Canal 24 Horas	Spagna	spagnolo	general television	16:9	no	no ( FTA )
+540	TeleSUR	Venezuela	castigliano	general television	4:3	no	no ( FTA )
+541	France 24	Francia	francese	all-news	16:9	no	no ( FTA )
+542	TV5MONDE Europe	Francia	francese	general television	16:9	no	no ( FTA )
+543	Deutsche Welle	Germania	tedesco	general television	16:9	no	no ( FTA )
+545	Das Erste	Germania	tedesco	general television	16:9	no	no ( FTA )
+546	ZDF	Germania	tedesco	general television	16:9	no	no ( FTA )
+547	RTL II	Germania	tedesco	general television	16:9	no	no ( FTA )
+548	BVN	Paesi Bassi e Belgio ( Fiandre )	olandese	general television	16:9	no	no ( FTA )
+551	TV Biznes	Polond	polacco	cultura	16:9	no	no ( FTA )
+552	TVP Polonia	Polond	polacco	cultura	16:9	no	no ( FTA )
+553	TVP Kultura	Polond	polacco	cultura	16:9	no	no ( FTA )
+554	RTP Internacional	Portogallo	portoghese	general television	16:9	no	no ( FTA )
+556	ERT World	Greece	greco	general television	16:9	no	no ( FTA )
+558	TVR International	Romania	rumeno	general television	4:3	no	no ( FTA )
+559	Pro TV International	Romania	rumeno	general television	4:3	no	no ( FTA )
+560	Al Jazeera	Qatar	arabo	all-news	4:3	no	no ( FTA )
+561	Al Arabiya	Arabia Saudita	arabo	all-news	16:9	no	no ( FTA )
+562	BBC Arabic	United Kingdom	arabo	all-news	4:3	no	no ( FTA )
+564	TRT Türk	Turchia	Turco	general television	16:9	no	no ( FTA )
+565	2M Monde	Marocco	arabo	general television	4:3	no	no ( FTA )
+566	Medi 1 Sat	Marocco	arabo	general television	4:3	no	no ( FTA )
+567	MBC Maghreb Al-Arbia	Tunisia	arabo	general television	4:3	no	no ( FTA )
+568	ESC - Al Masriyah	Egitto	arabo	general television	4:3	no	no ( FTA )
+569	Tunis 7	Tunisia	arabo	general television	4:3	no	no ( FTA )
+570	Canal Algérie	Algeria	francese	general television	4:3	no	no ( FTA )
+575	Vesti	Russia	russo	all-news	4:3	no	no ( FTA )
+576	RTR Planeta	Russia	russo	general television	4:3	no	no ( FTA )
+577	Channel 1	Russia	russo	general television	16:9	no	no ( FTA )
+580	CCTV-4	Cdina	cinese	general television	4:3	no	no ( FTA )

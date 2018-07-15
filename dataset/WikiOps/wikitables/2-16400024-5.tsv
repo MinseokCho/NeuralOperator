@@ -1,0 +1,20 @@
+Model number	Frequency	L2 cache	Mult.	Voltage	Socket	Release date
+standard voltage	standard voltage	standard voltage	standard voltage	standard voltage	standard voltage	standard voltage
+Mobile Pentium III 400	400 MHz	256 KB	4×	1.35–1.6V	BGA2	October 25, 1999
+Mobile Pentium III 450	450 MHz	256 KB	4.5×	1.1–1.7V	BGA2 μPGA2	October 25, 1999
+Mobile Pentium III 500	500 MHz	256 KB	5×	1.35–1.6V	BGA2μPGA2	October 25, 1999
+Mobile Pentium III 600	600 MHz	256 KB	6×	1.1–1.6V	BGA2μPGA2	January 18, 2000
+Mobile Pentium III 650	650 MHz	256 KB	6.5×	1.35–1.6V	BGA2μPGA2	January 18, 2000
+Mobile Pentium III 700	700 MHz	256 KB	7×	1.35–1.6V	BGA2μPGA2	April 24, 2000
+Mobile Pentium III 750	750 MHz	256 KB	7.5×	1.35–1.6V	BGA2μPGA2	June 19, 2000
+Mobile Pentium III 800	800 MHz	256 KB	8×	1.35–1.6V	BGA2μPGA2	September 25, 2000
+Mobile Pentium III 850	850 MHz	256 KB	8.5×	1.35–1.6V	BGA2μPGA2	September 25, 2000
+Mobile Pentium III 900	900 MHz	256 KB	9×	1.35–1.7V	BGA2μPGA2	March 19, 2001
+Mobile Pentium III 1.0	1000 MHz	256 KB	10×	1.35–1.7V	BGA2μPGA2	March 19, 2001
+low voltage	low voltage	low voltage	low voltage	low voltage	low voltage	low voltage
+Mobile Pentium III LV 600	600 MHz	256 KB	6×	1.1–1.35V	BGA2	June 19, 2000
+Mobile Pentium III LV 700	700 MHz	256 KB	7×	1.1–1.35V	BGA2	February 27, 2001
+Mobile Pentium III LV 750	750 MHz	256 KB	7.5×	1.1–1.35V	BGA2	May 21, 2001
+ultra low voltage	ultra low voltage	ultra low voltage	ultra low voltage	ultra low voltage	ultra low voltage	ultra low voltage
+Mobile Pentium III ULV 500	500 MHz	256 KB	5×	0.975–1.1V	BGA2	January 30, 2001
+Mobile Pentium III ULV 600	600 MHz	256 KB	6×	0.975–1.1V	BGA2	May 21, 2001

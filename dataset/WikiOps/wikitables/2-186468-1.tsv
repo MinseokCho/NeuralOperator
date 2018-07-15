@@ -1,0 +1,8 @@
+Property	K-band	Ka-band	Q-band	V-band	W-band
+Central wavelength (mm)	13	9.1	7.3	4.9	3.2
+Central frequency ( GHz )	23	33	41	61	94
+Bandwidth (GHz)	5.5	7.0	8.3	14.0	20.5
+Beam size (arcminutes)	52.8	39.6	30.6	21	13.2
+Number of radiometers	2	2	4	4	8
+System temperature ( K )	29	39	59	92	145
+Sensitivity (mK s ^{1/2} )	0.8	0.8	1.0	1.2	1.6

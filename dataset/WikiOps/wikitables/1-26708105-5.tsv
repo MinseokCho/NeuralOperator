@@ -1,0 +1,13 @@
+Species	Common Name	Protein Name	Accession Number	NT Length	NT Identity	AA Length	AA Identity	E-Value
+Homo sapiens	Human	C11orf73	NM_016401	1187 bp	100%	197 aa	100%	0
+Bon taurus	Cow	LOC504867	NP_001029398	996 bp	73.60%	197 aa	98%	5.30E-84
+Mus musculus	Mouse	l7Rn6	NP_080580	1045 bp	72.90%	197 aa	97%	4.80E-83
+Gallus gallus	Chicken	LOC427034	N/A	851 bp	56.20%	197 aa	88.3%	5.60E-76
+Taeniopygia guttata	Zebra Finch	LOC100190155	ACH44077	997 bp	61.60%	997 aa	87.80%	1.20E-75
+Xenopus laevis	Frog	MGC80709	NP_001087012	2037 bp	36.50%	197 aa	86.80%	1.70E-75
+Oncorhynchus mykiss	Rainbow Trout	CK073	NP_001158574	940 bp	52.20%	197 aa	75.10%	2.70E-66
+Tetradon nigroviridis	Tetradon	unnamed protein product	CAF89643	N/A	N/A	197 aa	70.90%	1.40E-61
+Trichoplax adhaerens	Trichoplax adhaerens	TRIADDRAFT_19969	XP_002108733	600 bp	33.10%	199 aa	52.30%	2.00E-47
+Culex quinquefasciatus	Mosquito	conserved hypothetical protein	XP_001843282	594 bp	30.70%	197 aa	49.30%	2.50E-41
+Drosophilia melanogaster	Fly	CG13926	NP_647633	594 bp	31.50%	197 aa	48.50%	4.50E-39
+Laccaria bicolor	Mushroom	predicted protein	XP_001878996	696 bp	36.40%	202 aa	35.20%	8.30E-24

@@ -1,0 +1,24 @@
+Human Gene (Protein)	Mouse Ortholog	Yeast Ortholog	Subpathway	GeneCards Entry
+CCNH ( Cyclin H )	Ccnh	CCL1	Both	CCNH
+CDK7 ( Cyclin Dependent Kinase (CDK) 7) )	Cdk7	KIN28	Both	CDK7
+CETN2 (Centrin-2)	Cetn2	Unknown	GGR	CETN2
+DDB1 ( DDB1 )	Ddb1	Unknown	GGR	DDB1
+DDB2 ( DDB2 )	Ddb2/Xpe	Unknown	GGR	DDB2
+ERCC1 ( ERCC1 )	Ercc1	RAD10	Both	ERCC1
+ERCC2 ( XPD )	Ercc2	RAD3	Both	ERCC2
+ERCC3 ( XPB )	Ercc3	RAD25	Both	ERCC3
+ERCC4 ( XPF )	Ercc4	RAD1	Both	ERCC4
+ERCC5 ( XPG )	Ercc5	RAD2	Both	ERCC5
+ERCC6 ( CSB )	Ercc6	RAD26	TC-NER	ERCC6
+ERCC8 ( CSA )	Ercc8	RAD28	TC-NER	ERCC8
+LIG1 ( DNA Ligase I )	Lig1	CDC9	Both	LIG1
+MNAT1 ( MNAT1 )	Mnat1	TFB3	Both	MNAT1
+MMS19 ( MMS19 )	Mms19	MET18	Both	MMS19
+RAD23A ( RAD23A )	Rad23a	RAD23	GGR	RAD23A
+RAD23B ( RAD23B )	Rad23b	RAD23	GGR	RAD23B
+RPA1 ( RPA1 )	Rpa1	RFA1	Both	RPA1
+RPA2 ( RPA2 )	Rpa2	RFA2	Both	RPA2
+TFIIH ( Transcription factor II H )	Unknown	Unknown	Both	No GeneCards
+XAB2 ( XAB2 )	Xab2	SYF1	TC-NER	XAB2
+XPA ( XPA )	Xpa	RAD14	Both	XPA
+XPC ( XPC )	Xpc	RAD4	GGR	XPC

@@ -1,0 +1,11 @@
+Client	Windows	GNU/Linux	Mac OS X	Haiku
+AirDC++	Yes	No	No	No
+TkDC++	Yes	No	No	No
+ApexDC++	Yes	No	No	No
+DC++	Yes	No	No	No
+EiskaltDC++	Yes	Yes	Yes	Yes
+FlylinkDC++	Yes	No	No	No
+LinuxDC++	No	Yes	No	No
+RSX++	Yes	No	No	No
+StrongDC++	Yes	No	No	No
+Client	Windows	GNU/Linux	Mac OS X	Haiku

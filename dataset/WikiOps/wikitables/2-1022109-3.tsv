@@ -1,0 +1,8 @@
+Round	Match	Name	Team 1	!!Team 2
+1	A	1st Elimination Final	Rank 5	v
+B	2nd Elimination Final	Rank 3	v	Rank 4
+C	Qualifying Final	Rank 1	v	Rank 2
+2	D	1st Semi Final	Loser C	v
+E	2nd Semi Final	Winner C	v	Winner B
+3	F	Preliminary Final	Loser E	v
+4	G	Grand Final	Winner E	v

@@ -1,0 +1,7 @@
+Model Number	Frequency	L2-Cache	Front Side Bus	Multiplier	Voltage	Socket	Release Date
+Eden 400	400 MHz	128 KiB	400 MT/s	4×	0.796 V	NanoBGA2	January 17, 2006
+Eden 500	500 MHz	128 KiB	400 MT/s	5×	0.796 V	NanoBGA2	January 17, 2006
+Eden 600	600 MHz	128 KiB	400 MT/s	6×	0.844 V	NanoBGA2	January 17, 2006
+Eden 800	800 MHz	128 KiB	400 MT/s	8×	0.844 V	NanoBGA2	January 17, 2006
+Eden 1.0GHz	1000 MHz	128 KiB	400 MT/s	10×	0.844 V	NanoBGA2	January 17, 2006
+Eden 1.2GHz	1200 MHz	128 KiB	400 MT/s	12×	0.860 V - 0.844 V	NanoBGA2	January 17, 2006

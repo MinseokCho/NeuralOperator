@@ -1,0 +1,6 @@
+Model Number	Clock Speed	L1 Cache	L2 Cache	FSB Speed	Clock Multiplier	Idle Power	Socket	Cores	Release Date
+Nano L3050	1.8 GHz	64+64 KB	1 MB	800MHz	18×	500mW	NanoBGA2	1	April 22, 2010
+Nano U3100	1.3GHz	64+64 KB	1 MB	800MHz	13~16x	100mW	NanoBGA2	1	April 22, 2010
+Nano U3300	1.2GHz	64+64 KB	1 MB	800MHz	12×	100mW	NanoBGA2	1	April 22, 2010
+Nano U3500	1.0GHz	64+64 KB	1 MB	800MHz	10×	100mW	NanoBGA2	1	April 22, 2010
+Nano U3400	0.8GHz	64+64 KB	1 MB	800MHz	8x	100mW	NanoBGA2	1	April 22, 2010

@@ -1,0 +1,10 @@
+Model	Codename	Released	Fab ( nm )	SATA	USB 2.0+1.1	USB 3.0	Parallel ATA 1	RAID	Gb Ethernet MAC	Package	TDP ( W )
+AMD 480/570/580/690 CrossFire Chipset	SB600	2006	130	4×3Gbit/s AHCI 1.1 SATA Revision 2.0	10 + 0	No	1 × ATA/133	0,1,10	No	548-pin FC-BGA	4.0
+AMD 700 chipset series	SB700	Q1 2008	130	6×3Gbit/s AHCI1.1 SATA Revision 2.0	12 + 2	No	1 × ATA/133	0,1,10	No	548-pin FC-BGA	4.5
+AMD 700S chipset series	SB700S	Q1 2008	130	6×3Gbit/s AHCI1.1 SATA Revision 2.0	12 + 2	No	1 × ATA/133	0,1,10	No	548-pin FC-BGA	4.5
+AMD 700 chipset series	SB710	Q4 2008	130	6×3Gbit/s AHCI1.1 SATA Revision 2.0	12 + 2	No	1 × ATA/133	0,1,10	No	548-pin FC-BGA	4.5
+AMD 700 chipset series	SB750	Q4 2008	130	6×3Gbit/s AHCI1.1 SATA Revision 2.0	12 + 2	No	1 × ATA/133	0,1,5,10	No	548-pin FC-BGA	4.5
+AMD 800 chipset series	SB810	Q1 2010	65	6×3Gbit/s AHCI1.2 SATA Revision 2.0	14 + 2	No	No	0,1,10	10/100/1000	605-pin FC-BGA	6.0
+AMD 800 chipset series	SB850	Q1 2010	65	6×6Gbps AHCI1.2 SATA Revision 3.0	14 + 2	No	No	0,1,5,10	10/100/1000	605-pin FC-BGA	6.0
+AMD 900 chipset series	SB920	May 30, 2011	65	6×6Gbps AHCI1.2 SATA Revision 3.0	14 + 2	No	No	0,1,10	10/100/1000	605-pin FC-BGA	6.0
+AMD 900 chipset series	SB950	May 30, 2011	65	6×6Gbps AHCI1.2 SATA Revision 3.0	14 + 2	No	No	0,1,5,10	10/100/1000	605-pin FC-BGA	6.0

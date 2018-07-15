@@ -1,0 +1,6 @@
+Frame size	Width	Height	Mpix	Aspect Ratio	Maximum fps	Maximum fps HDRx	least compression at 24 fps	least compression at maximum fps
+5K	5120	2700	13.8	1.9:1	12	6	NA, 24 fps is not possible at 5K	5:1
+4K	4096	2160	8.8	1.9:1	25	12	6:1	6:1
+4K HD	3840	2160	8.2	1.78:1	30	15	6:1	7:1
+3K	3072	1620	5.0	1.9:1	48	25	4:1	7:1
+2K	2048	1080	2.2	1.9:1	60	30	3:1	4:1

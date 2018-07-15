@@ -1,0 +1,9 @@
+Expression	Y = 2008	Y = 2009	Y = 2010	Y = 2011
+a = Y mod 4	a = 0	a = 1	a = 2	a = 3
+b = Y mod 7	b = 6	b = 0	b = 1	b = 2
+c = Y mod 19	c = 13	c = 14	c = 15	c = 16
+d = (19c + 15) mod 30	d = 22	d = 11	d = 0	d = 19
+e = (2a + 4b − d + 34) mod 7	e = 1	e = 4	e = 0	e = 1
+month = floor ((d + e + 114) / 31)	4 (April)	4 (April)	3 (March)	4 (April)
+day = ((d + e + 114) mod 31) + 1	14	6	22	11
+Easter Day (Julian calendar)	14 April 2008	6 April 2009	22 March 2010	11 April 2011

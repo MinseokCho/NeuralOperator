@@ -1,0 +1,6 @@
+\theta_i	Simulated datasets (step 2)	Summary statistic \omega_{S,i} (step 3)	Distance \rho(\omega_{S,i}, \omega_E) (step 4)	Outcome (step 4)
+0.08	AABAAAABAABAAABAAAAA	8	2	accepted
+0.68	AABBABABAAABBABABBAB	13	7	rejected
+0.87	BBBABBABBBBABABBBBBA	9	3	rejected
+0.43	AABAAAAABBABBBBBBBBA	6	0	accepted
+0.53	ABBBBBAABBABBABAABBB	9	3	rejected

@@ -1,0 +1,9 @@
+Size	Density	Tracks	Coercivity	Unformatted capacity per side
+3½in	single	40	600Oe	250KB
+3½in	double	80	600Oe (300Oe)	500KB
+3½in	high	80	750Oe (600Oe)	1000KB
+3½in	extended	80	900Oe	2000KB
+5¼in	single/double	40	300Oe	250KB
+5¼in	quad	80	300Oe	500KB
+5¼in	high	80	600Oe	750KB
+8in	single/double	77	300Oe	1000 KB

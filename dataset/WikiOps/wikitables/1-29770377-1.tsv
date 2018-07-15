@@ -1,0 +1,16 @@
+Train number	Train name	Origin	Destination	Service	Route/Via.
+16724	Ananthapuri Express	Trivandrum	Chennai	Daily	Nagercoil,Madurai,Tiruchi
+16127	Guruvayur Express	Chennai	Guruvayur	Daily	Trivandrum, Alleppey,Ernakulam
+16128	Guruvayur Express	Guruvayur	Chennai	Daily	Nagercoil,Madurai,Tiruchi
+16723	Ananthapuri Express	Chennai	Trivandrum	Daily	Kulitthurai,Neyyattinkara
+16382	Jayanthi Janatha Express	Kanniyakumari	Mumbai	Daily	Trivandrum, Ernakulam, Pune
+16525	Island Express	Kanniyakumari	Bangalore	Daily	Trivandrum, Ernakulam, Coimbarote
+56701	Madurai Fast Passenger	Quilon	Madurai	Daily	Nagercoil,Tirunelveli,Virudunagar
+56700	Quilon Fast Passenger	Madurai	Quilon	Daily	Trivandrum, Varakala
+16526	Island Express	Bangalore	Kanniyakumari	Daily	Nagercoil
+16381	Jayanthi Janatha Express	Mumbai	Kanniyakumari	Daily	Nagercoil
+16317	Himsagar Express	Kanniyakumari	Jammu Tawi	Weekly	Trivandrum, Ernakulam, NewDelhi
+16318	Himsagar Express	Jammu Tawi	Kanniyakumari	Weekly	Nagercoil
+16650	Parasuram Express	Nagercoil	Mangalore	Daily	Trivandrum, Kottiyam,Ernakulam,Kozhikode
+16649	Parasuram Express	Mangalore	Nagercoil	Daily	Nagercoil
+16606	Ernad Express	Nagercoil	Mangalore	Daily	Trivandrum, Alleppey,Ernakulam,Kozhikode

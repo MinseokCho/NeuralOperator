@@ -1,0 +1,12 @@
+Color	mass (g/mol)	Absorb (nm)	Emit (nm)	ε (M -1 cm -1 )
+violet	874	353	432	15,000
+violet	793	400	420	30,000
+green	1011	493	518	70,000
+yellow	982	562	576	150,000
+orange	1078	593	618	80,000
+red	1066	638	658	170,000
+red	1008	654	673	250,000
+far-red	950	692	712	140,000
+near-IR	1092	754	776	220,000
+near-IR	1050	777	794	270,000
+Reference:	Reference:	Reference:	Reference:	Reference:

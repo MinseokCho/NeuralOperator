@@ -1,0 +1,25 @@
+Product	Vendor	Edition	Release date	Java EE compatibility	License
+ColdFusion	Adobe Systems	10.0.11	2013-07-09	5	Proprietary
+Dynamo AS	ATG	6.3	2005-03	1.3	Proprietary
+Enhydra	Lutris	5.1.9	2005-03-23	No	GPL
+Enterprise Server	Borland	6.7	2007-01	1.4	Proprietary
+Geronimo	ASF	3.0.1	2013-05-28	6	Apache License
+GlassFish	GlassFish Community	4.0	2013-05	7	CDDL , GPL
+GlassFish Server	Oracle Corporation	9.1	2007-09-17	5	Proprietary
+iPlanet Web Server	Oracle Corporation	7.0u5	2007-12-21	Yes	Proprietary
+JBoss AS	Red Hat	7.1.1.Final	2012-03-09	6	LGPL
+Jetty	Eclipse Foundation	9.0.3	2013-05-06	partial	Apache 2.0 , EPL
+JEUS	TmaxSoft	6	2007-06-07	5	Proprietary
+JOnAS	OW2 Consortium (formerly ObjectWeb )	5.2.4	2013-01-22	5	LGPL
+JRun	Adobe Systems	4 updater 7	2007-11-06	1.3	Proprietary
+NetWeaver Application Server	SAP AG	7.3	2011-05-31	5	Proprietary
+Oracle Containers for J2EE	Oracle Corporation	10.1.3.5.0	2009-08	1.4	Proprietary
+Orion Application Server	IronFlare	2.0.7	2006-03-09	1.3	Proprietary
+Resin Servlet Container (Open Source)	Caucho Technology	4.0.36	2013-04-25	6	GPL
+Resin Professional Application Server	Caucho Technology	4.0.36	2013-04-25	6	proprietary
+Siwpas	MechSoft	2.0.0	2011-07-29	yes	Proprietary
+TomEE	ASF	1.5.2	2013-04-20	6	Apache License
+WebLogic Server	Oracle Corporation BEA Systems	12c Release 2	2013-07-11	6	Proprietary
+WebObjects	Apple Inc.	5.4.3	2008-09-15	partial	Proprietary
+WebSphere Application Server	IBM	8.5.0.0	2012-06-15	6	Proprietary
+WebSphere AS Community Edition	IBM	3.0.0.4	2013-06-21	6	Proprietary

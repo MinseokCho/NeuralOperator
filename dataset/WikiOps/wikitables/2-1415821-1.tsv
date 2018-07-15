@@ -1,0 +1,14 @@
+Model	Engine	Displacement	Valvetrain	Fuel system	Max. power at rpm	Max. torque at rpm
+Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines
+1800	PSA 169B	1,796 cc	OHV 8v	Carburettor	PS (kW; hp) @ 4,800 rpm	N·m (lb·ft) @ 2,300 rpm
+2000	PSA 170B	1,971 cc	OHV 8v	Carburettor	PS (kW; hp) @ 5,000 rpm	N·m (lb·ft) @ 2,500 rpm
+2000	PSA 170C	1,971 cc	OHV 8v	Carburettor	PS (kW; hp) @ 4,750 rpm	N·m (lb·ft) @ 2,500 rpm
+2000 cat	PSA 170D	1,971 cc	OHV 8v	Carburettor	PS (kW; hp) @ 4,750 rpm	N·m (lb·ft) @ 2,500 rpm
+Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines
+1929 D	Fiat 149B1000	1,929 cc	SOHC 8v	Indirect injection	PS (kW; hp) @ 4,600 rpm	N·m (lb·ft) @ 2,500 rpm
+1929 TD	Fiat 280A1000	1,929 cc	SOHC 8v	Indirect injection	PS (kW; hp) @ 4,100 rpm	N·m (lb·ft) @ 2,500 rpm
+2445 TD	Iveco 8144.21	2,445 cc	SOHC 8v	Direct injection	PS (kW; hp) @ 3,800 rpm	N·m (lb·ft) @ 2,200 rpm
+2500 D	Iveco 8144.61	2,445 cc	SOHC 8v	Indirect injection	PS (kW; hp) @ 4,200 rpm	N·m (lb·ft) @ 2,400 rpm
+2500 D	Iveco 8144.61	2,449 cc	SOHC 8v	Indirect injection	PS (kW; hp) @ 4,200 rpm	N·m (lb·ft) @ 2,200 rpm
+2500 D	Iveco 8144.67	2,500 cc	SOHC 8v	Indirect injection	PS (kW; hp) @ 4,200 rpm	N·m (lb·ft) @ 2,200 rpm
+2500 TD	Iveco 8140.27	2,500 cc	SOHC 8v	Direct injection	PS (kW; hp) @ 3,800 rpm	N·m (lb·ft) @ 2,000 rpm

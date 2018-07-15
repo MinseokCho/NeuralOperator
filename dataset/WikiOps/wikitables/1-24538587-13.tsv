@@ -1,0 +1,21 @@
+Codename (main article)	Brand name (list)	Cores	L3 Cache	Socket	TDP	Process	I/O Bus	Release Date
+Ivy Bridge (Desktop)	Core i7-37xx, i7-37xxK	4	8 MB	LGA 1155	77 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Desktop)	Core i7-37xxS	4	8 MB	LGA 1155	65 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Desktop)	Core i7-37xxT	4	8 MB	LGA 1155	45 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Sandy Bridge-E (Desktop)	Core i7-39xxX	6	15 MB	LGA 2011	130 W	32 nm	Direct Media Interface	November 2011
+Sandy Bridge-E (Desktop)	Core i7-39xxK	6	12 MB	LGA 2011	130 W	32 nm	Direct Media Interface	November 2011
+Sandy Bridge-E (Desktop)	Core i7-38xx	4	10 MB	LGA 2011	130 W	32 nm	Direct Media Interface	November 2011
+Sandy Bridge (Desktop)	Core i7-2xxxK, i7-2xxx	4	8 MB	LGA 1155	95 W	32 nm	Direct Media Interface , Integrated GPU	January 2011
+Sandy Bridge (Desktop)	Core i7-2xxxS	4	8 MB	LGA 1155	65 W	32 nm	Direct Media Interface , Integrated GPU	January 2011
+Ivy Bridge (Mobile)	Core i7-3xx9Y	2	4 MB	rPGA-988B BGA-1023	13 W	22 nm	Direct Media Interface , Integrated GPU	January 2013
+Ivy Bridge (Mobile)	Core i7-3xx7U, i7-3xx7UE	2	4 MB	rPGA-988B BGA-1023	17 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Mobile)	Core i7-3xxxLE	2	4 MB	rPGA-988B BGA-1023	25 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Mobile)	Core i7-3xxxM	2	4 MB	rPGA-988B BGA-1023	35 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Mobile)	Core i7-3xx2QM, i7-3xx2QE	4	6 MB	rPGA-988B BGA-1023	35 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Mobile)	Core i7-38xxQM	4	8 MB	rPGA-988B BGA-1023	45 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Ivy Bridge (Mobile)	Core i7-3xxxXM	4	8 MB	rPGA-988B BGA-1023	55 W	22 nm	Direct Media Interface , Integrated GPU	April 2012
+Sandy Bridge (Mobile)	Core i7-2xxxXM	4	8 MB	rPGA-988B BGA-1023	55 W	32 nm	Direct Media Interface , Integrated GPU	January 2011
+Sandy Bridge (Mobile)	Core i7-28xxQM	4	8 MB	rPGA-988B BGA-1023	45 W	32 nm	Direct Media Interface , Integrated GPU	January 2011
+Sandy Bridge (Mobile)	Core i7-2xxxQE, i7-26xxQM, i7-27xxQM	4	6 MB	rPGA-988B BGA-1023	45 W	32 nm	Direct Media Interface , Integrated GPU	January 2011
+Sandy Bridge (Mobile)	Core i7-2xx0M	2	4 MB	rPGA-988B BGA-1023	35 W	32 nm	Direct Media Interface , Integrated GPU	February 2011
+Sandy Bridge (Mobile)	Core i7-2xx9M	2	4 MB	BGA-1023	25 W	32 nm	Direct Media Interface , Integrated GPU	February 2011

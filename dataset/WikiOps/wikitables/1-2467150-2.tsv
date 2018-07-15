@@ -1,0 +1,27 @@
+Processor	Brand name	Model (list)	Cores	L2 Cache	Socket	TDP
+Merom -2M	Mobile Core 2 Duo	U7xxx	2	2 MiB	BGA479	10 W
+Merom	Mobile Core 2 Duo	L7xxx	2	4 MiB	BGA479	17 W
+Merom Merom-2M	Mobile Core 2 Duo	T5xxx T7xxx	2	2–4 MiB	Socket M Socket P BGA479	35 W
+Merom	Mobile Core 2 Extreme	X7xxx	2	4 MiB	Socket P	44 W
+Merom	Celeron M	5x0	1	512 KiB	Socket M Socket P	30 W
+Merom-2M	Celeron M	5x5	1	Socket P	Socket M Socket P	31 W
+Merom-2M	Celeron Dual-Core	T1xxx	2	512–1024 KiB	Socket P	35 W
+Merom-2M	Pentium Dual-Core	T2xxx T3xxx	2	1 MiB	Socket P	35 W
+Allendale	Xeon	3xxx	2	2 MB	LGA 775	65 W
+Conroe	Xeon	3xxx	2	2–4 MB	LGA 775	65 W
+Conroe and Allendale	Core 2 Duo	E4xxx	2	2 MB	LGA 775	65 W
+Conroe and Allendale	Core 2 Duo	E6xx0	2	2–4 MB	LGA 775	65 W
+Conroe-CL	Core 2 Duo	E6xx5	2	2–4 MB	LGA 771	65 W
+Conroe-XE	Core 2 Extreme	X6xxx	2	4 MB	LGA 775	75 W
+Allendale	Pentium Dual-Core	E2xxx	2	1 MB	LGA 775	65 W
+Allendale	Celeron	E1xxx	2	512 kB	LGA 775	65 W
+Kentsfield	Xeon	32xx	4	2×4 MiB	LGA 775	95–105 W
+Kentsfield	Core 2 Quad	Q6xxx	4	2×4 MiB	LGA 775	95–105 W
+Kentsfield XE	Core 2 Extreme	QX6xxx	4	2×4 MiB	LGA 775	130 W
+Woodcrest	Xeon	51xx	2	4 MB	LGA 771	65–80 W
+Clovertown	Xeon	L53xx	4	2×4 MB	LGA 771	40–50 W
+Clovertown	Xeon	E53xx	4	2×4 MB	LGA 771	80 W
+Clovertown	Xeon	X53xx	4	2×4 MB	LGA 771	120–150 W
+Tigerton-DC	Xeon	E72xx	2	2×4 MB	Socket 604	80 W
+Tigerton	Xeon	L73xx	4	2×4 MB	Socket 604	50 W
+Tigerton	Xeon	E73xx	4	2×2–2×4 MB	Socket 604	80 W

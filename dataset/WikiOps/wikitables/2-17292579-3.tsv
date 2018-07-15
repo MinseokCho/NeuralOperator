@@ -1,0 +1,86 @@
+Game	Date	Opponent	Result	Heat points	Opponents	Record	Streak
+1	November 4	Cleveland	Win	85	71	1-0	Won 1
+2	November 8	Houston	Win	89	82	2-0	Won 2
+3	November 10	New Jersey	Win	106	80	3-0	Won 3
+4	November 11	@ Orlando	Loss	93	94	3-1	Lost 1
+5	November 15	Indiana	Loss	97	103	3-2	Lost 2
+6	November 17	@ Atlanta	Win	91	88	4-2	Won 1
+7	November 18	Orlando	Win	93	90	5-2	Won 2
+8	November 22	Golden State	Win	103	93	6-2	Won 3
+9	November 24	@ Washington	Loss	94	110	6-3	Lost 1
+10	November 25	Vancouver	Win	111	91	7-3	Won 1
+11	November 28	Dallas	Win	111	89	8-3	Won 2
+12	November 30	@ Detroit	Win	118	107	9-3	Won 3
+13	December 1	Charlotte	Win	108	101	10-3	Won 4
+14	December 3	@ Toronto	Win	112	94	11-3	Won 5
+15	December 4	@ Boston	Loss	120	121	11-4	Lost 1
+16	December 6	Boston	Loss	101	105	11-5	Lost 2
+17	December 9	@ Phoenix	Win	94	92	12-5	Won 1
+18	December 10	@ Sacramento	Loss	90	110	12-6	Lost 1
+19	December 12	@ Golden State	Loss	80	105	12-7	Lost 2
+20	December 14	@ LA Clippers	Loss	84	89	12-8	Lost 3
+21	December 16	Utah	Loss	74	83	12-9	Lost 4
+22	December 19	@ New York	Loss	70	89	12-10	Lost 5
+23	December 20	@ New Jersey	Win	112	104	13-10	Won 1
+24	December 22	Detroit	Loss	75	84	13-11	Lost 1
+25	December 23	@ Charlotte	Loss	75	87	13-12	Lost 2
+26	December 26	New Jersey	Win	96	93	14-12	Won 1
+27	December 28	@ Indiana	Loss	77	91	14-13	Lost 1
+28	December 30	LA Clippers	Win	105	96	15-13	Won 1
+29	January 4	Seattle	Loss	81	84	15-14	Lost 1
+30	January 6	@ Denver	Win	88	86	16-14	Won 1
+31	January 8	@ Utah	Loss	92	94	16-15	Lost 1
+32	January 10	@ Portland	Loss	89	90	16-16	Lost 2
+33	January 12	@ Seattle	Loss	81	113	16-17	Lost 3
+34	January 13	@ Vancouver	Loss	65	69	16-18	Lost 4
+35	January 15	@ LA Lakers	Loss	88	96	16-19	Lost 5
+36	January 17	Washington	Win	96	89	17-19	Won 1
+37	January 19	Charlotte	Loss	106	114	17-20	Lost 1
+38	January 20	@ Atlanta	Loss	78	98	17-21	Lost 2
+39	January 22	San Antonio	Win	96	89	18-21	Won 1
+40	January 24	New York	Loss	79	88	18-22	Lost 1
+41	January 26	@ Chicago	Loss	80	102	18-23	Lost 2
+42	January 27	@ Cleveland	Win	102	85	19-23	Won 1
+43	January 29	@ New York	Loss	85	94	19-24	Lost 1
+44	January 30	Phoenix	Loss	99	114	19-25	Lost 2
+45	February 1	Philadelphia	Win	124	104	20-25	Won 1
+46	February 3	Boston	Loss	99	100	20-26	Lost 1
+47	February 5	Sacramento	Win	103	92	21-26	Won 1
+48	February 7	Atlanta	Win	101	89	22-26	Won 2
+49	February 13	Toronto	Loss	87	98	22-27	Lost 1
+50	February 15	Denver	Win	97	91	23-27	Won 1
+51	February 17	Orlando	Loss	93	95	23-28	Lost 1
+52	February 19	@ Cleveland	Loss	70	73	23-29	Lost 2
+53	February 21	@ Philadelphia	Win	66	57	24-29	Won 1
+54	February 23	Chicago	Win	113	104	25-29	Won 2
+55	February 25	Philadelphia	Win	108	101	26-29	Won 3
+56	February 27	@ New Jersey	Win	93	90	27-29	Won 4
+57	February 28	@ Orlando	Loss	112	116	27-30	Lost 1
+58	March 1	Portland	Loss	88	102	27-31	Lost 2
+59	March 3	@ Minnesota	Loss	87	89	27-32	Lost 3
+60	March 5	Minnesota	Win	113	72	28-32	Won 1
+61	March 8	Toronto	Win	109	79	29-32	Won 2
+62	March 10	Cleveland	Win	88	81	30-32	Won 3
+63	March 12	@ Dallas	Win	125	118	31-32	Won 4
+64	March 14	@ San Antonio	Loss	100	120	31-33	Lost 1
+65	March 16	@ Houston	Win	121	97	32-33	Won 1
+66	March 20	Detroit	Win	102	93	33-33	Won 2
+67	March 22	@ Milwaukee	Win	122	106	34-33	Won 3
+68	March 24	@ Boston	Win	111	95	35-33	Won 4
+69	March 27	LA Lakers	Loss	95	106	35-34	Lost 1
+70	March 29	Washington	Win	112	93	36-34	Won 1
+71	March 30	@ Detroit	Win	95	85	37-34	Won 2
+72	April 2	Chicago	Loss	92	110	37-35	Lost 1
+73	April 4	@ Chicago	Loss	92	100	37-36	Lost 2
+74	April 6	@ Indiana	Loss	95	99	37-37	Lost 3
+75	April 8	@ Washington	Loss	99	111	37-38	Lost 4
+76	April 10	@ Charlotte	Win	116	95	38-38	Won 1
+77	April 11	Milwaukee	Win	115	105	39-38	Won 2
+78	April 13	New York	Win	103	95	40-38	Won 3
+79	April 15	New Jersey	Win	110	90	41-38	Won 4
+80	April 17	@ Philadelphia	Loss	86	90	41-39	Lost 1
+81	April 19	@ Milwaukee	Win	106	100	42-39	Won 1
+82	April 21	Atlanta	Loss	92	104	42-40	Lost 1
+1	April 26 (First Round)	@ Chicago	Loss	85	102	0-1	Lost 1
+2	April 28 (First Round)	@ Chicago	Loss	75	106	0-2	Lost 2
+3	May 1 (First Round)	Chicago	Loss	91	112	0-3	Lost 3

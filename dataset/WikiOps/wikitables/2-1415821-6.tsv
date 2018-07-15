@@ -1,0 +1,12 @@
+Model	Engine	Displacement	Valvetrain	Fuel system	Max. power at rpm	Max. torque at rpm
+Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines	Diesel engines
+2.2 HDi1	Ford Puma	2,198 cc	DOHC 16v	Common rail direct fuel injection	PS (kW; hp) @ 3,500 rpm	N·m (lb·ft) @ 1,750 rpm
+2.2 HDi1	Ford Puma	2,198 cc	DOHC 16v	Common rail direct fuel injection	PS (kW; hp) @ 3,500 rpm	N·m (lb·ft) @ 2,000 rpm
+115 Multijet2	FPT Family B 250A1000	1,956 cc	DOHC 16v	Common rail direct fuel injection	PS (kW; hp) @ 3,700 rpm	N·m (lb·ft) @ 1,500 rpm
+130 Multijet2	Iveco F1AE6481D	2,287 cc	DOHC 16v	Common rail direct fuel injection	PS (kW; hp) @ 3,600 rpm	N·m (lb·ft) @ 1,800 rpm
+150 Multijet2	Iveco F1AE3481E	2,287 cc	DOHC 16v	Common rail direct fuel injection	PS (kW; hp) @ 3,600 rpm	N·m (lb·ft) @ 1,500 rpm
+180 Multijet Power/3.0 HDi	Iveco F1CE3481E	2,999 cc	DOHC 16v	Common rail direct fuel injection	PS (kW; hp) @ 3,500 rpm	N·m (lb·ft) @ 1,400 rpm
+CNG engines	CNG engines	CNG engines	CNG engines	CNG engines	CNG engines	CNG engines
+140 Natural Power	Iveco F1C	2,999 cc	DOHC 16v	MPI Indirect injection	PS (kW; hp) @ 2,700 rpm	N·m (lb·ft) @ 1,500 rpm
+Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines	Petrol engines
+3.6L Pentastar3	Chrysler Pentastar	3,604 cc	DOHC 24v VVT	Sequential Multiple-Port Fuel Injection	PS (kW; hp) @ 6,400 rpm	N·m (lb·ft) @ 4,400 rpm

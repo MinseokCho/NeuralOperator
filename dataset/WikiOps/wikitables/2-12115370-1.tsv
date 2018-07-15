@@ -1,0 +1,17 @@
+Format	Filename extension	Image support	Interactivity support	Word wrap support	Open standard
+DjVu	.djvu	Yes	No	No	Yes
+EPUB (IDPF)	.epub	Yes	Yes	Yes	yes
+FictionBook	.fb2	Yes	No	Yes	Yes
+HTML	.html	Yes	No	Yes	Yes
+Kindle	.azw	Yes	Yes	Yes	No
+Microsoft Reader	.lit	Yes	No	Yes	No
+Mobipocket	.prc, .mobi	Yes	Yes	Yes	No
+Multimedia EBook	.exe	Yes	Yes	No	Yes
+Newton Book	.pkg	Yes	Yes	Yes	Yes
+eReader	.pdb	Yes	No	Yes	No
+Plain text	.txt	No	No	Yes	Yes
+Plucker	.pdb	Yes	Yes	Yes	Yes
+Portable Document Format	.pdf	Yes	Yes	Yes Though not all readers implement support	Yes
+PostScript	.ps	Yes	No	No	Yes
+Tome Raider	.tr2, .tr3	Yes	No	Yes	No
+OpenXPS	.oxps, .xps	Yes	No	No	Yes

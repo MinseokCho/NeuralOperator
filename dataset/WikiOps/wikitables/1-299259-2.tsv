@@ -1,0 +1,9 @@
+-	Aureus	Quinarius Aureus	Denarius	Quinarius	Sestertius	Dupondius	As	Semis	Quadrans
+Aureus	1	2	25	50	100	200	400	800	1600
+Quinarius Aureus	1/2	1	121/2	25	50	100	200	400	800
+Denarius	1/25	2/25	1	2	4	8	16	32	64
+Quinarius Argenteus	1/50	1/25	1/2	1	2	4	8	16	32
+Sestertius	1/100	1/50	1/4	1/2	1	2	4	8	16
+Dupondius	1/200	1/100	1/8	1/4	1/2	1	2	4	8
+As	1/400	1/200	1/16	1/8	1/4	1/2	1	2	4
+Semis	1/800	1/400	1/32	1/16	1/8	1/4	1/2	1	2

@@ -1,0 +1,9 @@
+Parameter	1st stage	2nd stage	3rd stage	4th stage
+Gross mass	54,431kg	462kg	126kg	42kg
+Empty mass	5,443kg	231kg	63kg	21kg
+Thrust	667kN	73kN	20kN	7kN
+Isp	248 s (2.43kN·s/kg)	214 s (2.10kN·s/kg)	214 s (2.10kN·s/kg)	214 s (2.10kN·s/kg)
+Burn time	182 s	6 s	6 s	6 s
+Length	18.28 m	1.0 m	1.0 m	1.0 m
+Diameter	2.67 m	1.0 m	0.50 m	0.30 m
+Engine:	Rocketdyne S-3D	Eleven Sergents	Three Sergents	One Sergent

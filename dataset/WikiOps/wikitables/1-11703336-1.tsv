@@ -1,0 +1,7 @@
+Calculator	CPU	RAM	Display Size	Programming Languages	Link Abilities	Year Released	Predecessors	Successors
+TI-73/TI-73 Explorer	Zilog Z80 @ 6 MHz	25 KB of RAM, 512KB of Flash ROM	96×64 pixels 16×8 characters	TI-BASIC , Assembly (via Mallard), Flash Apps	I/O Port	1998/2003	TI-80	None
+TI-82	Zilog Z80 @ 6 MHz	28 KB of RAM	96×64 pixels 16×8 characters	TI-BASIC, Assembly (through modifications)	I/O Port	1993	TI-81	TI-83
+TI-83	Zilog Z80 @ 6 MHz	32 KB of RAM	96×64 pixels 16×8 characters	TI-BASIC, Assembly (built-in)	I/O Port	1996	TI-82	TI-83 Plus
+TI-85	Zilog Z80 @ 6 MHz	28 KB of RAM	128×64 pixels 21×8 characters	TI-BASIC, Assembly (through modifications)	I/O Port	1992	None	TI-86
+TI-86	Zilog Z80 @ 6 MHz	128 KiB of RAM	128×64 pixels 21×8 characters	TI-BASIC, Assembly (built-in)	I/O Port	1997	TI-85	None
+TI-92/TI-92 II	Motorola 68000 @ 10 MHz	68 KB of RAM/136 KB of RAM	240×128 pixels (not broken into character blocks)	TI-BASIC, Assembly (through modifications)	I/O Port	1995/1996	None	TI-89 , TI-92 Plus

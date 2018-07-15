@@ -1,0 +1,15 @@
+Name / Generation	Model	Frequency [MHz]	Architecture version	Cores	Process [nm]
+Godson-1 (embedded CPU)	1	266	MIPS32	1	180
+Godson-1 (embedded CPU)	1A	300	MIPS32	1	130
+Godson-1 (embedded CPU)	1B	200	MIPS32	1	130
+Godson-2 (singleCore)	2B	250	MIPS-III 64-bit	1	180
+Godson-2 (singleCore)	2C	450	MIPS-III 64-bit	1	180
+Godson-2 (singleCore)	STLS2E	1000	MIPS-III 64-bit	1	90
+Godson-2 (singleCore)	STLS2F	1200	MIPS-III 64-bit	1	90
+Godson-2 (singleCore)	L2G	900–1000	MIPS64	1	65
+Godson-2 (singleCore)	L2H?	1000	MIPS64	1	65
+Godson-3 (multiCore)	L3A/L2GQ	1000	MIPS64	4	65
+Godson-3 (multiCore)	L3B	1050	MIPS64	8	65
+Godson-3 (multiCore)	L3C?	1500+	MIPS64	16	28
+Godson-T (manyCore)	Godson-T	1000	MIPS32	64	28?
+Name / Generation	Model	Frequency [MHz]	Architecture version	Cores	Process [nm]

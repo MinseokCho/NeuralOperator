@@ -1,0 +1,24 @@
+Name	Raw bandwidth (Mbit/s)	Max. cable length (m)	Power provided	Devices per channel
+eSATA	3,000	2 with eSATA HBA (1 with passive adapter)	No	1 (15 with port multiplier )
+eSATAp	3,000	2 with eSATA HBA (1 with passive adapter)	5V/12V	1 (15 with port multiplier )
+SATA revision 3.0	6,000	1	No	1 (15 with port multiplier )
+SATA revision 2.0	3,000	1	No	1 (15 with port multiplier )
+SATA revision 1.0	1,500	1	No	1 per line
+PATA (IDE) 133	1,064	0.46 (18in)	5 V (44-pin for 2.5" drives no otherwise)	2
+SAS 600	6,000	10	No	1 (>65k with expanders)
+SAS 300	3,000	10	No	1 (>65k with expanders)
+SAS 150	1,500	10	No	1 (>65k with expanders)
+IEEE 1394 (FireWire) 3200	3,144	100 (more with special cables)	15W, 12–25V	63 (with hub)
+IEEE 1394 (FireWire) 800	786	100	15W, 12–25V	63 (with hub)
+IEEE 1394 (FireWire) 400	393	4.5	15W, 12–25V	63 (with hub)
+USB 3.1	10,000	3	4.5W, 5V	127 (with hub)
+USB 3.0 *	5,000	3	4.5W, 5V	127 (with hub)
+USB 2.0	480	5	2.5W, 5V	127 (with hub)
+USB 1.0	12	3	Yes	127 (with hub)
+SCSI Ultra-640	5,120	12	No	15 (plus the Host Bus Adapter/Host)
+SCSI Ultra-320	2,560	12	No	15 (plus the Host Bus Adapter/Host)
+Fibre Channel over optic fibre	10,520	2–50,000	No	126 (16,777,216 with switches)
+Fibre Channel over copper cable	4,000	12	No	126 (16,777,216 with switches)
+InfiniBand Quad Rate	10,000	5(copper) <10,000(fiber)	No	1 with point to point Many with switched fabric
+Thunderbolt	10,000	3 (copper)	10W	7
+Thunderbolt 2	10,000 × 2	3 (copper)	10W	7

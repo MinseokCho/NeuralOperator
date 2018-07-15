@@ -1,0 +1,11 @@
+Category	Type	Attribute	Bubbles	Cancelable
+Pointer	pointerdown	onpointerdown	Yes	Yes
+Pointer	pointerup	onpointerup	Yes	Yes
+Pointer	pointercancel	onpointercancel	Yes	Yes
+Pointer	pointermove	onpointermove	Yes	Yes
+Pointer	pointerover	onpointerover	Yes	Yes
+Pointer	pointerout	onpointerout	Yes	Yes
+Pointer	pointerenter	onpointerenter	No	Yes
+Pointer	pointerleave	onpointerleave	No	Yes
+Pointer	gotpointercapture	ongotpointercapture	Yes	No
+Pointer	lostpointercapture	onlostpointercapture	Yes	No

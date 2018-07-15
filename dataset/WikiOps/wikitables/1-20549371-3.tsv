@@ -1,0 +1,14 @@
+Vehicle	Model year	Type of powertrain	Operating mode	EPA rated Combined fuel economy	EPA rated City fuel economy	EPA rated Highway fuel economy	Cost to drive 25 miles	Annual fuel cost	Notes
+Chevrolet Spark EV	2014	Electric car	All-electric	119 mpg-e (28kW-hrs/100mi)	128 mpg-e	109 mpg-e	n.a.	$500	See (1)
+Honda Fit EV	2013	Electric car	All-electric	118 mpg-e (29kW-hrs/100mi)	132 mpg-e (26kW-hrs/100mi)	105 mpg-e (32kW-hrs/100mi)	$0.87	$500	See (1)
+Fiat 500e	2013	Electric car	All-electric	116 mpg-e (29kW-hrs/100mi)	122 mpg-e	108 mpg-e	$0.87	$500	See (1)
+Nissan Leaf	2013	Electric car	All-electric	115 mpg-e (29kW-hrs/100mi)	129 mpg-e	102 mpg-e	$0.87	$500	See (1)
+Mitsubishi i	2012-13	Electric car	All-electric	112 mpg-e (30kW-hrs/100mi)	126 mpg-e (27kW-hrs/100mi)	99 mpg-e (34kW-hrs/100mi)	$0.90	$550	See (1)
+Ford Focus Electric	2012-13	Electric car	All-electric	105 mpg-e (32kW-hrs/100mi)	110 mpg-e (31kW-hrs/100mi)	99 mpg-e (34kW-hrs/100mi)	$0.96	$600	See (1)
+BMW ActiveE	2011	Electric car	All-electric	102 mpg-e (33kW-hrs/100mi)	107 mpg-e	96 mpg-e	$0.99	$600	See (1)
+Nissan Leaf	2011-12	Electric car	All-electric	99 mpg-e (34kW-hrs/100mi)	106 mpg-e (32kW-hrs/100mi)	92 mpg-e (37kW-hrs/100mi)	$1.02	$600	See (1)
+Tesla Model S	2013	Electric car	All-electric	95 mpg-e (35kW-hrs/100mi)	94 mpg-e	97 mpg-e	$1.05	$650	See (1) Model with 60 kWh battery pack
+Tesla Model S	2012	Electric car	All-electric	89 mpg-e (38kW-hrs/100mi)	88 mpg-e (38kW-hrs/100mi)	90 mpg-e (37kW-hrs/100mi)	$1.14	$700	See (1) Model with 85 kWh battery pack
+Toyota RAV4 EV	2012	Electric SUV	All-electric	76 mpg-e (44kW-hrs/100mi)	78 mpg-e (43kW-hrs/100mi)	74 mpg-e (46kW-hrs/100mi)	$1.32	$850	See (1)
+Coda	2012-13	Electric car	All-electric	73 mpg-e (46kW-hrs/100mi)	77 mpg-e (44kW-hrs/100mi)	68 mpg-e (50kW-hrs/100mi)	$1.38	$850	See (1)
+BYD e6	2012	Electric car	All-electric	62 mpg-e (54kW-hrs/100mi)	60 mpg-e (56kW-hrs/100mi)	64 mpg-e (52kW-hrs/100mi)	$1.62	$950	See (1)

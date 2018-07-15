@@ -1,0 +1,6 @@
+Category	Type	Attribute	Description	Bubbles	Cancelable
+Input	input	oninput	Fires when a user enters text in a textbox.	Yes	No
+User interface	overflowchanged	onoverflowchanged	Fires when the overflow state changes.	No	No
+User interface	popuphidden	onpopuphidden	Fires to a popup after it has been hidden.	No	No
+User interface	popuphiding	onpopuphiding	Fires to a popup when it is about to be hidden.	No	No
+User interface	popupshowing	onpopupshowing	Fires to a popup just before it is popped open.	No	Yes

@@ -1,0 +1,14 @@
+Analog Channel	Digital Channel	Call sign	Name	Network
+None	4.1	KXJB-TV	KX4	CBS
+None	6.1 ( ATSC RF 21)	WDAY-TV	WDAY 6	ABC
+None	6.2	WDAY-TV	Fargo CW	The CW
+None	6.3	WDAY-TV	Storm Tracker	Weather
+None	11.1 ( ATSC RF 44)	KVLY-TV	KVLY TV 11	NBC
+None	11.2 ( ATSC RF 44)	KVLY-TV2	This TV	This TV
+None	13.1 ( ATSC RF 13)	KFME	Prairie Public	PBS
+None	13.2	KFME	World	PBS World
+None	13.3	KFME	Minnesota Channel	Minnesota Channel
+None	13.4	KFME	Lifelong Learning	Create
+None	15.1 ( ATSC RF 19)	KVRR	Fox	Fox
+33	None	KVNJ-LP	my KCPM	MyNetworkTV ( KCPM translator )
+35	None	K35HO	TBN	TBN

@@ -1,0 +1,9 @@
+Version	KINKA Developer	KINKA Pre-release	KINKA 1.0	KINKA 1.2	KINKA 1.3
+Part number	AP2660-02	AP2735-01	AP2777-01	820-0867-01	AP2777-01
+Chip labeling	16 flash ROM chips	341S0241 thru 245, 247, 248, 250	341S0251 thru 254	341S0297 thru 300	341S0328 thru 331
+Support FDD	Yes	Yes	Yes	Yes	Yes
+Support HDD	Yes	No*	No	Yes	Yes
+Support Zip 100	Yes	Yes	No	Yes	Yes
+Support MO 230	Yes	No	No	Yes	Yes
+Support PCI expansion adapter	No	No	No	No	Yes
+Notes	Programmable; unstable	Only 500 parts were shipped	Common ROM-BIOS (JP)	Common ROM-BIOS (US)	Authentication disabled

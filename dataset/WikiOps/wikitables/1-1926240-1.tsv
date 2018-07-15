@@ -1,0 +1,7 @@
+Standard	Color system	Informational CVBS Lines	Bit rate [ Mbit/s ]	Waveform	Bits per line (including run-in)	Max. Characters (per page row)
+A (France)	SECAM	7–18	6.203	squared Sine wave	320	35
+B (global)	NTSC	10–18	5.727	Symmetrical about 1/2 bit rate	296	32
+B (global)	PAL	7–18	6.938	Symmetrical about 1/2 bit rate	360	40
+C ( NABTS )	NTSC	10–18	5.727	Raised cosine 100% roll-off	288	31
+C ( NABTS )	PAL	10–18	5.734	Raised cosine 100% roll-off	288	31
+D (Japan)	NTSC	10–18	5.727	Controlled cosine roll-off of 0.6	296	32

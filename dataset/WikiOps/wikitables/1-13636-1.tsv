@@ -1,0 +1,7 @@
+Name	First operational	Numeral system	Computing mechanism	Programming	Turing complete
+Atanasoff–Berry Computer (US)	1942	Binary	Electronic	Not programmable—single purpose	No
+Colossus Mark 1 (UK)	February 1944	Binary	Electronic	Program-controlled by patch cables and switches	No
+Colossus Mark 2 (UK)	June 1944	Binary	Electronic	Program-controlled by patch cables and switches	In theory (2011)
+Zuse Z4 (Germany)	March 1945	Binary floating point	Electro-mechanical	Program-controlled by punched 35mm film stock	Yes
+ENIAC (US)	July 1946	Decimal	Electronic	Program-controlled by patch cables and switches	Yes
+EDSAC (UK)	May 1949	Binary	Electronic	Stored-program in mercury delay line memory	Yes

@@ -1,0 +1,7 @@
+Channel	Frequency	Power	Modulation	Erraor Protection mode	Guard	Data rate
+22	479,25 MHz	32 kW horizontal	16-QAM	2/3	1/4	13,27 Mbit/s (8k-Modus)
+32	559,25 MHz	32 kW horizontal	16-QAM	2/3	1/4	13,27 MBit/s (8k-Modus)
+29	535,25 MHz	32 kW horizontal	16-QAM	2/3	1/4	13,27 MBit/s (8k-Modus)
+49	687,25 MHz	50 kW horizontal	16-QAM	2/3	1/4	13,27 MBit/s (8k-Modus)
+42	639,25 MHz	50 kW horizontal	16-QAM	2/3	1/4	13,27 MBit/s (8k-Modus)
+45	663,25 MHz	20 kW horizontal	16-QAM	2/3	1/4	13,27 MBit/s (8k-Modus)

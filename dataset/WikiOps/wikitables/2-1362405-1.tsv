@@ -1,0 +1,15 @@
+Designation	Type	Length overall	Launch weight	Warhead weight	Range
+S-8KO	HEAT	1.57 m	11.3kg	3.6kg (0.9kg of explosive)	1.3 to 4km
+S-8KOM	HEAT	1.57 m	11.3kg	3.6kg (0.9kg of explosive)	1.3 to 4km
+S-8B	Penetrating	1.5 m	15.2kg	7.41kg (0.6kg of explosive)	1.2 to 2.2km
+S-8BM	Penetrating	1.54 m	15.2kg	7.41kg (0.6kg of explosive)	1.2 to 2.2km
+S-8D	FAE	1.66 m	11.6kg	3.8kg (2.15kg of explosive)	1.3 to 3km
+S-8DM	FAE	1.7 m	11.6kg	3.8kg (2.15kg of explosive)	1.3 to 3km
+S-8DF	FAE	1.68 m	13.4kg	5.5kg (3.3kg of explosive)	1.3 to 4km
+S-8 O	Illuminating	1.63 m	12.1kg	4.3kg	4 to 4.5km
+S-8 OM	Illuminating	1.63 m	12.1kg	4.3kg	4 to 4.5km
+S-8T	Tandem-HEAT	1.7 m	13kg	6.6kg (1.6kg of explosive)	1.3 to 4km
+S-8P	Chaff	1.63 m	12.3kg	4.5kg of chaff	2 to 3km
+S-8PM	Chaff	1.63 m	12.3kg	4.5kg of chaff	2 to 3km
+S-8S	Flechette	1.612 m	13kg	4.3kg	1.2 to 3.5km
+S-8TsM	Target marking	1.605 m	11.1kg	3.6kg	1.3 to 2km (heli) 1.3 to 3km (plane)

@@ -1,0 +1,6 @@
+Type	Sign	Exponent	Significand	Total bits	Exponent bias	Bits precision	Number of decimal digits
+Half ( IEEE 754-2008 )	1	5	10	16	15	11	~3.3
+Single	1	8	23	32	127	24	~7.2
+Double	1	11	52	64	1023	53	~15.9
+Double extended (80-bit)	1	15	64	80	16383	64	~19.2
+Quad	1	15	112	128	16383	113	~34.0

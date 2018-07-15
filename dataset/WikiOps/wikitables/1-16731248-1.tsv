@@ -1,0 +1,22 @@
+Engine	Exhaust Ports	Bypass Ports	Bypass Boosters	SPI	Tapered Grind	Number on cyl.
+Space Bug	Open	2	0	Yes	Yes	None
+Thermal Hopper	Open	2	0	Yes	Yes	None
+Space Bug Jnr	Open	1	0	Yes	Yes	None
+Space Hopper	Open	2	0, 2 side flutes in 1961	Yes	Yes	None, #4 on 1961 models
+Strato Bug	Open	2	0	Yes	Yes	None
+Product Engine	Open	1	0	Yes	Yes, No after Leisure	2
+SureStart	Slit	2	1	No	No	None
+Babe Bee	Open	1	0	Yes	Yes, No after Leisure	2
+Golden Bee	Open	1	0	Yes	Yes, No after Leisure	2
+Black Widow pre 96	Open	2	0	Yes	No	1
+Black Widow post 96	Slit	2	1	No	No	None
+Texaco	Slit	2	1	No	No	None
+QRC pre 96	Open	2	0	No	No	6
+QRC post 96	Slit	2	0	No	No	None
+Killer Bee ‘96	Slit	2	1	Yes	Yes 1	None
+Killer Bee ‘02	Slit	2	1	No	No	None
+Venom	Open	2	1	Yes	Yes 1	None
+Medallion pre 96	Open	2	0	Yes	No	1
+Medallion post 96	Slit	2	0	No	No	None
+Medallion 051	Slit	2	1	No	No	7
+Tee Dee 049	Open	2	2	Yes	Yes 2	4

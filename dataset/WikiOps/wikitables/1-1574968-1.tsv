@@ -1,0 +1,20 @@
+Language	Creator	First public release date	Editor	Viewer
+Computable Document Format	Wolfram Research	2010	Mathematica	CDF Player
+Darwin Information Typing Architecture (DITA)	IBM, OASIS	2005	Text / XML editor	Output to HTML , PDF , CHM , javadoc , others.
+DocBook	The Davenport Group, OASIS	1992	XML editor	Output to HTML , PDF , CHM , javadoc , others.
+Encoded Archival Description (EAD)	Berkeley Project	1998	Text editor	Web browser
+Extensible HyperText Markup Language (XHTML)	W3C	2000 (January 26)	Text / XML editor , HTML editor	Web browser
+HyperText Markup Language (HTML)	Tim Berners-Lee	1993	Text editor , HTML editor	Web browser
+LilyPond	Han-Wen Nienhuys , Jan Nieuwenhuizen	1996	Text editor , Scorewriter	Output to DVI , PDF , PostScript , PNG , others.
+Maker Interchange Format (MIF)	Frame Technology acquired by Adobe Systems in 1995	1986	Text editor , FrameMaker	FrameMaker
+Math Markup Language (MathML)	W3C	1999 (July)	Text / XML editor , TeX converter	Web browser , Word processor
+Music Extensible Markup Language (MusicXML)	Recordare	2002	Scorewriter	Scorewriter
+Office Open XML (OOXML)	Ecma International , ISO / IEC	2006	Office suite	Office suite
+OpenDocument Format (ODF)	OASIS , ISO / IEC	2005	Office suite	Office suite
+Open Mathematical Documents (OMDoc)	Michael Kohlhase	2000	Text / XML editor	Output to XHTML + MathML , TeX , others.
+Rich Text Format (RTF)	Microsoft	1987	Text editor , Word processor	Word processor
+Scalable Vector Graphics (SVG)	W3C	2004	Vector graphics editor	Web browser , etc.
+Script	IBM	1968	Text editor	GDDM, AFP viewer
+TeX	Donald Knuth	1978	Text editor	DVI or Portable Document Format (PDF) converter
+troff (typesetter runoff) , groff (GNU runoff)	Joe Ossanna	1973	Text editor	groffer, or output to PostScript
+Wireless Markup Language (WML)	WAP Forum	1999	Text / XML editor	Microbrowser

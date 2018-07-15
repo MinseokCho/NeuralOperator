@@ -1,0 +1,24 @@
+Fieldbus	Bus power	Cabling redundancy	Synchronisation	Sub millisecond cycle
+AFDX	No	Yes	No	Unknown
+AS-Interface	Yes	No	No	No
+CANopen	No	No	Yes	No
+CompoNet	Yes	No	No	Yes
+ControlNet	No	Yes	No	No
+CC-Link	No	No	No	No
+DeviceNet	Yes	No	No	No
+EtherCAT	No	Yes	Yes	Yes
+Ethernet Powerlink	No	Optional	Yes	Yes
+EtherNet/IP	No	Optional	Yes	No
+Interbus	No	No	No	No
+LonWorks	No	No	No	No
+Modbus	No	No	No	No
+PROFIBUS DP	No	Optional	Yes	No
+PROFIBUS PA	Yes	No	No	No
+PROFINET IO	No	Optional	No	No
+PROFINET IRT	No	Optional	Yes	Yes
+SERCOS III	No	Yes	Yes	Yes
+SERCOS interface	No	No	Yes	Yes
+Foundation Fieldbus H1	Yes	No	Yes	No
+Foundation Fieldbus HSE	No	Yes	Yes	No
+RAPIEnet	No	Yes	Under Development	Conditional
+Fieldbus	Bus power	Cabling redundancy	Synchronisation	Sub millisecond cycle

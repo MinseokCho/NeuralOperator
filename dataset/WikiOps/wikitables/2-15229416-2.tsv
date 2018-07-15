@@ -1,0 +1,12 @@
+common name	protein name	divergence from human lineage (MYA)	accession number	sequence length (aa)	sequence identity to human protein
+gorilla	protein SOGA2	8.8	XP_004059220.1	1586	99%
+baboon	protein SOGA2	29	XP_003914218	1587	98%
+galago	protein SOGA3	74	XP_003801047.1	1583	88%
+rat	CCDC165	92.3	XP_237548.6	2060	81%
+mouse	SOGA2	92.3	NP_001107570.1	1893	80%
+house cat	protein SOGA2	94.2	XP_003995077.1	1700	84%
+cow	CCDC166	94.2	XP_581047.5	1525	74%
+African Elephant	CCDC167-like	98.7	XP_003406836.1	1544	73%
+zebra Finch	protein SOGA2	296	XP_002193121.1	1598	69%
+Red JungleFowl	CCDC165	296	XP_423729.3	1600	70%
+Carolina anole	uncharacterized protein KIAA0802-like	296	XP_003225723.1	1839	67%

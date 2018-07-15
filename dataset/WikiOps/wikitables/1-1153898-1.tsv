@@ -1,0 +1,8 @@
+Comparisons	Hub Base Class	Emulated Class	Semi-DDM Class	DDM Class
+USB RE-Enumeration Required	Required on every switch of port	NO, only for keyboard/mouse	NO, for all USB-HID devices	NO, for all USB-HID devices
+Supports Hot-Key Command	NO	Yes, only on dedicated keyboard port	Yes, all the console Semi-DDM ports	Yes, all the console DDM ports
+Supports Special Keyboard and Mouse functions	Limited*	NO, only acts as standard keyboard/mouse	Yes	Yes
+Wireless Combo keyboard and mouse support	Limited*	NO	Yes*	Yes
+USB-HID device (other than keyboard/mouse) support	Limited*	NO	Yes*	Yes
+USB Touchscreen Sharing Support	Limited*	NO	Yes*	Yes
+Drawing Tablet Support	Limited*	NO	Yes*	Yes

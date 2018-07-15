@@ -1,0 +1,9 @@
+Shortscale comparison	Chuquet	Peletier	Systematics	Base 10	SI Prefix
+unit	unit	unit	Million 0	10 0	(none)
+thousand	thousand	thousand	Million 0.5	10 3	k (kilo)
+Million	Million	Million	Million 1	10 6	M (mega)
+Billion	thousand million	Milliard	Million 1.5	10 9	G (giga)
+Trillion	Billion	Bi llion	Million 2	10 12	T (tera)
+Quadrillion	thousand billion	Billiard	Million 2.5	10 15	P (peta)
+Quintillion	Trillion	Tri llion	Million 3	10 18	E (exa)
+Sextillion	thousand trillion	Trilliard	Million 3.5	10 21	Z (zetta)

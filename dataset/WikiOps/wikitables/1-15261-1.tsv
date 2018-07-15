@@ -1,0 +1,13 @@
+Processor Speed (MHz)	Input Clock (MHz)	Voltage Center (V)	Voltage Range (V)	Part Number	Clock Multiplier	S-Spec Number
+75	25 X 3	3.3	3.1 - 3.6	FC80486DX4-75	3X mode only	SK052, SX883
+100	33 X 3	3.3, 3.45	3.1 - 3.6	FC80486DX4-100	3X mode only	SX906
+100	33 X 3 / 50 X 2	3.45	3.3 - 3.6	FC80486DX4-100	3X or 2X mode	SX876
+100	33 X 3 / 50 X 2	3.3, 3.45	3.1 - 3.6	FC80486DX4-100	3X or 2X mode	SK053
+75	25 X 3	3.3	3.1 - 3.6	A80486DX4-75	3X mode only	SK047, SX884
+100	33 X 3	3.45	3.3 - 3.6	A80486DX4-100	3X mode only	SK051, SX900
+100	33 X 3 / 50 X 2	3.45	3.3 - 3.6	A80486DX4-100	3X or 2X mode	SX877
+100	33 X 3 / 50 X 2	3.3	3.1 - 3.6	A80486DX4-100	3X or 2X mode	SK050
+100	33 X 3	3.45	3.3 - 3.6	A80486DX4WB-100	3X mode only	SK096
+100	33 X 3 / 50 X 2	3.3	3.1 - 3.6	A80486DX4WB-100	3X or 2X mode	Limited availability
+75	25 X 3	3.3	3.1 - 3.5	A80486DX4WB-75	3X mode only	SK102
+100	33 X 3 / 50 X 2	3.3	3.1 - 3.6	FC80486DX4WB-100	3X or 2X mode	SK099

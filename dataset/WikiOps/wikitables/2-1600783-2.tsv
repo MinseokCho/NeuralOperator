@@ -1,0 +1,11 @@
+Rank	City	Airport	Passengers	Carriers
+1	New York, NY	JFK	145,000	JetBlue Airways
+2	Philadelphia, PA	PHL	90,000	US Airways
+3	Newark, NJ	EWR	70,000	United Airlines
+4	Chicago, IL	ORD	69,000	United Airlines
+5	Detroit, MI	DTW	54,000	Delta Air Lines
+6	Washington, DC (National)	DCA	52,000	US Airways
+7	Washington, DC (Dulles)	IAD	51,000	United Airlines
+8	New York, NY	LGA	49,000	Delta Air Lines, US Airways
+9	Orlando, FL	MCO	31,000	JetBlue Airways
+10	Cleveland, OH	CLE	12,000	United Airlines

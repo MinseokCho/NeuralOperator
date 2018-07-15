@@ -1,0 +1,47 @@
+No	City district (Stadtteil)	Area in km²	Population	Foreign nationals	Foreign nationals in %	Area district (Ortsbezirk)
+0 1	Altstadt	0,51 km²	3.475	1.122	32,3%	01 – Innenstadt 1
+0 2	Innenstadt	1,52 km²	6.577	2.529	38,5%	01 – Innenstadt 1
+0 3	Bahnhofsviertel	0,53 km²	2.125	810	38,1%	01 – Innenstadt 1
+0 4	Westend-Süd	2,47 km²	17.288	3.445	19,9%	02 – Innenstadt 2
+0 5	Westend-Nord	1,67 km²	8.854	2.184	24,7%	02 – Innenstadt 2
+0 6	Nordend-West	3,07 km²	28.808	5.162	17,9%	03 – Innenstadt 3
+0 7	Nordend-Ost	1,69 km²	26.619	5.580	21,0%	03 – Innenstadt 3
+0 8	Ostend	5,40 km²	26.955	7.213	26,8%	04 – Innenstadt 4
+0 9	Bornheim	2,66 km²	27.184	6.240	23,0%	04 – Innenstadt 4
+10	Gutleutviertel	2,20 km²	5.843	1.953	33,4%	01 – Innenstadt 1
+11	Gallus	4,22 km²	26.716	11.012	41,2%	01 – Innenstadt 1
+12	Bockenheim	8,04 km²	34.740	9.034	26,0%	02 – Innenstadt 2
+13	Sachsenhausen-Nord	4,24 km²	30.374	6.507	21,4%	05 – Süd
+14	Sachsenhausen-Süd	34,91 km²	26.114	4.847	18,6%	05 – Süd
+15	Flughafen	20,00 km²	211	14	6,6%	05 – Süd
+16	Oberrad	2,74 km²	12.828	3.113	24,3%	05 – Süd
+17	Niederrad	2,93 km²	22.954	6.569	28,6%	05 – Süd
+18	Schwanheim	17,73 km²	20.162	3.532	17,5%	06 – West
+19	Griesheim	4,90 km²	22.648	8.029	35,5%	06 – West
+20	Rödelheim	5,15 km²	17.841	4.863	27,3%	07 – Mitte-West
+21	Hausen	1,26 km²	7.178	2.135	29,7%	07 – Mitte-West
+22/23	Praunheim	4,55 km²	15.761	3.197	20,3%	07 – Mitte-West
+24	Heddernheim	2,49 km²	16.443	3.194	19,4%	08 – Nord-West
+25	Niederursel	7,22 km²	16.394	3.671	22,4%	08 – Nord-West
+26	Ginnheim	2,73 km²	16.444	4.024	24,5%	09 – Mitte-Nord
+27	Dornbusch	2,38 km²	18.511	3.482	18,8%	09 – Mitte-Nord
+28	Eschersheim	3,34 km²	14.808	2.657	17,9%	09 – Mitte-Nord
+29	Eckenheim	2,23 km²	14.277	3.674	25,7%	10 – Nord-Ost
+30	Preungesheim	3,74 km²	13.568	3.442	25,4%	10 – Nord-Ost
+31	Bonames	1,24 km²	6.362	1.288	20,2%	10 – Nord-Ost
+32	Berkersheim	3,18 km²	3.400	592	17,4%	10 – Nord-Ost
+33	Riederwald	1,04 km²	4.911	1.142	23,3%	11 – Ost
+34	Seckbach	8,04 km²	10.194	1.969	19,3%	11 – Ost
+35	Fechenheim	7,18 km²	16.061	5.635	35,1%	11 – Ost
+36	Höchst	4,73 km²	13.888	5.279	38,0%	06 – West
+37	Nied	3,82 km²	17.829	5.224	29,3%	06 – West
+38	Sindlingen	3,98 km²	9.032	2.076	23,0%	06 – West
+39	Zeilsheim	5,47 km²	11.984	2.555	21,3%	06 – West
+40	Unterliederbach	5,85 km²	14.350	3.511	24,5%	06 – West
+41	Sossenheim	5,97 km²	15.853	4.235	26,7%	06 – West
+42	Nieder-Erlenbach	8,34 km²	4.629	496	10,7%	13 – Nieder-Erlenbach
+43	Kalbach-Riedberg	6,90 km²	8.482	1.279	15,1%	12 – Kalbach-Riedberg
+44	Harheim	5,02 km²	4.294	446	10,4%	14 – Harheim
+45	Nieder-Eschbach	6,35 km²	11.499	1.978	17,2%	15 – Nieder-Eschbach
+46	Bergen-Enkheim	12,54 km²	17.954	2.764	15,4%	16 – Bergen-Enkheim
+47	Frankfurter Berg	2,16 km²	7.149	1.715	24,0%	10 – Nord-Ost

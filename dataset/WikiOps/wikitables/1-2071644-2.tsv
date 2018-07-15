@@ -1,0 +1,8 @@
+Type	Beam height (mm)	Flange width (mm)	Web thickness (mm)	Flange thickness (mm)	Weight (kg/m)	Cross-section area (cm 2 )	Moment of inertia in torsion (J) (cm 4 )
+HE 100 A	96	100	5	8	16.7	21.2	5.24
+HE 120 A	114	120	5	8	19.9	25.3	5.99
+HE 140 A	133	140	5.5	8.5	24,7	31.4	8.13
+HE 160 A	152	160	6	9	30.4	38.8	12.19
+HE 1000 × 415	1020	304	26	46	415	528.7	2714
+HE 1000 × 438	1026	305	26.9	49	437	557.2	3200
+HE 1000 × 494	1036	309	31	54	494	629.1	4433

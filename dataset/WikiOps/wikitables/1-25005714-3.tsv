@@ -1,0 +1,24 @@
+Model	Launch	Model Number	Code name	Fab ( nm )	Bus interface	Memory ( MiB )	Core clock ( MHz )	Memory clock ( MHz )	Config core 1	Pixel ( GP /s)	Texture ( GT /s)	Bandwidth ( GB /s)	Bus type	Bus width ( bit )	DirectX	OpenGL	Processing Power GFLOPs	TDP (Watts)GPU only	Features
+Radeon HD 6330M	November 26, 2010	Robson LP	Cedar	40	PCIe 2.1 x16	up to 1024	500	800	80:8:4	2.0	4.0	12.8	DDR3	64	11	4.2	80	7	UVD2.2, PowerPlay
+Radeon HD 6350M	November 26, 2010	Robson Pro	Cedar	40	PCIe 2.1 x16	up to 1024	500 500	800 900	80:8:4	2.0	4.0	12.8 14.4	DDR3	64	11	4.2	80	7	UVD2.2, PowerPlay
+Radeon HD 6370M	November 26, 2010	Robson XT	Cedar	40	PCIe 2.1 x16	1024	750	900	80:8:4	3.0	6.0	14.4	DDR3	64	11	4.2	120	11	UVD2.2, PowerPlay
+Radeon HD 6430M	January 4, 2011	Seymour LP	Caicos	40	PCIe 2.1 x16	1024	480	800	160:8:4	1.92	3.84	12.8	DDR3	64	11	4.2	153.6	Unknown	UVD3.0, PowerPlay
+Radeon HD 6450M	January 4, 2011	Seymour Pro	Caicos	40	PCIe 2.1 x16	1024	600	800	160:8:4	2.4	4.8	12.8	DDR3	64	11	4.2	192	Unknown	UVD3.0, PowerPlay
+Radeon HD 6470M	January 4, 2011	Seymour XT	Caicos	40	PCIe 2.1 x16	1024	700 750	800 800	160:8:4	2.8 3.0	5.6 6.0	12.8	DDR3	64	11	4.2	224 240	Unknown	UVD3.0, PowerPlay
+Radeon HD 6490M	January 4, 2011	Seymour XT	Caicos	40	PCIe 2.1 x16	512	800	800	160:8:4	3.2	6.4	25.6	GDDR5	64	11	4.2	256	Unknown	UVD3.0, PowerPlay
+Radeon HD 6530M	November 26, 2010	Capilano Pro	Redwood	40	PCIe 2.1 x16	1024	500	900	400:20:8	4.0	10.0	28.8	DDR3	128	11	4.2	400	26	UVD2.2, PowerPlay
+Radeon HD 6550M	November 26, 2010	Capilano Pro	Redwood	40	PCIe 2.1 x16	1024	600	900	400:20:8	4.8	12.0	28.8	DDR3	128	11	4.2	480	26	UVD2.2, PowerPlay
+Radeon HD 6570M	November 26, 2010	Capilano XT	Redwood	40	PCIe 2.1 x16	1024	650	900	400:20:8	5.2	13.0	28.8 57.6	DDR3 GDDR5	128	11	4.2	520	30	UVD2.2, PowerPlay
+Radeon HD 6630M	January 4, 2011	Whistler LP	Turks	40	PCIe 2.1 x16	256(mac) 1024	485	800	480:24:8	3.88	11.64	51.2 (mac) 25.6	GDDR5(mac) DDR3	128	11	4.2	465.6	Unknown	UVD3.0, PowerPlay
+Radeon HD 6650M	January 4, 2011	Whistler Pro	Turks	40	PCIe 2.1 x16	1024	600	900	480:24:8	4.8	14.4	28.8	DDR3	128	11	4.2	576	Unknown	UVD3.0, PowerPlay
+Radeon HD 6730M	January 4, 2011	Whistler XT	Turks	40	PCIe 2.1 x16	1024	725	800	480:24:8	5.8	17.4	25.6	DDR3	128	11	4.2	696	Unknown	UVD3.0, PowerPlay
+Radeon HD 6750M	January 4, 2011	Whistler Pro	Turks	40	PCIe 2.1 x16	256 512 1024	600	800 900	480:24:8	4.8	14.4	51.2 57.6	GDDR5	128	11	4.2	576	Unknown	UVD3.0, PowerPlay
+Radeon HD 6770M	January 4, 2011	Whistler XT	Turks	40	PCIe 2.1 x16	1024	725	900	480:24:8	5.8	17.4	57.6	GDDR5	128	11	4.2	696	Unknown	UVD3.0, PowerPlay
+Radeon HD 6830M	January 4, 2011	Granville Pro	Juniper	40	PCIe x16 2.1	up to 2048	575	800	800:40:16	9.2	23.0	25.6	DDR3	128	11	4.2	920	39	UVD2.2, PowerPlay
+Radeon HD 6850M	January 4, 2011	Granville XT	Juniper	40	PCIe x16 2.1	up to 2048	675	800	800:40:16	10.8	27.0	25.6	DDR3	128	11	4.2	1080	50	UVD2.2, PowerPlay
+Radeon HD 6850M	January 4, 2011	Granville Pro	Juniper	40	PCIe x16 2.1	1024	575	800	800:40:16	9.2	23.0	57.6	GDDR5	128	11	4.2	920	39	UVD2.2, PowerPlay
+Radeon HD 6870M	January 4, 2011	Granville XT	Juniper	40	PCIe x16 2.1	1024	675	1000	800:40:16	10.8	27	64	GDDR5	128	11	4.2	1080	50	UVD2.2, PowerPlay
+Radeon HD 6950M	January 4, 2011	Blackcomb Pro	Barts	40	PCIe 2.1 x16	up to 2048	580	900	960:48:32	18.56	27.84	115.2	GDDR5	256	11	4.2	1113.6	50	UVD3.0, PowerPlay
+Radeon HD 6970M	January 4, 2011	Blackcomb XT	Barts	40	PCIe 2.1 x16	up to 2048	680	900	960:48:32	21.76	32.64	115.2	GDDR5	256	11	4.2	1305.6	75	UVD3.0, PowerPlay
+Radeon HD 6990M	July 12, 2011	Blackcomb XTX	Barts	40	PCIe 2.1 x16	2048	715	900	1120:56:32	22.88	40.04	115.2	GDDR5	256	11	4.2	1601.6	75	UVD3.0, PowerPlay
+Model	Launch	Model Number	Code name	Fab ( nm )	Bus interface	Memory ( MiB )	Core clock ( MHz )	Memory clock ( MHz )	Config core 1	Fillrate	Fillrate	Memory	Memory	Memory	API compliance (version)	API compliance (version)	Processing Power GFLOPs	TDP (Watts)	Features

@@ -1,0 +1,36 @@
+Name	Availability	DMS/D2A Compatible	D2B Compatible	D2C Compatible	D2C2 Compatible	D2E Compatible	D3 Compatible	D3-2 / D4 Compatible
+Argon/InFeCtuS	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+Argon2	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+Chiip	Yes	Yes	Yes	No	No	No	No	No
+CycloWiz	No	Yes	No	No	No	No	No	No
+FlatMii	Yes	Yes	Yes	Yes	Yes	Yes	Yes	USB only
+FlatMod	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No
+D2Sun	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+SunKey	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No
+SunDriver	Yes	Yes	Yes	Yes	Yes	Yes	Yes	IDE / CompactFlash or SATA interface
+OpenWii	No	Yes	Yes	No	No	No	No	No
+Wasabi DX	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No
+Wasabi V1	No	Yes	Yes	Yes	No	No	No	No
+Wasabi V2	No	Yes	Yes	Yes	Yes	Needs an update	No	No
+Wasabi V3	No	Yes	Yes	Yes	Yes	Yes	No	No
+Wasabi Zero	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+Wi-ic	No	Yes	Yes	No	No	No	No	No
+Wii-Boss	No	Yes	Yes	No	No	No	No	No
+WiiD	No	Yes	Yes	No	No	No	No	No
+WiiFree	No	Yes	Yes	No	No	No	No	No
+WiiJii	No	Yes	Yes	No	No	No	No	No
+WiiKey	Yes	Yes	Yes	No	No	No	No	No
+D2CKey	No	No	No	Yes	No	No	No	No
+D2Pro	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+D2Lite	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+WiiKey 2	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+DriveKey	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No
+WiiKey Fusion	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Via SD card
+Wiinja	No	Yes	Yes	No	No	No	No	No
+Wiip	No	Yes	Yes	No	No	No	No	No
+Wiip2	No	Yes	Yes	No	No	No	No	No
+WiiRez	No	Yes	Yes	No	No	No	No	No
+WODE Jukebox	Yes	Yes	Yes	Yes	Yes	Yes	Yes	With a USB hard drive
+YAOSM	No	Yes	Yes	No	No	No	No	No
+Yowii	No	Yes	Yes	No	No	No	No	No
+SureFire	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes
