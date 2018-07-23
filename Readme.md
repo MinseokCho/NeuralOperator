@@ -8,7 +8,6 @@ dataset
 
 Dataset Link
 ------------
-https://drive.google.com/drive/folders/1KblLjpVdxoL_haORmjJ2wmwUfPSllOzx?usp=sharing
 
 Dataset Format
 --------------
