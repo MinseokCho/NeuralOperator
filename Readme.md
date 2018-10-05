@@ -11,15 +11,22 @@ Dataset Link
 ------------
 https://drive.google.com/drive/folders/1qkxAEee0_Wm_2ohpbRYk_nvndiMBjEOp
 
-Dataset Format
+Dataset Info
 --------------
 * Question data
 	* Files  
 		train_set.txt, dev_set.txt, test_set.txt (Tab-separated)  
 	* Format  
-		"table file name"	"operation"	"condition"	"question"	"operand information"	"answer"  
+		"table ID"	"operation"	"condition"	"question"	"operand information"	"answer"  
 	* Notes  
-		If an instance has more than one value, it is separated by ';'  
+		If an instance has more than one value, it is separated by ';'.  
 		If there is no correct answer, "operand information" and "answer" are '-'.  
 
-*
+* Tables
+	* json  
+		* They are files of **WikiSQL**. Refer to its github page.
+	* tsv  
+		* filename.tsv / filename is the same as table ID.
+		* tap-separated
+		* First line is column headers in the table.
+		
